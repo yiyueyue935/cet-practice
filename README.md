@@ -9,9 +9,14 @@
 
 所有学习记录只存在浏览器 localStorage，AI 功能由你自己配置的 OpenAI 兼容接口提供。
 
-> **关于题库**：仓库自带的是**原创模拟题**（四级 4 套 + 六级 4 套阅读，四级 2 套 + 六级 2 套听力），
-> 不含任何真题原文、官方范文、出版社解析或考试录音 —— 那些都有版权。
-> 想用自己手上的材料，按 [`docs/BANK-FORMAT.md`](docs/BANK-FORMAT.md) 放进去即可。
+> **这个仓库是刷题工具，不是题库。**
+> 代码全部开源；内容只放**原创模拟题**（四级/六级各 4 套阅读 + 2 套听力），
+> **不含**任何真题原文、听力原文、官方范文、出版社解析或考试录音 —— 那些都受著作权保护，
+> 随仓库分发属于侵权。想用自己手上的材料，按 [`docs/BANK-FORMAT.md`](docs/BANK-FORMAT.md)
+> 放到本地 `private/`，`npm run use-private` 即可，仓库里不存放。
+>
+> 这条线由 `npm run check-content` 在每次提交与 CI 里强制检查，
+> 完整说明见 [`docs/CONTENT-POLICY.md`](docs/CONTENT-POLICY.md)。
 
 ---
 
@@ -57,12 +62,14 @@ app/                     可直接部署的静态站点（PWA）
 scripts/
   build_bundles.js       由套卷 JSON 生成 index.json / bank.js / listening.js / audio.js
   validate_bank.js       题库校验（结构 / 编号 / 答案唯一性 / 篇幅 / 范文与译文）
+  check_content.js       内容边界检查（不许有真题 / 录音 / 扫描件）
   smoke_test_cet.js      jsdom 端到端冒烟测试
   build_single_html.js   打成一个可双击的单文件 HTML
   serve.js               本地静态服务器
   sync_apk_assets.js     app/ → Capacitor 工程
   build_apk.bat          Gradle 构建入口
 docs/
+  CONTENT-POLICY.md      内容边界：代码开源，真题不进仓库
   BANK-FORMAT.md         题库 JSON 格式（想放自己的题看这个）
   BUILD-APK.md           打包 Android APK
   ARCHITECTURE.md        模块分工与几个关键实现
@@ -106,7 +113,7 @@ npm test
 jsdom 冒烟覆盖：题库加载与场次分组、三题型作答与判分、吸顶卡与题号跳转、点词查义、
 错题与生词流转、AI JSON 容错、作文/翻译渲染、离线评分、听力播放器与满分断言、导入导出。
 
-`npm run check` = 重建产物 + 校验题库 + 跑冒烟，CI 里就是这条。
+`npm run check` = 重建产物 + 内容边界检查 + 校验题库 + 跑冒烟，CI 里就是这条。
 
 ## 打包 APK
 

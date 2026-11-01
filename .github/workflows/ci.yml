@@ -30,6 +30,9 @@ jobs:
       - name: 产物应与提交一致（生成文件被手改过会在这里失败）
         run: git diff --exit-code
 
+      - name: 内容边界（不许有真题 / 录音 / 扫描件）
+        run: npm run check-content
+
       - name: 校验题库
         run: npm run validate
 

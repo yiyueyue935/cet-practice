@@ -8,10 +8,11 @@
     "serve": "node scripts/serve.js",
     "build": "node scripts/build_bundles.js",
     "validate": "node scripts/validate_bank.js",
+    "check-content": "node scripts/check_content.js",
     "test": "node scripts/smoke_test_cet.js",
     "single": "node scripts/build_single_html.js",
     "use-private": "node scripts/use_private_bank.js",
-    "check": "npm run build && npm run validate && npm test"
+    "check": "npm run build && npm run check-content && npm run validate && npm test"
   },
   "devDependencies": {
     "jsdom": "^24.1.3"
