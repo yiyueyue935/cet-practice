@@ -70,6 +70,7 @@ scripts/
   build_apk.bat          Gradle 构建入口
 docs/
   CONTENT-POLICY.md      内容边界：代码开源，真题不进仓库
+  PUBLISH.md             发布到 GitHub 的步骤与红线
   BANK-FORMAT.md         题库 JSON 格式（想放自己的题看这个）
   BUILD-APK.md           打包 Android APK
   ARCHITECTURE.md        模块分工与几个关键实现
