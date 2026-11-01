@@ -1,0 +1,12 @@
+# 统一换行：源码与文档一律 LF，Windows 批处理用 CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制
+*.png binary
+*.jpg binary
+*.mp3 binary
+*.ogg binary
+*.apk binary
+*.keystore binary
