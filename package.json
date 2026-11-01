@@ -10,6 +10,7 @@
     "validate": "node scripts/validate_bank.js",
     "test": "node scripts/smoke_test_cet.js",
     "single": "node scripts/build_single_html.js",
+    "use-private": "node scripts/use_private_bank.js",
     "check": "npm run build && npm run validate && npm test"
   },
   "devDependencies": {

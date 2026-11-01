@@ -82,6 +82,18 @@ npm run validate   # 校验题库
 
 完整字段说明见 [`docs/BANK-FORMAT.md`](docs/BANK-FORMAT.md)。
 
+### 用自己手上的材料
+
+如果你有**有权使用但无权再分发**的套卷（例如买的真题册），放在 `private/bank/` 下
+（结构同 `app/data/exam/`），然后：
+
+```bash
+npm run use-private     # private/bank/ → app/data/exam/
+git checkout -- app/data/exam && git clean -fd app/data/exam   # 切回仓库自带题库
+```
+
+`private/` 已在 `.gitignore` 里，不会被误提交。**提交前请务必切回来。**
+
 ## 测试
 
 ```bash
