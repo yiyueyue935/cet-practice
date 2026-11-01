@@ -1,0 +1,355 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet6",
+    "year": 2026,
+    "month": 1,
+    "set": 1,
+    "title": "原创模拟 六级 第1套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "When offices closed in 2020, remote work was treated as a [[26]] arrangement, to be undone within months. Six years later it has become a permanent feature of white-collar employment, and managers continue to [[27]] with its consequences. Early enthusiasts promised that distance would make organizations leaner and faster; the evidence has proved more [[28]] than the slogan allowed, with gains in some roles and losses in others. Consultants who once sold open-plan offices now sell software that watches what happens in the home.\n\nThe most [[29]] change is managerial rather than technological. Supervisors who once measured presence must now measure output, and many regard the new paperwork as a [[30]] rather than a tool. A survey of 1,200 firms by the Halden Institute found that nearly half of managers admitted they had no reliable way to [[31]] the productivity of a team they rarely saw. In the absence of such measures, decisions about promotion tend to [[32]] on visibility rather than results, which in practice quietly rewards those who are most [[33]] in meetings rather than those whose work is strongest.\n\nOrganizations have responded in predictable ways. Some have [[34]] to surveillance software, tracking keystrokes and screen time; others have cut office space and passed the savings to staff. Neither approach touches the underlying [[35]] between autonomy and oversight: trust, once supplied by shared rooms, must now be built deliberately. The firms that manage this well tend to be those that wrote down what they expected, reviewed it openly, and let people choose where to work.",
+      "word_options": [
+        { "k": "A", "t": "burden" },
+        { "k": "B", "t": "consensus" },
+        { "k": "C", "t": "gauge" },
+        { "k": "D", "t": "grapple" },
+        { "k": "E", "t": "hinge" },
+        { "k": "F", "t": "incentive" },
+        { "k": "G", "t": "nuanced" },
+        { "k": "H", "t": "profound" },
+        { "k": "I", "t": "provisional" },
+        { "k": "J", "t": "resort" },
+        { "k": "K", "t": "rigid" },
+        { "k": "L", "t": "scarcely" },
+        { "k": "M", "t": "sustain" },
+        { "k": "N", "t": "tension" },
+        { "k": "O", "t": "vocal" }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "answer": "I",
+          "explanation": "答案 I) provisional。第 1 段第 1 句，空格修饰 arrangement，紧随其后的 to be undone within months 说明这只是暂时安排，provisional 意为临时的、暂定的。K) rigid 意为僵化不变，与随时可以取消相矛盾；G) nuanced 不能修饰 arrangement。"
+        },
+        {
+          "n": 27,
+          "answer": "D",
+          "explanation": "答案 D) grapple。第 1 段第 2 句 continue to ___ with its consequences，只有 grapple 能与 with 搭配表示竭力应对。E) hinge 也接介词，但搭配的是 on；C) gauge 是及物动词，后面不接 with。"
+        },
+        {
+          "n": 28,
+          "answer": "G",
+          "explanation": "答案 G) nuanced。第 1 段第 3 句 more ___ than the slogan allowed，冒号后的 gains in some roles and losses in others 说明实际情况有得有失、比口号复杂，nuanced 正合此意。H) profound 只强调程度深，无法对应好坏参半；K) rigid 与 more ... than 的比较结构语义不通。"
+        },
+        {
+          "n": 29,
+          "answer": "H",
+          "explanation": "答案 H) profound。第 2 段第 1 句 The most ___ change is managerial rather than technological，下文说明变化在于衡量方式与权力关系，profound 表示深刻的、根本的。O) vocal 只修饰人或言论；I) provisional 与后文强调的长期性相反。"
+        },
+        {
+          "n": 30,
+          "answer": "A",
+          "explanation": "答案 A) burden。第 2 段第 2 句 regard the new paperwork as a ___ rather than a tool，rather than a tool 提示这里要填一个与工具相对、带贬义的可数名词，burden 意为负担。F) incentive 是褒义，与转折关系不符；B) consensus 表示共识，不能与 a 连用。"
+        },
+        {
+          "n": 31,
+          "answer": "C",
+          "explanation": "答案 C) gauge。第 2 段第 3 句 no reliable way to ___ the productivity，需要及物动词表示衡量、评估，gauge 与 productivity 搭配自然。M) sustain 意为维持，与 no reliable way 的否定语义冲突；D) grapple 不能直接带宾语。"
+        },
+        {
+          "n": 32,
+          "answer": "E",
+          "explanation": "答案 E) hinge。第 2 段第 4 句 tend to ___ on visibility rather than results，hinge on 意为取决于，与 rather than results 形成对照。J) resort 搭配的是 to；C) gauge 后面不接 on。"
+        },
+        {
+          "n": 33,
+          "answer": "O",
+          "explanation": "答案 O) vocal。第 2 段第 4 句 rewards those who are most ___ in meetings rather than those whose work is strongest，与 work is strongest 对照，指的是在会上最敢发声的人，vocal 意为敢于直言的。K) rigid 形容人不知变通，与开会发言的语境无关。"
+        },
+        {
+          "n": 34,
+          "answer": "J",
+          "explanation": "答案 J) resort。第 3 段第 2 句 Some have ___ to surveillance software，resort to 意为诉诸、采用（常含别无他法之意），与后文 another group 的对照写法一致。E) hinge 接 on 不接 to；M) sustain 是及物动词，后面不能跟 to。"
+        },
+        {
+          "n": 35,
+          "answer": "N",
+          "explanation": "答案 N) tension。第 3 段第 3 句 the underlying ___ between autonomy and oversight，between 结构要求一个表示两者对立关系的名词，tension 意为张力、矛盾。F) incentive 无法与 between 搭配表达对立；A) burden 是单方面的负担，不含双方拉扯之意。"
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "For two decades museums have promised that digitisation would throw their doors open to anyone with a screen. The promise is easy to sell: a collection that once required a flight and a ticket can now be visited from a bedroom. Yet the phrase 'virtual museum' conceals as much as it reveals, because what appears online is never the institution itself but a selection made by people with budgets, deadlines and reputations to protect. The interesting questions are therefore not about whether museums should go digital, since they already have, but about what happens to authority, ownership and attention once the gallery walls stop doing the work of organising a visit."
+        },
+        {
+          "label": "B",
+          "text": "The technical side is less glamorous than the results suggest. A single painting may be photographed hundreds of times under carefully controlled lighting and then stitched together by software into an image of several billion pixels. Conservators are usually present, because moving a fragile canvas can do real damage, and colour must be checked against a physical reference chart or the digital copy will drift. A large museum might complete a few hundred objects a year this way, which sounds impressive until it is set against a collection of several million. Selection, not equipment, remains the binding constraint."
+        },
+        {
+          "label": "C",
+          "text": "Objects that resist flat photography, such as carved stone, ceramic vessels and costumes, are increasingly captured with structured light or photogrammetry, producing models that a viewer can rotate and measure. The results can be startlingly intimate: you can see tool marks that a display case would never let you approach. But a scan records surfaces, not significance. It cannot convey weight, the smell of old lacquer, or the fact that an object was repaired three times by the same family. Curators describe these models as excellent evidence and poor substitutes, useful for study and misleading as atmosphere."
+        },
+        {
+          "label": "D",
+          "text": "Putting a hundred objects online is cataloguing; arranging them into an argument is curating. The most ambitious virtual exhibitions borrow the grammar of film rather than the grammar of the gallery: a fixed sequence, a narrator, a soundtrack, a point of view that cannot be argued with by wandering off. Visitors gain interpretation and lose the accidental encounter, the wrong turn that leads to an unexpected object. Designers who understand this often build in deliberate detours, but a screen rewards efficiency in a way that a building does not, and most people simply follow the arrow."
+        },
+        {
+          "label": "E",
+          "text": "Digital visitors leave traces that physical ones never did. Platforms record how long a page stays open, where the cursor pauses, which objects are shared and which are abandoned after two seconds. This is genuinely useful: it can show that a wall of text is being skipped or that a video is watched to the end. The risk is that metrics of attention become a proxy for value, and that the works which hold a viewer longest, the spectacular, the cute and the mildly scandalous, quietly set the agenda for what gets scanned next."
+        },
+        {
+          "label": "F",
+          "text": "Rights are the least romantic and most decisive constraint. A museum may own a painting and still lack the right to publish a high-resolution image of it, because copyright in the work may sit with an artist's estate, and photographs of three-dimensional objects attract their own protections in some jurisdictions. Works whose owners cannot be traced are the hardest case: the cost of a failed search can exceed the value of publication, so they stay offline. What looks like curatorial caution is often legal arithmetic."
+        },
+        {
+          "label": "G",
+          "text": "Digitisation also redistributes authorship. Once a collection is online, the labels, the ordering and the metadata become the museum's public voice, and they are read by audiences who may never see the building. Cataloguers who once wrote for specialists now write for anyone who arrives from a search engine. Some institutions have responded by publishing their data openly and inviting outside scholars to annotate it, which produces richer records and looser control. Others keep the record closed, arguing that interpretation is a form of authority that should not be outsourced to whoever is loudest."
+        },
+        {
+          "label": "H",
+          "text": "The strongest argument for the digital museum is not novelty but reach. A school without the budget for a coach trip can spend an afternoon in a gallery three thousand miles away; a visitor who cannot manage stairs or crowds can examine a manuscript at their own pace, at two in the morning, with the text enlarged. Surveys of online users consistently find that a substantial minority would never have come in person. That does not make a website a substitute for a building, but it does mean the audience is genuinely larger rather than merely relocated."
+        },
+        {
+          "label": "I",
+          "text": "Preservation is usually offered as the reason to scan, and it is a good one: a digital record survives fire, flood and handling. But digital objects are not free to keep. Files need migration as formats fall out of use, storage must be paid for annually, and documentation has to travel with the data or the images become unattributable. Institutions that budgeted for a project but not for its maintenance have already lost material to dead links and unreadable discs. Conservation, it turns out, has acquired a second and far less visible electricity bill."
+        },
+        {
+          "label": "J",
+          "text": "None of this argues for retreat. It argues for honesty about what a screen can carry. A museum online is best understood as a second edition rather than a copy: edited, selective, shaped by the constraints of its medium, and worth reading on its own terms. The institutions that do this well are candid about what has been left out, publish their selection criteria, and treat the website as a place to think rather than a shop window. Visitors respond to that candour; they are, after all, quite used to being told that a photograph is not the thing itself."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "Records of how people behave on a museum's website may end up influencing which objects are chosen for future digitisation.",
+          "answer": "E",
+          "explanation": "答案 E 段。该段第 3 至 4 句说 attention 的数据容易成为价值的替代指标，于是最吸引眼球的作品 quietly set the agenda for what gets scanned next，与题干 chosen for future digitisation 对应。B 段讲的是拍摄流程与人力限制，不涉及观众行为数据。"
+        },
+        {
+          "n": 37,
+          "stem": "A museum may legally own an object and yet be unable to publish a detailed image of it.",
+          "answer": "F",
+          "explanation": "答案 F 段。该段第 2 句明确指出博物馆可以 own a painting 却 still lack the right to publish a high-resolution image，原因是著作权可能属于艺术家遗产。C 段讨论三维扫描能记录什么，与权利归属无关。"
+        },
+        {
+          "n": 38,
+          "stem": "Three-dimensional scanning captures the outward appearance of an object but not the physical and historical qualities that give it meaning.",
+          "answer": "C",
+          "explanation": "答案 C 段。该段第 3 句 a scan records surfaces, not significance，随后列举重量、气味与修补经历等无法传达的信息，正是题干所说的 physical and historical qualities。E 段虽也提到扫描，但焦点是选题依据而非扫描的局限。"
+        },
+        {
+          "n": 39,
+          "stem": "How many objects a museum can digitise each year is decided by what has to be left out rather than by the equipment available.",
+          "answer": "B",
+          "explanation": "答案 B 段。该段结尾说一年只能完成几百件，而馆藏有数百万件，因此 Selection, not equipment, remains the binding constraint，与题干 decided by what has to be left out 同义。A 段谈的是线上呈现的整体取舍，不涉及年度数量。"
+        },
+        {
+          "n": 40,
+          "stem": "Virtual exhibitions that impose a single route offer viewers interpretation but take away the chance of stumbling on something unexpected.",
+          "answer": "D",
+          "explanation": "答案 D 段。该段第 2 至 3 句说这类展览借用电影的语法，观众 gain interpretation and lose the accidental encounter，并解释所谓意外就是走错路遇到意料之外的作品。J 段讲线上展览应被看作独立版本，不涉及路线设计。"
+        },
+        {
+          "n": 41,
+          "stem": "For a significant number of online visitors, the digital collection is the only realistic means of access.",
+          "answer": "H",
+          "explanation": "答案 H 段。该段第 3 句 Surveys ... find that a substantial minority would never have come in person，即这部分人本来根本不会到馆，线上是唯一可行途径。G 段讲线上读者群扩大带来的写作对象变化，不是可达性问题。"
+        },
+        {
+          "n": 42,
+          "stem": "Keeping digital copies usable over time demands continuous spending that projects often fail to anticipate.",
+          "answer": "I",
+          "explanation": "答案 I 段。该段第 2 至 4 句列举格式迁移、年度存储费用与随数据附带的说明，并指出只给项目立项、不给维护拨款的机构已经丢失资料，对应题干 continuous spending 与 fail to anticipate。B 段提到成本，但指的是拍摄阶段的人力。"
+        },
+        {
+          "n": 43,
+          "stem": "When collections move online, the descriptions written by museum staff reach readers who are far less specialised than before.",
+          "answer": "G",
+          "explanation": "答案 G 段。该段第 2 句 Cataloguers who once wrote for specialists now write for anyone who arrives from a search engine，说明写作对象由专家变为普通检索者。D 段讲展览叙事，不涉及说明文字的读者变化。"
+        },
+        {
+          "n": 44,
+          "stem": "An online collection should be judged as a separate, edited work rather than as a replacement for the physical one.",
+          "answer": "J",
+          "explanation": "答案 J 段。该段第 3 句把线上博物馆称为 a second edition rather than a copy，并说它 edited, selective，worth reading on its own terms，与题干 separate, edited work 对应。H 段虽然也说网站不能取代建筑，但结论落在受众扩大上。"
+        },
+        {
+          "n": 45,
+          "stem": "The label 'virtual museum' is misleading because what is displayed reflects institutional decisions rather than the collection as a whole.",
+          "answer": "A",
+          "explanation": "答案 A 段。该段第 3 句说 'virtual museum' conceals as much as it reveals，线上看到的不是机构本身，而是由预算与截止日期决定的一份 selection，与题干 reflects institutional decisions 对应。F 段谈的是法律限制造成的删减，范围更窄。"
+        }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Every recommendation system begins with a reasonable premise: that a person's past choices say something about their future preferences. The premise works well for music and shopping, where a wrong guess costs little. Applied to news, it takes on a different character. A system trained to maximise engagement learns, quite accurately, that material confirming an existing belief is clicked more reliably than material that complicates it. The algorithm is not partisan; it is merely obedient to the only signal it has been given.\n\nThe outcome is often described as an echo chamber, though the metaphor is imprecise. In a true echo chamber a person hears only their own voice returned. What recommendation systems produce is closer to a hall of mirrors, in which many voices speak but all of them agree. Exposure to a narrow range of opinion may not even be the main mechanism: several large studies suggest that self-selection, what people choose when nobody is steering, accounts for more of the narrowing than the ranking itself. The uncomfortable implication is that the machine is amplifying a tendency we supplied.\n\nThe attention economy sharpens the effect. When revenue depends on minutes watched, content that provokes is worth more than content that informs, because indignation travels faster than nuance. Outlets learn this quickly, and the vocabulary of public argument adjusts: headlines are written for the click rather than the reader, and qualifications that would slow a sentence down are cut. Readers then meet a world that looks more hostile than it is, and the belief that everyone else is unreasonable becomes a fair inference from the evidence they are shown.\n\nRemedies tend to be aimed at the wrong layer. Labels, fact-check tags and warnings sit on individual items, while the distortion happens in the aggregate, in what is never shown. A feed can be accurate item by item and still leave a reader with a false picture of the whole. Some platforms have experimented with deliberate randomness, injecting a small proportion of unfamiliar sources; early results suggest that it widens exposure modestly without destroying engagement. It is a small lever, but it works on the structure rather than the symptom.\n\nThe deeper difficulty is that any remedy requires someone to decide what a healthy information diet looks like, and that decision is itself a form of editorial power. Regulators are uneasy about making it, platforms are unwilling, and users, asked directly, tend to say they want balance and then click on outrage. A serious response will have to begin by admitting that the problem is not a technical fault to be patched but a set of choices about whose judgement should shape what millions of people see.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What does the author say about recommendation systems applied to news?",
+          "options": {
+            "A": "They were built by engineers who wanted to promote one side of a debate.",
+            "B": "They work as reliably for news as they do for music and shopping.",
+            "C": "They pursue engagement without intending to favour any particular viewpoint.",
+            "D": "They predict news preferences less accurately than shopping habits."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 1 段最后一句 The algorithm is not partisan; it is merely obedient to the only signal it has been given，说明系统只是服从点击这一信号，并无立场。A 项与 not partisan 直接相反；B 项偷换概念，原文说同一前提用于新闻 it takes on a different character。"
+        },
+        {
+          "n": 47,
+          "stem": "By the image of a hall of mirrors, the author means that users",
+          "options": {
+            "A": "hear their own opinions repeated back to them.",
+            "B": "meet a wide range of voices that nevertheless share one outlook.",
+            "C": "can no longer recognise their own reflection.",
+            "D": "have far fewer sources available than they once did."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 3 句 many voices speak but all of them agree，镜厅的特点是声音多而立场一致。A 项是上一句对真正回音室的定义，作者明确说这个比喻 imprecise，故不能选；D 项谈数量减少，与 many voices 矛盾。"
+        },
+        {
+          "n": 48,
+          "stem": "What do several large studies indicate about the narrowing of exposure?",
+          "options": {
+            "A": "Ranking algorithms are its dominant cause.",
+            "B": "People's own choices contribute more to it than ranking does.",
+            "C": "Users actively seek out views that challenge their own.",
+            "D": "It results mainly from limited access to news sources."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 4 句 self-selection ... accounts for more of the narrowing than the ranking itself，即自我选择的作用大于排序机制。A 项把主次颠倒；C 项与 self-selection 导致收窄的结论相反。"
+        },
+        {
+          "n": 49,
+          "stem": "Why does the author think current remedies fail to address the real problem?",
+          "options": {
+            "A": "Because most individual items in a feed are inaccurate.",
+            "B": "Because the damage lies in what is left out rather than in single items.",
+            "C": "Because regulators have refused to take any action.",
+            "D": "Because platforms remove warnings too quickly."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 4 段第 1 至 2 句说标签与警告都贴在单条内容上，而 distortion happens in the aggregate, in what is never shown。A 项与 A feed can be accurate item by item 相反；C 项把 regulators are uneasy 夸大为拒绝行动。"
+        },
+        {
+          "n": 50,
+          "stem": "What is the author's point in the final paragraph?",
+          "options": {
+            "A": "Better engineering will eventually remove the distortion.",
+            "B": "Users should be allowed to design their own feeds.",
+            "C": "Any remedy rests on contestable judgments about whose standards count.",
+            "D": "Regulation is the only acceptable way forward."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 5 段第 1 句说任何补救都要有人判定什么算健康的资讯结构，而这一判定本身就是 editorial power，末句又强调问题是一组关于谁的判断该起作用的选择。A 项与 not a technical fault to be patched 相反；D 项与 Regulators are uneasy about making it 不符。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "Few phrases do as much work in public life as 'studies show'. It appears in headlines, advertising copy and ministerial speeches, and it carries an authority that the underlying research rarely claims. A single experiment on forty undergraduates and a meta-analysis of two hundred trials can be reported in identical language, and readers have no way of telling them apart. The phrase is not a lie; it is a compression, and like every compression it discards precisely the information that would let a reader judge how much weight to give the claim.\n\nScientists are trained to express doubt and journalists are trained to remove it. A paper concluding that an effect 'may be present under certain conditions' reaches a phone screen as a finding that a substance 'does' something. The transformation is not usually dishonest. Hedging is expensive in a headline, and a sentence listing three caveats reads as evasion to an audience accustomed to assertion. The result, though, is a public that meets certainty where researchers intended a probability.\n\nThis creates a peculiar trap. When later work fails to replicate an earlier result, the public concludes that scientists cannot be trusted, having been told for years that the matter was settled. Researchers, in turn, become more guarded in public, which is read as further evidence of confusion. The cycle punishes the honest and rewards the confident. Surveys in several countries find that trust in scientists as a group remains comparatively high even as trust in particular findings falls, a pattern suggesting that people are not rejecting expertise so much as losing confidence in its stability.\n\nSome communicators have responded by making uncertainty explicit instead of hiding it. Rather than delete the hedge, they translate it: this study found a small effect in one group, and we do not yet know whether it holds elsewhere. Early trials of the approach produced a surprise. Readers did not lose confidence; they reported more of it, because the message now contained information they could use. What damages credibility is not admitted doubt but doubt that surfaces only after the fact.\n\nNone of this implies that audiences are incapable of handling complexity. It implies that they have rarely been offered it in a form that respects their time. The practical lesson for anyone writing about research is unglamorous: say what was measured, in whom, and how firmly, and resist the sentence that sounds decisive. A claim that arrives with its limits attached is harder to misrepresent, and much harder to abandon quietly later.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "What point does the author make about the phrase 'studies show' in paragraph 1?",
+          "options": {
+            "A": "It is deliberately used to deceive ordinary readers.",
+            "B": "It lends a claim more authority than the research behind it supports.",
+            "C": "It appears mainly in commercial advertising rather than in news.",
+            "D": "It usefully distinguishes strong evidence from weak evidence."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段第 2 句 it carries an authority that the underlying research rarely claims，即措辞给出的权威高于研究本身。A 项与 The phrase is not a lie 相反；D 项与第 3 句 forty undergraduates 与 two hundred trials 被同样表述的事实相反。"
+        },
+        {
+          "n": 52,
+          "stem": "The word 'compression' (Para. 1) refers to",
+          "options": {
+            "A": "shortening a text so that it fits into a headline.",
+            "B": "the loss of the details that would allow a claim to be weighed.",
+            "C": "combining many separate trials into one analysis.",
+            "D": "reporting fewer participants than a study actually had."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段末句 it discards precisely the information that would let a reader judge how much weight to give the claim，压缩的关键在于丢掉判断依据。A 项只看到字数缩短这一表层；C 项是 meta-analysis 的定义，属于偷换概念。"
+        },
+        {
+          "n": 53,
+          "stem": "Why does hedging tend to disappear on its way to the public?",
+          "options": {
+            "A": "Because researchers exaggerate their findings on purpose.",
+            "B": "Because a qualified statement looks evasive to readers who expect assertion.",
+            "C": "Because editors are required to delete it by their employers.",
+            "D": "Because the original papers seldom contain any hedges."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 3 至 4 句说 Hedging is expensive in a headline，列举限定的句子在习惯断言的读者眼里 reads as evasion。A 项与 The transformation is not usually dishonest 相反；D 项与 Scientists are trained to express doubt 相反。"
+        },
+        {
+          "n": 54,
+          "stem": "What does the survey pattern described in paragraph 3 suggest?",
+          "options": {
+            "A": "The public has stopped trusting scientists altogether.",
+            "B": "Declining faith in particular findings is not a rejection of expertise.",
+            "C": "Researchers should avoid speaking to the public at all.",
+            "D": "Replication studies are less dependable than original ones."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段末句说对科学家群体的信任仍较高而对具体结论的信任下降，可见人们 not rejecting expertise so much as losing confidence in its stability。A 项与 comparatively high 相反；C 项属于过度推断，原文只说研究者变得更谨慎。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the author's main argument in the last two paragraphs?",
+          "options": {
+            "A": "Audiences are unable to cope with statistical detail.",
+            "B": "Admitting uncertainty can raise public confidence rather than lower it.",
+            "C": "Journalists should stop reporting the results of single studies.",
+            "D": "Scientists should avoid using words such as 'may'."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 4 段第 3 至 4 句 Readers did not lose confidence; they reported more of it，第 5 段进一步说读者缺的是尊重其时间的表达方式。A 项与 None of this implies that audiences are incapable 相反；D 项与全文主张保留限定语相反。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on whether artificial intelligence will replace creative work. You should state your opinion and support it with reasons. You should write at least 150 words but no more than 200 words.",
+    "prompt_cn": "以「人工智能是否会取代创造性工作」为题写一篇短文，说明你的观点并给出理由。",
+    "word_limit": 150,
+    "sample_essay": "Whether artificial intelligence will replace creative work is a question usually answered with either panic or complacency, and neither is useful. The honest reply is that it will replace some of it, absorb more, and leave a stubborn remainder it cannot touch.\n\nWhat machines do well is variation at speed. Given a brief, they produce a hundred competent designs, melodies or paragraphs before a human has sharpened a pencil. This is disruptive for work that was always repetitive: stock images, routine jingles, the fourth revision of a press release. But the value of such output lies in its adequacy rather than its originality, and adequacy is what a market pays least for.\n\nThe remainder is harder to automate because it is not a product but a judgement: knowing which of the hundred options matters, and why. Taste is formed by failure, by argument, and by caring about something beyond the brief. A model can imitate the surface of that care; it cannot have a stake in it.\n\nThe likely future is therefore not replacement but a sharper division of labour, in which machines supply options and people supply reasons.",
+    "sample_essay_cn": "人工智能是否会取代创造性工作，这个问题通常得到的回答要么是恐慌，要么是自满，而这两种都没有用处。诚实的回答是：它会取代其中一部分，吞并更多的一部分，并留下一块它碰不到的顽固残余。\n\n机器擅长的是快速生成变体。给出一份需求说明，它们能在人还没削好铅笔之前拿出上百个还算合格的设计、旋律或段落。这对本来就重复的劳动确实是冲击：通用图库、套路化的广告配乐、新闻稿的第四稿。但这类产出的价值在于够用而非原创，而「够用」恰恰是市场付钱最少的品质。\n\n剩下的那部分难以自动化，因为它不是产品而是判断：知道上百个方案里哪一个要紧，以及为什么。品味由失败、由与人争论、由在意需求之外的东西塑造而成。模型可以模仿这份在意的表面，却无法真正与之利害相关。\n\n因此未来更可能不是取代，而是分工更细：机器提供选项，人提供理由。"
+  },
+  "translation": {
+    "source_cn": "二十四节气是中国古人根据太阳在一年中的位置变化而划分的时间体系，用来指导农事与日常生活。它把一年分为二十四个阶段，每段约十五天，并各配一个简洁的名称，如立春、清明、霜降。这些名称记录了气温、降水与动植物变化的规律，至今仍影响着耕作安排和饮食习俗。2016 年，这一体系被正式列入人类非物质文化遗产名录。今天，许多城市居民依然会按节气调整饮食，把它看作与自然保持联系的一种方式。",
+    "reference_en": "The twenty-four solar terms form a system of time that the ancient Chinese devised from the changing position of the sun over the course of a year, and they were used to guide farming and daily life. The system divides the year into twenty-four periods of about fifteen days each, giving every period a concise name such as Start of Spring, Clear and Bright, or Descent of Frost. These names record patterns of temperature, rainfall and the behaviour of plants and animals, and they still shape when fields are worked and what people eat. In 2016 the system was formally added to the list of humanity's intangible cultural heritage. Today many city dwellers still adjust their diet according to the terms, regarding them as a way of keeping in touch with the natural world.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

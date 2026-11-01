@@ -1,0 +1,9 @@
+{
+  "appId": "com.guoji.cet",
+  "appName": "过级",
+  "webDir": "www",
+  "backgroundColor": "#F7F8FB",
+  "android": {
+    "allowMixedContent": true
+  }
+}

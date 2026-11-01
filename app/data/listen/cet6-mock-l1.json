@@ -1,0 +1,414 @@
+{
+  "id": "cet6-mock-l1",
+  "level": "cet6",
+  "year": 2026,
+  "month": 1,
+  "set": 1,
+  "mock": true,
+  "sections": [
+    {
+      "name": "Section A",
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What did the Brant Institute announce?",
+          "group": "第1-2题",
+          "options": {
+            "A": "A species of mollusc new to science had been identified.",
+            "B": "A research vessel had completed its deepest dive.",
+            "C": "A known species had been found in a new habitat.",
+            "D": "A mineral vent had stopped releasing bacteria."
+          }
+        },
+        {
+          "n": 2,
+          "stem": "Why did the team fail to recognise the animal at first?",
+          "group": "第1-2题",
+          "options": {
+            "A": "They had only a handful of photographs of it.",
+            "B": "They thought it belonged to a species already known.",
+            "C": "Its colour made it almost invisible to cameras.",
+            "D": "Another team had already collected the specimens."
+          }
+        },
+        {
+          "n": 3,
+          "stem": "What will happen in Halden from April?",
+          "group": "第3-4题",
+          "options": {
+            "A": "Private cars will be kept out of the city centre.",
+            "B": "All delivery vehicles will be banned from the harbour.",
+            "C": "Parking permits will no longer be issued to residents.",
+            "D": "The old harbour will be closed to trams."
+          }
+        },
+        {
+          "n": 4,
+          "stem": "What did local traders fear?",
+          "group": "第3-4题",
+          "options": {
+            "A": "That the new trams would cost too much to run.",
+            "B": "That deliveries would arrive too late in the day.",
+            "C": "That shoppers would move to retail parks outside the city.",
+            "D": "That the scheme would be reviewed too soon."
+          }
+        },
+        {
+          "n": 5,
+          "stem": "What is said about the artificial intelligence assistant?",
+          "group": "第5-7题",
+          "options": {
+            "A": "It was built by students at the university.",
+            "B": "It can be used by first-year students at any time.",
+            "C": "It has replaced tutorials in some modules.",
+            "D": "It deals only with past examination papers."
+          }
+        },
+        {
+          "n": 6,
+          "stem": "What did last term's trial suggest?",
+          "group": "第5-7题",
+          "options": {
+            "A": "Frequent users were slightly more likely to submit work on time.",
+            "B": "Students who avoided the tool obtained better marks.",
+            "C": "The tool raised results in every subject.",
+            "D": "Teachers relied on the tool more than students did."
+          }
+        },
+        {
+          "n": 7,
+          "stem": "What did the student survey reveal?",
+          "group": "第5-7题",
+          "options": {
+            "A": "The assistant was difficult to log into.",
+            "B": "Many staff had switched the assistant off.",
+            "C": "The assistant sometimes gave confident but wrong answers.",
+            "D": "The assistant collected personal data without consent."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "questions": [
+        {
+          "n": 8,
+          "stem": "What does Ms. Aldridge say about Lena's market summary?",
+          "group": "第8-11题",
+          "options": {
+            "A": "It was longer than she had expected.",
+            "B": "It was sent back to Lena for correction.",
+            "C": "It told the team something they did not already know.",
+            "D": "It was finished well ahead of schedule."
+          }
+        },
+        {
+          "n": 9,
+          "stem": "What went wrong at the client meeting in week seven?",
+          "group": "第8-11题",
+          "options": {
+            "A": "Lena opened with material the client did not need.",
+            "B": "Lena spoke too quietly for the room.",
+            "C": "Lena left out the cost figures.",
+            "D": "Lena arrived without having rehearsed."
+          }
+        },
+        {
+          "n": 10,
+          "stem": "Why is there no full-time post available at present?",
+          "group": "第8-11题",
+          "options": {
+            "A": "The design team is being cut back.",
+            "B": "The team's budget is frozen until the third quarter.",
+            "C": "Lena does not yet hold the required qualification.",
+            "D": "The account is being moved to another office."
+          }
+        },
+        {
+          "n": 11,
+          "stem": "What does Ms. Aldridge ask Lena to do?",
+          "group": "第8-11题",
+          "options": {
+            "A": "Take over the account's paperwork.",
+            "B": "Train the next group of interns.",
+            "C": "Join the team's budget meeting.",
+            "D": "Speak at the April review with a single chart."
+          }
+        },
+        {
+          "n": 12,
+          "stem": "What does Marcus now think of his original topic?",
+          "group": "第12-15题",
+          "options": {
+            "A": "It has already been covered in detail.",
+            "B": "It amounts to several separate studies.",
+            "C": "It cannot be researched without extra funding.",
+            "D": "It overlaps with his supervisor's own work."
+          }
+        },
+        {
+          "n": 13,
+          "stem": "What will Marcus actually study?",
+          "group": "第12-15题",
+          "options": {
+            "A": "The design of museum websites.",
+            "B": "The way museums use social media.",
+            "C": "The short descriptions written for objects.",
+            "D": "The training given to museum guides."
+          }
+        },
+        {
+          "n": 14,
+          "stem": "What does Dr. Rowe warn him about?",
+          "group": "第12-15题",
+          "options": {
+            "A": "Museums may refuse access to their records.",
+            "B": "Two hundred objects per museum is too small a sample.",
+            "C": "The old card indexes are badly organised.",
+            "D": "Curators are difficult to schedule for interviews."
+          }
+        },
+        {
+          "n": 15,
+          "stem": "What does Dr. Rowe advise about the literature review?",
+          "group": "第12-15题",
+          "options": {
+            "A": "It should be cut to less than half its present length.",
+            "B": "It should be moved into an appendix.",
+            "C": "It should take in more recent studies.",
+            "D": "It should be written after the interviews."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section C",
+      "questions": [
+        {
+          "n": 16,
+          "stem": "What has changed most in media work, according to the passage?",
+          "group": "第16-18题",
+          "options": {
+            "A": "The cost of gathering news.",
+            "B": "The average length of articles.",
+            "C": "The training given to editors.",
+            "D": "The precision with which audiences can be measured."
+          }
+        },
+        {
+          "n": 17,
+          "stem": "What does the author say about the length of content?",
+          "group": "第16-18题",
+          "options": {
+            "A": "It has fallen sharply in every format.",
+            "B": "Long formats still attract large audiences.",
+            "C": "It matters more than the shape of attention.",
+            "D": "It is now decided by the platform."
+          }
+        },
+        {
+          "n": 18,
+          "stem": "What is the author's main point in the final paragraph?",
+          "group": "第16-18题",
+          "options": {
+            "A": "Journalists should ignore audience data altogether.",
+            "B": "Readers are less well informed than they once were.",
+            "C": "The pressure on journalists comes from measurable audience demand.",
+            "D": "Platforms should be required to publish their data."
+          }
+        },
+        {
+          "n": 19,
+          "stem": "How much vegetable does a city of a million people eat in a year?",
+          "group": "第19-21题",
+          "options": {
+            "A": "About seventy thousand tonnes.",
+            "B": "Roughly four thousand tonnes.",
+            "C": "About one to three per cent of its rooftop area.",
+            "D": "Several square kilometres of produce."
+          }
+        },
+        {
+          "n": 20,
+          "stem": "What have studies of European and North American cities found?",
+          "group": "第19-21题",
+          "options": {
+            "A": "Rooftop farms could supply most of a city's vegetables.",
+            "B": "Cities lack the sunlight that rooftop farming requires.",
+            "C": "Rooftop production reaches its limit far below demand.",
+            "D": "Rooftop farms take land that could be used for housing."
+          }
+        },
+        {
+          "n": 21,
+          "stem": "What is the author's view of urban agriculture?",
+          "group": "第19-21题",
+          "options": {
+            "A": "It should give way to conventional farming.",
+            "B": "Its social benefits have been overstated.",
+            "C": "It will soon replace imported vegetables.",
+            "D": "It is worth doing for reasons beyond food supply."
+          }
+        },
+        {
+          "n": 22,
+          "stem": "What does the author say about repetition?",
+          "group": "第22-25题",
+          "options": {
+            "A": "It explains why songs outlast faces in memory.",
+            "B": "It matters but does not fully explain musical memory.",
+            "C": "It has almost no effect on long-term memory.",
+            "D": "It works only with music heard in childhood."
+          }
+        },
+        {
+          "n": 23,
+          "stem": "Why can a melody survive damage that has erased surrounding events?",
+          "group": "第22-25题",
+          "options": {
+            "A": "It is stored in a region of the brain that ages slowly.",
+            "B": "It carries less meaning than ordinary language.",
+            "C": "It is laid down in several connected channels.",
+            "D": "It is repeated more often than speech."
+          }
+        },
+        {
+          "n": 24,
+          "stem": "How are singing groups in care homes described?",
+          "group": "第22-25题",
+          "options": {
+            "A": "As therapy that draws out residents who rarely speak.",
+            "B": "As entertainment organised mainly for the staff.",
+            "C": "As a treatment that reverses memory loss.",
+            "D": "As a substitute for ordinary conversation."
+          }
+        },
+        {
+          "n": 25,
+          "stem": "What does the closing sentence suggest?",
+          "group": "第22-25题",
+          "options": {
+            "A": "Songs describe the past more accurately than speech does.",
+            "B": "The past is best left undisturbed.",
+            "C": "Words come back before melodies do.",
+            "D": "Remembering becomes an experience rather than a report."
+          }
+        }
+      ]
+    }
+  ],
+  "transcripts": {
+    "第1-2题": [
+      "The Brant Institute has confirmed that a soft-bodied animal filmed in the Vellin Trench is a species previously unknown to science. The trench lies roughly four thousand metres below the surface of the southern Ardic Ocean, where sunlight never reaches and the water stays close to freezing. The creature, about the length of a human thumb, was first recorded three years ago by a camera mounted on a remotely operated vehicle. At the time, the team assumed it was a familiar species that had drifted far outside its normal range. Genetic comparison with two specimens collected last summer, however, showed differences too large to set aside, and the animal has now been formally described. Researchers say it feeds on bacteria that cluster around mineral vents, and that its shell has almost entirely disappeared, an adaptation that saves energy in water where calcium is scarce. A full account will appear in the institute's journal next month."
+    ],
+    "第3-4题": [
+      "The city of Halden will remove private cars from its historic centre from the first week of April, after a council vote that ended almost two years of argument. The zone covers some forty streets around the old harbour, an area that currently handles about eighteen thousand vehicle movements a day. Delivery vans will still be admitted before ten in the morning, and residents holding a parking permit will keep access to their own street. The council has funded two new tram stops and a fleet of small electric buses that will circle the zone every eight minutes. Traders had warned that the change would push shoppers towards retail parks on the edge of the city, and the final vote was close. Officials say noise and air quality will be monitored for a full year, and that the findings will be published before the scheme is reviewed."
+    ],
+    "第5-7题": [
+      "Ellsworth University has given every first-year student access to an artificial intelligence assistant that answers questions about course material at any hour of the day. The system was trained on lecture notes, reading lists and past examination papers, and it is designed to reply in ordinary language rather than send students to a page number. Officials describe it as a supplement to tutorials, not a replacement for them. In a trial last term involving four thousand students, those who used the assistant at least once a week were slightly more likely to submit assignments on time, although the university warns that the difference may say more about study habits than about the tool itself. Teaching staff may switch the assistant off for their own modules, and about one in five has done so. A student survey found wide approval, but also complaints that the system sometimes gave confident answers that were simply wrong."
+    ],
+    "第8-11题": [
+      "Ms. Aldridge: Come in, Lena. Sit down. How are you feeling now that the ten weeks are over?",
+      "Lena: Honestly? A bit strange. Everyone else on the team is staying, and I'm clearing my desk.",
+      "Ms. Aldridge: Well, not quite clearing it. That's partly why I asked you in. First, the feedback. Your research was the strongest of any intern we've had this year. The market summary you did in week three is still being passed around.",
+      "Lena: That's good to hear. I was worried it was too long.",
+      "Ms. Aldridge: It was long. It was also the only one that told us something we didn't already know. Where you struggled, and you know this, was the client meeting in week seven.",
+      "Lena: I do. I had twelve slides and about four minutes.",
+      "Ms. Aldridge: You had twelve slides and four minutes, and you started with the methodology. Nobody in that room cared about methodology. They cared about whether they could afford the thing.",
+      "Lena: I've thought about that a lot since. I keep rehearsing a shorter version.",
+      "Ms. Aldridge: Good. Now, the reason I asked you in. There is no full-time position. Not yet. The budget for the design team is frozen until the third quarter, and I can't give you a date.",
+      "Lena: So that's it?",
+      "Ms. Aldridge: That's not it. I can offer you a part-time contract, twenty hours a week, starting in February, on the same account. It isn't what you applied for, and the pay is pro rata, which I know is a step down from what you'd hoped.",
+      "Lena: It's a step up from nothing.",
+      "Ms. Aldridge: That's the spirit. But I'd like something from you in return. I want you to present at the April review. Ten minutes, no slides, just you and the client.",
+      "Lena: Ten minutes with no slides? Can I use one chart?",
+      "Ms. Aldridge: One chart. That's the deal."
+    ],
+    "第12-15题": [
+      "Dr. Rowe: So, Marcus, you wanted to talk about the proposal.",
+      "Marcus: Yes. I've been reading for about six weeks, and I think my topic is too broad. I started with how museums use digital media, which is, I realise now, about four theses.",
+      "Dr. Rowe: It is at least four. Which of the four interests you most?",
+      "Marcus: The labels. Not the websites, not the social media accounts, but the short descriptions next to the objects. I want to compare how three regional museums write them, and whether the writing changed after the collections went online.",
+      "Dr. Rowe: That's manageable. How many objects?",
+      "Marcus: That's my problem. One museum has forty thousand records.",
+      "Dr. Rowe: Then don't take all of them. Take a sample, say two hundred objects per museum, drawn the same way in each. What would you compare?",
+      "Marcus: Length, use of technical terms, whether an object's history is told as a story or as a list of facts. And I'd interview the curators who wrote them.",
+      "Dr. Rowe: The interviews will take longer than you think. Curators are, how shall I put this, generous with their time in principle and impossible to schedule in practice.",
+      "Marcus: I'd budget three months.",
+      "Dr. Rowe: Budget five. And Marcus, one more thing. You've written whether the writing changed. Changed compared with what?",
+      "Marcus: With the labels written before the collections went online. I have access to the old card indexes at two of the three.",
+      "Dr. Rowe: Then say so in the proposal, in the first paragraph, not on page nine. The committee reads the first page properly and skims the rest. Also, your literature review is currently nineteen pages.",
+      "Marcus: I know. I got carried away.",
+      "Dr. Rowe: Cut it to eight. Nobody is impressed by length. They're impressed by a question they can answer."
+    ],
+    "第16-18题": [
+      "Ask anyone who works in media what has changed most in the past fifteen years, and the answer is rarely about technology. It is about measurement. A newspaper once knew how many copies it sold; a television channel knew roughly how many people were watching. Neither knew, with any precision, which sentence on which page had lost the reader's interest. Today that information arrives continuously, and it arrives while the work is still being made. Editors can see, minute by minute, where an audience stops scrolling, and they see it early enough to change the next piece.",
+      "The effect is not simply that content gets shorter. Length, in fact, has proved surprisingly resilient; long podcasts and lengthy essays still find large audiences. What has changed is the shape of attention. A piece now has to earn the right to be finished, and it has to do so within the first few seconds, because the platform offers an alternative at every moment. The result is a form that front-loads its most striking material, the surprising figure, the blunt claim, the anecdote, and only afterwards supplies the reasoning that would make the claim defensible.",
+      "Critics describe this as a corruption of public understanding, and there is something in that. But the criticism is often aimed at the wrong target. Audiences have always preferred to be entertained before they are informed; what is new is that the preference is now visible, countable and immediately profitable. A journalist who resists it is not resisting a machine but a measurable demand, and that is a far harder thing to argue with. The honest question is not whether the attention economy has changed the shape of what we read. It plainly has. The question is who, if anyone, is willing to pay for the version that takes longer."
+    ],
+    "第19-21题": [
+      "Urban farming has a persuasive logic. Food grown on a rooftop travels a few hundred metres instead of a few thousand, the roof itself stays cooler, and the grower learns something about where dinner comes from. City governments have noticed, and plots have multiplied, on school grounds, in hospital courtyards and on the flat roofs of supermarkets.",
+      "The difficulty is arithmetic. A well-run rooftop farm might produce four or five kilograms of vegetables per square metre in a year. A city of a million people eats, very roughly, seventy thousand tonnes of vegetables annually. To grow even a tenth of that on roofs, you would need several square kilometres of suitably strong, flat, sunlit surface, and cities do not have several square kilometres of it in the places where people actually live. Studies of a number of European and North American cities have reached the same conclusion: the ceiling on roof-based production lies somewhere between one and three per cent of demand, and it is reached long before the land runs out.",
+      "None of this makes urban agriculture pointless. Its value is better measured in what it does to people than in what it puts in the shops. A child who has pulled a carrot out of soil understands a supply chain in a way no diagram achieves, and community plots have repeatedly been shown to widen the social contacts of people who would otherwise be isolated. There is also the question of what else the land could be used for; a rooftop garden is a poor substitute for housing, but it is an excellent use of a surface that would otherwise do nothing at all. The mistake is to treat it as a solution to food supply. It is a solution to something else, and that something else deserves to be named clearly."
+    ],
+    "第22-25题": [
+      "Why does a song from adolescence stay in the memory when the name of a colleague met last week does not? Part of the answer is repetition: songs are designed to be heard many times, and repetition is the oldest known method of fixing material in the mind. But repetition alone does not explain the peculiar quality of musical memory, which is so often involuntary. A few bars of a tune can return a room, a smell, a person, entire, after decades in which none of it was consciously recalled.",
+      "Researchers who study this point to the way music is stored. Words are remembered largely for their meaning; music is remembered in several channels at once, pitch, rhythm, timbre and the physical memory of how it feels to sing or play it. When these channels are laid down together, each becomes a route back to the others, so a single cue can open the whole. This is why a melody heard in childhood can survive damage that has erased the events around it; patients in the later stages of memory loss will sometimes sing every word of a song learned long ago while being unable to say what day it is.",
+      "The practical use of this is younger than the science. Care homes have begun running singing groups not as entertainment but as therapy, and staff report that residents who speak very little will join a familiar chorus. The effects do not last long once the music stops, and nobody claims that singing restores memory in any general sense. What it restores is something narrower and, for the person concerned, more immediate: for the length of a verse, the past is not something being described. It is something being done."
+    ]
+  },
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "A",
+    "4": "C",
+    "5": "B",
+    "6": "A",
+    "7": "C",
+    "8": "C",
+    "9": "A",
+    "10": "B",
+    "11": "D",
+    "12": "B",
+    "13": "C",
+    "14": "D",
+    "15": "A",
+    "16": "D",
+    "17": "B",
+    "18": "C",
+    "19": "A",
+    "20": "C",
+    "21": "D",
+    "22": "B",
+    "23": "C",
+    "24": "A",
+    "25": "D"
+  },
+  "exps": {
+    "1": "答案 A。新闻首句说 Brant Institute 确认在 Vellin 海沟拍到的软体动物是此前科学界未知的物种；B 项把研究船的深潜当成新闻主体，C 项与后文「原以为是已知物种、实为新种」正好相反。",
+    "2": "答案 B。原文说当时团队以为那是一种漂出正常分布范围的熟悉物种，直到与两份标本做基因比对才改判；A 项把它说成只有几张照片，C 项归因于颜色，原文均无此说。",
+    "3": "答案 A。新闻开头说 Halden 将从四月第一周起把私家车清出历史城区；B 项把「上午十点前允许送货」夸大成全面禁止，C 项与「持停车许可的居民仍可使用自家街道」相矛盾。",
+    "4": "答案 C。原文说商家此前警告这一变化会把顾客推向城市边缘的零售园区；A、B 两项提到的电车运营成本和送货时间都不是商家担忧的内容。",
+    "5": "答案 B。新闻说学校给每位大一学生开通了可全天候提问的 AI 助手；C 项与「是辅导课的补充而非替代」相反，D 项把训练材料之一说成唯一用途。",
+    "6": "答案 A。原文提到上学期四千名学生的试验中，每周至少使用一次的人更可能按时交作业，同时提醒差异也许更多反映学习习惯；B 项把方向说反，C 项的「每门课都提高」属过度推断。",
+    "7": "答案 C。末句说学生调查总体认可，但也抱怨系统有时很自信地给出错误答案；B 项把「两成教师自行关闭功能」误当成调查结论。",
+    "8": "答案 C。主管评价那份市场摘要时说，它是唯一一份告诉他们一些原本不知道的东西的报告；A 项只承认篇幅长，并未肯定其价值，B 项在原文没有对应。",
+    "9": "答案 A。第七周的客户会上她用四分钟讲十二页，而且从方法论讲起，主管说在场的人只关心能不能负担；B、C、D 三项在原文都找不到依据。",
+    "10": "答案 B。主管明确说设计团队的预算冻结到第三季度，所以暂时没有全职岗位；A 项「裁员」和 C 项「资格不够」都与原文不符。",
+    "11": "答案 D。对话结尾主管提出交换条件，让她在四月评审会上向客户做十分钟陈述，最多用一张图表；B 项是聘用方案本身，不是交换条件，A、C 均未提及。",
+    "12": "答案 B。Marcus 说自己从「博物馆如何使用数字媒介」起步，现在意识到那足够写四篇论文；A 项「已有充分研究」与 D 项「与导师课题重叠」都没有依据。",
+    "13": "答案 C。他说自己真正感兴趣的是展品旁边那些简短的说明文字，并想比较三家地区博物馆的写法；A、B 正是他主动排除掉的方向。",
+    "14": "答案 D。导师提醒他访谈策展人会比预想更费时，原则上慷慨、实际排期极难，并让他把三个月改成五个月；A、B、C 都不是导师的提醒。",
+    "15": "答案 A。导师说文献综述现在有十九页，要求砍到八页，还说没有人会因篇幅长而佩服你；B 项「移入附录」、C、D 均无对应内容。",
+    "16": "答案 D。文章开头说媒体最大的变化不在技术而在「测量」：过去只知道销量，如今能逐分钟看到读者在哪一句离开；A、B、C 都是被作者否定的方向，第二段还明确说篇幅并未明显变短。",
+    "17": "答案 B。第二段说长度其实相当顽强，长播客与长文仍有大量受众，真正改变的是注意力的形状；A 项与原文相反，C 项颠倒了轻重关系。",
+    "18": "答案 C。末段说受众一向喜欢先被娱乐再被告知，如今这种偏好变得可见、可计数、可立即变现，记者抵抗的不是机器而是可测量的需求；A 项是作者反对的极端做法，B、D 均非本段主旨。",
+    "19": "答案 A。第三段给出估算：百万人口的城市一年大约吃掉七万吨蔬菜；B 项数字是文中没有的，C 项把屋顶产量的上限误当成消费量。",
+    "20": "答案 C。原文说多项欧美城市研究得出同一结论：屋顶种植的上限只占需求的百分之一到三，而且远在土地用尽之前就到顶；A 项与结论相反，D 项是文章后面另提的问题。",
+    "21": "答案 D。作者说城市农业的价值更适合用「对人做了什么」来衡量，还提到社区菜园扩大社交，并提醒不要把它当成粮食供给的解决方案；A 项过于否定，B 项与作者肯定其社会价值相反。",
+    "22": "答案 B。第三段开头承认重复是最古老的记忆手段，紧接着说重复本身无法解释音乐记忆那种不由自主的特性；A 项把「歌曲比面孔记得牢」当成重复的功劳，属因果错置，C 项与原文相反。",
+    "23": "答案 C。原文说音乐同时以音高、节奏、音色和身体动作等多条通道储存，通道之间互为线索，所以一个提示就能带出整体；A 项「脑区老化慢」和 B 项「意义更少」都不是原文的解释。",
+    "24": "答案 A。文章说养老院办合唱团不是娱乐而是治疗，很少开口的住户也会跟着唱；C 项与「无人主张唱歌能普遍恢复记忆」相反，D 项把它说成日常对话的替代品。",
+    "25": "答案 D。末句说在一段歌的时间里，过去不再是被描述的对象，而是被实践的东西，即记忆成为亲身经历而非复述；A 项谈准确性，B、C 两项与句意无关。"
+  }
+}

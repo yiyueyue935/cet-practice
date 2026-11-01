@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: [18, 20]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: 安装依赖
+        run: npm install --no-audit --no-fund
+
+      - name: 重建题库产物
+        run: npm run build
+
+      - name: 产物应与提交一致（生成文件被手改过会在这里失败）
+        run: git diff --exit-code
+
+      - name: 校验题库
+        run: npm run validate
+
+      - name: 冒烟测试
+        run: npm test

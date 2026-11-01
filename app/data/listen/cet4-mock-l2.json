@@ -1,0 +1,369 @@
+{
+  "id": "cet4-mock-l2",
+  "level": "cet4",
+  "year": 2026,
+  "month": 1,
+  "set": 2,
+  "mock": true,
+  "sections": [
+    {
+      "name": "Section A",
+      "questions": [
+        {
+          "n": 1,
+          "group": "第1-2题",
+          "options": {
+            "A": "It will stop offering takeaway meals altogether.",
+            "B": "It will charge a deposit on reusable cutlery.",
+            "C": "It will raise the price of hot drinks.",
+            "D": "It will close one of its two cafeterias."
+          }
+        },
+        {
+          "n": 2,
+          "group": "第1-2题",
+          "options": {
+            "A": "It may cost the university too much money.",
+            "B": "It may not be accepted by first-year students.",
+            "C": "It may make the lunch queue move more slowly.",
+            "D": "It may create extra work for the cleaners."
+          }
+        },
+        {
+          "n": 3,
+          "group": "第3-4题",
+          "options": {
+            "A": "Passed a written test on programming.",
+            "B": "Designed a small web page of their own.",
+            "C": "Built a mobile app for a local charity.",
+            "D": "Taught younger children some coding."
+          }
+        },
+        {
+          "n": 4,
+          "group": "第3-4题",
+          "options": {
+            "A": "Most of its students went on to study computing at school.",
+            "B": "It was held in three different classrooms.",
+            "C": "It received money from a local company.",
+            "D": "It attracted teenagers from other towns."
+          }
+        },
+        {
+          "n": 5,
+          "group": "第5-7题",
+          "options": {
+            "A": "To host a summer music festival.",
+            "B": "To attract more tourists to the lake.",
+            "C": "To make up for an earlier closure.",
+            "D": "To give residents a place to exercise after work."
+          }
+        },
+        {
+          "n": 6,
+          "group": "第5-7题",
+          "options": {
+            "A": "The closing time of the boating area.",
+            "B": "The number of security guards on duty.",
+            "C": "The lighting along the main path.",
+            "D": "The opening hour of the east gate."
+          }
+        },
+        {
+          "n": 7,
+          "group": "第5-7题",
+          "options": {
+            "A": "The cost of the new lights.",
+            "B": "The shortage of security guards.",
+            "C": "Possible noise and parking problems.",
+            "D": "The condition of the playground equipment."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "questions": [
+        {
+          "n": 8,
+          "group": "第8-11题",
+          "options": {
+            "A": "To book a place in a Saturday class.",
+            "B": "To find out about joining the gym.",
+            "C": "To ask whether the pool opens on Sundays.",
+            "D": "To complain that a class is already full."
+          }
+        },
+        {
+          "n": 9,
+          "group": "第8-11题",
+          "options": {
+            "A": "It cannot be used at weekends.",
+            "B": "It costs half as much as the full one.",
+            "C": "It does not include any classes.",
+            "D": "It is open only to first-year students."
+          }
+        },
+        {
+          "n": 10,
+          "group": "第8-11题",
+          "options": {
+            "A": "It is held twice a week.",
+            "B": "It requires a fitness test first.",
+            "C": "It is taught by two instructors.",
+            "D": "It is limited to twelve people."
+          }
+        },
+        {
+          "n": 11,
+          "group": "第8-11题",
+          "options": {
+            "A": "Sign up for the full membership.",
+            "B": "Try a spinning class in the evening.",
+            "C": "Pay for a term of yoga classes.",
+            "D": "Ask for his deposit back."
+          }
+        },
+        {
+          "n": 12,
+          "group": "第12-15题",
+          "options": {
+            "A": "The fast train has been cancelled.",
+            "B": "Tickets cost more than he had expected.",
+            "C": "It leaves only in the early morning.",
+            "D": "It is cheaper than it was last year."
+          }
+        },
+        {
+          "n": 13,
+          "group": "第12-15题",
+          "options": {
+            "A": "The price is too high for her.",
+            "B": "It is a long way from the beach.",
+            "C": "The rooms are shared with other guests.",
+            "D": "Breakfast is not included."
+          }
+        },
+        {
+          "n": 14,
+          "group": "第12-15题",
+          "options": {
+            "A": "Book it together with the hostel.",
+            "B": "Give it up to save money.",
+            "C": "Ask a friend to pay for it.",
+            "D": "Take it only if the weather is fine."
+          }
+        },
+        {
+          "n": 15,
+          "group": "第12-15题",
+          "options": {
+            "A": "Book beds at the hostel.",
+            "B": "Buy the train tickets online.",
+            "C": "Check the weather forecast.",
+            "D": "Look for a cheaper hotel."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section C",
+      "questions": [
+        {
+          "n": 16,
+          "group": "第16-18题",
+          "options": {
+            "A": "Students seldom attend lectures regularly.",
+            "B": "Teachers speak too fast for students to follow.",
+            "C": "Notes copied word for word prove useless later.",
+            "D": "Students depend too much on slides."
+          }
+        },
+        {
+          "n": 17,
+          "group": "第16-18题",
+          "options": {
+            "A": "It saves time during the lecture.",
+            "B": "It forces the brain to process the idea.",
+            "C": "It makes the notes easier to read.",
+            "D": "It helps you keep the teacher's exact wording."
+          }
+        },
+        {
+          "n": 18,
+          "group": "第16-18题",
+          "options": {
+            "A": "It works better than repeated reading later.",
+            "B": "It should be done together with a classmate.",
+            "C": "It takes at least an hour to be effective.",
+            "D": "It is only useful for exam subjects."
+          }
+        },
+        {
+          "n": 19,
+          "group": "第19-21题",
+          "options": {
+            "A": "A friend persuaded her to try it.",
+            "B": "She wanted to learn how to cook.",
+            "C": "She needed work experience for her course.",
+            "D": "She felt she ought to do something."
+          }
+        },
+        {
+          "n": 20,
+          "group": "第19-21题",
+          "options": {
+            "A": "Grateful for the warm welcome she received.",
+            "B": "Unsure whether she would go back.",
+            "C": "Eager to take on more responsibility.",
+            "D": "Disappointed with the food she was given."
+          }
+        },
+        {
+          "n": 21,
+          "group": "第19-21题",
+          "options": {
+            "A": "A regular and meaningful part of her week.",
+            "B": "Skills that helped her find a job.",
+            "C": "A group of close friends of her own age.",
+            "D": "A better understanding of healthy eating."
+          }
+        },
+        {
+          "n": 22,
+          "group": "第22-25题",
+          "options": {
+            "A": "They are the same with all online sellers.",
+            "B": "They are usually shorter than a week.",
+            "C": "They may start from the day of ordering.",
+            "D": "They can be extended on request."
+          }
+        },
+        {
+          "n": 23,
+          "group": "第22-25题",
+          "options": {
+            "A": "Shoes tried on briefly indoors.",
+            "B": "A coat that smells of perfume.",
+            "C": "A shirt with the label removed.",
+            "D": "Boots with mud on the soles."
+          }
+        },
+        {
+          "n": 24,
+          "group": "第22-25题",
+          "options": {
+            "A": "It can be used only once.",
+            "B": "Its cost may be taken out of the refund.",
+            "C": "It takes longer to reach the seller.",
+            "D": "It requires a printer at home."
+          }
+        },
+        {
+          "n": 25,
+          "group": "第22-25题",
+          "options": {
+            "A": "To prove what was inside the box.",
+            "B": "To show the seller the item is unused.",
+            "C": "To speed up the refund.",
+            "D": "To settle disputes if the parcel goes missing."
+          }
+        }
+      ]
+    }
+  ],
+  "transcripts": {
+    "第1-2题": [
+      "Students at Greenhill University will notice several changes in the dining hall this term. From next Monday, the two main cafeterias will stop handing out plastic forks, knives and spoons with takeaway meals. Diners who want cutlery will pick up a reusable set at the counter and pay a deposit of two dollars, which is returned when the set comes back. Paper straws replaced the plastic ones last month, and cold drinks are now sold in cans or glass bottles instead of plastic cups. The head of campus services, Dana Whitfield, said the trial follows a survey in which nearly seventy percent of students said they would support such a move. She admitted that the deposit system might slow the lunch queue in the first few weeks, and said extra staff would be on hand to help. If the trial goes well, the university plans to extend it to the coffee shops in the library and the sports centre."
+    ],
+    "第3-4题": [
+      "A non-profit group in the town of Westbrook is opening a free summer coding camp for teenagers aged thirteen to seventeen. The camp will run for four weeks in July, with classes on weekday mornings from nine until twelve. Students will learn the basics of building a simple website, and by the end of the course each of them will have designed a small page about a subject they care about. Organisers say there is room for sixty students and that no previous experience is required. Applications opened on Monday and will close at the end of May. Those who cannot easily travel to the town centre can take a bus that leaves from three neighbourhood schools each morning. The group's director, Peter Nash, said the camp began three years ago with twelve teenagers and a single classroom. Last summer, he added, more than half of the students who finished the course went on to take a computer science class at school."
+    ],
+    "第5-7题": [
+      "Lakeside Park will stay open until eleven at night from this Friday, three hours later than usual, as part of a two-month trial. The city council says the aim is to give residents somewhere to walk and exercise after work, especially in the hot summer months when daytime temperatures keep many people indoors. New lights have been fitted along the main path around the lake, and two more security guards will patrol the park in the evenings. The boating area and the children's playground, however, will still close at eight, because staff are needed to check the equipment every night. Not everyone is pleased. A group of residents living near the east gate has written to the council, arguing that late-night noise and parking problems are likely to get worse. The council has promised to review the complaints after the first month and to shorten the opening hours if the disturbance becomes serious. A final decision on whether to keep the later closing time will be made in September."
+    ],
+    "第8-11题": [
+      "W: Greenhill Sports Centre, Sophie speaking. How can I help? M: Hi, um, I am a second-year student and I was thinking of joining the gym. I mean, I have never really used one before, so I am not sure where to start. W: No problem. We have two kinds of membership. The full one is ninety dollars a term and gives you everything, the weights room, the pool and all the classes. The basic one is fifty, but it covers only the weights room and the pool.",
+      "M: Right. And, sorry, does the basic one include the pool at weekends? Someone told me it is closed on Sundays. W: The pool is open every day, but on Sunday it closes at four instead of nine. M: OK, that is fine. I think I would go for the full one, because I would like to try a class. What sort of classes are there? W: Well, there is yoga on Monday and Wednesday mornings, spinning, that is the exercise bikes, on Tuesday and Thursday evenings, and a beginners' fitness class on Saturday at ten.",
+      "M: Saturday at ten might work. Is it very hard? I am, er, not exactly fit at the moment. W: It is designed for people who have not exercised for a while. The instructor keeps the group small, twelve people at most, so she can check everyone's technique. M: Sounds good. Do I need to book, or can I just turn up? W: You need to book, and places go quickly. Booking opens a week before each class, online or at the desk.",
+      "M: Got it. And one more thing, can I pay by card, or is it cash only? W: Card is fine. If you sign up before Friday there is a ten percent discount for new members. M: Oh, nice. I will come in tomorrow then. W: Great. Ask for me at the desk."
+    ],
+    "第12-15题": [
+      "W: So, have you looked at the train times for the trip? M: I have, and honestly it is more expensive than I expected. A return ticket to the coast is eighty dollars each. W: Eighty? That is, wow. Last year it was about fifty. M: I know. But there is a slower train that takes five hours instead of three, and that one is only forty-five.",
+      "W: Five hours is a lot. Though I suppose we could leave early and sleep on the train. What about somewhere to stay? M: That is the other thing. The hotels near the beach are all over a hundred a night. But I found a hostel about twenty minutes' walk from the water, beds from thirty dollars, and breakfast is included. W: A hostel. Hmm. Is it, you know, shared rooms? M: Four to a room. I have stayed in worse. And the reviews say it is clean, which matters more to me than privacy for two nights.",
+      "W: Fair enough. So if we take the slow train and the hostel, that is, what, about a hundred and fifty each for travel and beds? M: Closer to a hundred and sixty with the bus from the station. But we would still need food, and, um, the boat trip you wanted. W: The boat trip is sixty. I would rather skip one dinner out and do that, actually. M: Agreed. But let us not book the boat until we see the weather. If it rains, that money is gone.",
+      "W: Good point. Shall I book the hostel tonight, then? The cheap beds might go. M: Yes, do it. I will sort out the train tomorrow when I get paid. W: And I will check the forecast on Thursday. M: Perfect. Bring the details to lunch and we can work out the rest."
+    ],
+    "第16-18题": [
+      "Most students take notes in class, but few are ever taught how to do it well. The result is often a page of sentences copied word for word from a slide, which feels productive at the time and turns out to be almost useless a month later.",
+      "Research on memory suggests three simple habits that make a real difference. The first is to write in your own words. When you rephrase an idea, your brain has to process it, and that effort is what fixes it in memory. Copying, by contrast, lets the words pass from the screen to the page without ever being understood.",
+      "The second habit is to leave space. A page packed with text gives you nowhere to add a question, an example or a correction when you review the material. Many students find that a wide margin down one side of the page is enough, and they use it later to sum up each paragraph in a single line.",
+      "The third habit is to review your notes within a day. Reading them once, twenty-four hours after the lecture, does more than reading them five times the week before an exam. The reason is that forgetting has already begun, and pulling the information back takes a little effort, the same effort that strengthens the memory. None of these habits takes extra time in class. They simply change what you do with the pen in your hand."
+    ],
+    "第19-21题": [
+      "I spent last autumn volunteering at a community kitchen in my neighbourhood, and it changed the way I think about free time. I had signed up mostly out of guilt. A friend had been going for a year and kept saying how much she enjoyed it, and I had run out of excuses.",
+      "The first Saturday I arrived at seven in the morning, was handed an apron and a box of onions, and spent two hours cutting them. Nobody thanked me. Nobody even asked my name. I went home smelling of onions and wondering whether I would go back.",
+      "I did go back, mainly because the woman in charge, Nora, remembered me the following week and put me on the serving counter. That was different. Standing there with a ladle in my hand, I met the same faces every Saturday: a retired teacher who came for the soup and stayed for the conversation, two brothers who always arrived late, and a young father who never asked for anything for himself.",
+      "What I learned was not the lesson I expected. I had thought volunteering was about giving something up. In practice, it gave a shape to my week. Saturday morning stopped being a space I had to fill and became the part I looked forward to. I am not suggesting that everyone should spend their weekends in a kitchen. But I would say this: the first visit is the hardest, and it is worth getting through."
+    ],
+    "第22-25题": [
+      "Buying clothes online has one obvious disadvantage: you cannot try them on. Shops know this, which is why most of them now offer free returns within a set number of days. The rules, however, differ far more than most customers realise.",
+      "The first thing to check is the deadline. Thirty days from delivery is common, but some sellers count from the day you place the order, which can take a week off your time. Second, look at what counts as 'unused'. A pair of shoes worn indoors once is usually fine; shoes with mud on the soles are not. Tags must normally still be attached, and many sellers refuse anything that smells of perfume or smoke. Most also expect the item to return in its original packaging.",
+      "Third, decide how to send the item back. A prepaid label is convenient, but the cost is sometimes deducted from your refund, so a cheaper postal service may be worth the extra walk. Keep the receipt until the money arrives. Finally, photograph the parcel before you hand it over, especially if it contains more than one item. Parcels do go missing, and a picture of the sealed box, with the label clearly visible, settles most arguments quickly. None of this takes long. Five minutes of checking before you click 'buy' will save you a month of emails later."
+    ]
+  },
+  "answers": {
+    "1": "B",
+    "2": "C",
+    "3": "B",
+    "4": "A",
+    "5": "D",
+    "6": "A",
+    "7": "C",
+    "8": "B",
+    "9": "C",
+    "10": "D",
+    "11": "A",
+    "12": "B",
+    "13": "C",
+    "14": "D",
+    "15": "A",
+    "16": "C",
+    "17": "B",
+    "18": "A",
+    "19": "D",
+    "20": "B",
+    "21": "A",
+    "22": "C",
+    "23": "A",
+    "24": "B",
+    "25": "D"
+  },
+  "exps": {
+    "1": "答案 B。新闻第二句说两个主食堂将不再随外卖提供塑料刀叉勺，想用餐具的人要在柜台领一套可重复使用的餐具并付两美元押金；A 项停止外卖、C 项提高饮品价格在原文中都没有出现。",
+    "2": "答案 C。第一段末句负责人 Dana Whitfield 承认押金制度在最初几周可能让打饭队伍变慢，因此会增派人手帮忙；B、D 两项的担心原文未提。",
+    "3": "答案 B。第一段末句说课程结束时每个学员都会做出一个关于自己关心话题的小网页；A 项的笔试、C 项为慈善机构做手机应用都属于无中生有。",
+    "4": "答案 A。末段 Peter Nash 说去年夏天完成课程的学生中有一半以上后来在学校选修了计算机课；B 项三个教室、C 项企业赞助与原文不符。",
+    "5": "答案 D。第一段说市议会表示目的是给居民提供下班后散步和锻炼的地方，尤其针对白天高温的夏季；A 项音乐节、B 项吸引游客均未提及。",
+    "6": "答案 A。第二段说划船区和儿童游乐场仍将在八点关闭，因为每晚要检查设备；B 项保安增派、C 项沿湖新装路灯都是已经发生的变化。",
+    "7": "答案 C。第三段说东门附近居民写信给议会，认为深夜噪音和停车问题可能变得更糟；A 项路灯费用、D 项设备状况都不是投诉内容。",
+    "8": "答案 B。对话开头 Kevin 说自己想加入健身房但不知从何开始，随后询问会员种类；A 项订课是在了解会员类型之后才提到的。",
+    "9": "答案 C。Sophie 说基础会员五十美元，只包含器械房和泳池，不含课程；B 项并非全价的一半（九十的一半是四十五），D 项的年级限制原文没有。",
+    "10": "答案 D。Sophie 说初学者健身课每组最多十二人，方便教练检查每个人的动作；A 项每周两次说的是动感单车课，B 项体能测试原文未提。",
+    "11": "答案 A。对话结尾 Kevin 听说周五前报名可享九折后说 I will come in tomorrow，说明他打算去办全价会员；B、C 两项他只是打听，并未决定。",
+    "12": "答案 B。Tom 说往返海边的车票每人八十美元，比他预想的贵；D 项与 Rachel 说去年约五十美元相矛盾。",
+    "13": "答案 C。Rachel 追问 Is it, you know, shared rooms，得知四人一间后表示犹豫；B 项旅馆距海边步行二十分钟，算不上太远。",
+    "14": "答案 D。Tom 说先别订船票，等看了天气再说，Rachel 表示赞同，即天气好才去；A 项与不提前预订的说法相反。",
+    "15": "答案 A。结尾 Rachel 问要不要今晚就把旅馆的便宜床位订下来，Tom 说 Yes, do it，所以今晚订床位；B 项买火车票由 Tom 明天去办。",
+    "16": "答案 C。第一段说逐字照抄幻灯片句子的笔记当时显得有用，一个月后却几乎毫无用处；A、B 两项在原文中没有依据。",
+    "17": "答案 B。第二段说用自己的话改写时大脑必须处理这个观点，正是这份努力把内容记牢；D 项保留老师原话恰恰与原文相反。",
+    "18": "答案 A。第四段说课后二十四小时读一遍胜过考前一周读五遍，因为遗忘已经开始，回忆需要费力；C 项耗时一小时原文未提。",
+    "19": "答案 D。第二段开头作者说自己报名主要是出于愧疚，也就是觉得自己应该做点什么；A 项朋友只是分享感受，并没有劝说她。",
+    "20": "答案 B。第二段末句说作者带着一身洋葱味回家，心里想着还要不要再去，说明她并不确定；A 项与没人道谢、没人问她名字的说法相反。",
+    "21": "答案 A。末段说志愿服务给她一周的生活定下了节奏，周六上午从需要打发的时间变成了她期待的部分；B、D 两项原文没有提到。",
+    "22": "答案 C。第二段说三十天期限很常见，但有些商家从下单当天算起，这样会少掉一周时间；A 项与各家规则差别很大相矛盾。",
+    "23": "答案 A。第二段说室内试穿一次的鞋子通常可以退，鞋底沾泥则不行；B 项香水味、C 项吊牌已拆都属于通常被拒收的情况。",
+    "24": "答案 B。第三段说预付面单很方便，但费用有时会从退款里扣掉；C 项耗时更长是普通邮寄的缺点，不是预付面单的问题。",
+    "25": "答案 D。末段说包裹确实会丢失，一张封好的箱子且面单清晰的照片能迅速解决争议；A 项证明箱内物品并不是拍照的目的。"
+  }
+}

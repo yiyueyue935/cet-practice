@@ -1,0 +1,380 @@
+{
+  "id": "cet6-mock-l2",
+  "level": "cet6",
+  "year": 2026,
+  "month": 1,
+  "set": 2,
+  "mock": true,
+  "sections": [
+    {
+      "name": "Section A",
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What does the Alderton Report conclude about adaptation spending?",
+          "group": "第1-2题",
+          "options": {
+            "A": "It has grown for three years but meets under a fifth of estimated need.",
+            "B": "It has fallen sharply since the panel began collecting figures.",
+            "C": "It is now concentrated almost entirely on early warning systems.",
+            "D": "It has proved sufficient for the regions most exposed to risk."
+          }
+        },
+        {
+          "n": 2,
+          "stem": "According to Dr. Hale, why do some projects attract more money than others?",
+          "group": "第1-2题",
+          "options": {
+            "A": "They are supported by farmers whose growing seasons have shifted.",
+            "B": "They produce visible structures that are simple to publicise and inspect.",
+            "C": "They can be completed within a single budget year.",
+            "D": "They cost far less than networks and training schemes."
+          }
+        },
+        {
+          "n": 3,
+          "stem": "What made photographing the collection difficult?",
+          "group": "第3-4题",
+          "options": {
+            "A": "The pages had been torn by earlier readers.",
+            "B": "The library owned no camera able to work at an angle.",
+            "C": "Many of the bindings crumbled as soon as they were opened.",
+            "D": "The ink in the margins had faded beyond recovery."
+          }
+        },
+        {
+          "n": 4,
+          "stem": "What does Marcus Feld's remark suggest about releasing the images free of charge?",
+          "group": "第3-4题",
+          "options": {
+            "A": "He expects scholars to pay for high-resolution copies later.",
+            "B": "He sees it as a risk that heavy use will justify the expense.",
+            "C": "He believes registration would have discouraged researchers.",
+            "D": "He doubts that the collection will attract much attention."
+          }
+        },
+        {
+          "n": 5,
+          "stem": "What was the main purpose of the first-stage trial?",
+          "group": "第5-7题",
+          "options": {
+            "A": "To compare two doses of the compound.",
+            "B": "To measure how far patients could walk in six minutes.",
+            "C": "To establish that the compound was safe to take.",
+            "D": "To recruit patients for a much larger study."
+          }
+        },
+        {
+          "n": 6,
+          "stem": "What does the research director say about the walking-distance result?",
+          "group": "第5-7题",
+          "options": {
+            "A": "It was smaller than the designers had expected.",
+            "B": "It may not last beyond the twelve weeks of the trial.",
+            "C": "It was recorded mainly in patients given the placebo.",
+            "D": "It disappeared when the dose was reduced."
+          }
+        },
+        {
+          "n": 7,
+          "stem": "What is planned for the autumn?",
+          "group": "第5-7题",
+          "options": {
+            "A": "Recruitment for a trial at eleven centres.",
+            "B": "Publication of the full results of the first trial.",
+            "C": "A review of the side effects reported by volunteers.",
+            "D": "Approval of the compound for general use."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "questions": [
+        {
+          "n": 8,
+          "stem": "What does Tobias report about the keynote speaker?",
+          "group": "第8-11题",
+          "options": {
+            "A": "She has asked to be replaced by a colleague.",
+            "B": "She has agreed to speak for a reduced fee.",
+            "C": "She has withdrawn without suggesting anyone else.",
+            "D": "She has asked for her lecture to be moved."
+          }
+        },
+        {
+          "n": 9,
+          "stem": "Why is Ellen worried about the replacement?",
+          "group": "第8-11题",
+          "options": {
+            "A": "The replacement has never published on the conference theme.",
+            "B": "Registrations may have been driven by the original speaker's reputation.",
+            "C": "The replacement cannot travel in April.",
+            "D": "The programme has already gone to press."
+          }
+        },
+        {
+          "n": 10,
+          "stem": "What do they decide to do about the parallel sessions?",
+          "group": "第8-11题",
+          "options": {
+            "A": "Reduce the number of papers accepted.",
+            "B": "Add a fifth room to take the overflow.",
+            "C": "Cut each paper to fifteen minutes and appoint a discussant.",
+            "D": "Spread the sessions over an extra day."
+          }
+        },
+        {
+          "n": 11,
+          "stem": "How do they plan to pay the discussants?",
+          "group": "第8-11题",
+          "options": {
+            "A": "By raising the registration fee.",
+            "B": "From the budget already set aside for travel grants.",
+            "C": "By charging the publisher for the programme.",
+            "D": "With money freed because printing is now covered."
+          }
+        },
+        {
+          "n": 12,
+          "stem": "Why does Daniel want to leave his laboratory job?",
+          "group": "第12-15题",
+          "options": {
+            "A": "He has lost interest in the science itself.",
+            "B": "He finds the hours at the bench exhausting.",
+            "C": "He enjoys explaining research to the public more than bench work.",
+            "D": "He has been offered a better-paid post elsewhere."
+          }
+        },
+        {
+          "n": 13,
+          "stem": "What does Grace say matters most about his first pieces of writing?",
+          "group": "第12-15题",
+          "options": {
+            "A": "That they appear in a well-known publication.",
+            "B": "That they are edited by someone competent.",
+            "C": "That they are written within a single month.",
+            "D": "That they cover the whole of his research field."
+          }
+        },
+        {
+          "n": 14,
+          "stem": "What is wrong with Daniel's comparison about pay?",
+          "group": "第12-15题",
+          "options": {
+            "A": "It ignores the cost of moving to another city.",
+            "B": "It relies on figures that are several years out of date.",
+            "C": "It sets a starting salary against one he would reach after four years.",
+            "D": "It assumes his salary would never rise again."
+          }
+        },
+        {
+          "n": 15,
+          "stem": "What does Grace advise Daniel to do?",
+          "group": "第12-15题",
+          "options": {
+            "A": "Resign and look for work in science writing at once.",
+            "B": "Ask for a four-day week and build a portfolio over a year.",
+            "C": "Apply for a post at a learned society instead.",
+            "D": "Take a course in journalism before applying."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section C",
+      "questions": [
+        {
+          "n": 16,
+          "stem": "What assumption do universities commonly make about critical thinking?",
+          "group": "第16-18题",
+          "options": {
+            "A": "That it will develop on its own once students know enough.",
+            "B": "That it can be taught without any subject knowledge.",
+            "C": "That it is best developed in very small classes.",
+            "D": "That examinations already reward it generously."
+          }
+        },
+        {
+          "n": 17,
+          "stem": "What is the point of asking students to list the claims both accounts accept?",
+          "group": "第16-18题",
+          "options": {
+            "A": "It teaches them to choose the stronger side quickly.",
+            "B": "It shows that disagreement rests on a narrow base of shared fact.",
+            "C": "It removes the need for a teacher's judgement.",
+            "D": "It proves that one of the accounts must be false."
+          }
+        },
+        {
+          "n": 18,
+          "stem": "What obstacle does the author identify?",
+          "group": "第16-18题",
+          "options": {
+            "A": "A shortage of staff able to mark written work.",
+            "B": "The cost of buying new teaching technology.",
+            "C": "Departments' reluctance to give up time now spent on content.",
+            "D": "Students' unwillingness to read opposing views."
+          }
+        },
+        {
+          "n": 19,
+          "stem": "What is the main weakness of regulating individual machines?",
+          "group": "第19-21题",
+          "options": {
+            "A": "The limits cannot be checked with a meter.",
+            "B": "It ignores the combined effect of many legal sources.",
+            "C": "It places too heavy a burden on small shops.",
+            "D": "It applies only to refrigeration units."
+          }
+        },
+        {
+          "n": 20,
+          "stem": "Why is measuring noise difficult?",
+          "group": "第19-21题",
+          "options": {
+            "A": "Meters cannot record sound at a bedroom window.",
+            "B": "Residents report noise that instruments cannot detect.",
+            "C": "A short reading misses intermittent events and seasonal change.",
+            "D": "Legal limits differ from one street to the next."
+          }
+        },
+        {
+          "n": 21,
+          "stem": "What is the political disadvantage of zone-based regulation?",
+          "group": "第19-21题",
+          "options": {
+            "A": "It makes the total amount of noise invisible.",
+            "B": "It requires councils to buy equipment they cannot afford.",
+            "C": "It has been rejected by the courts.",
+            "D": "It means telling some people their share must shrink."
+          }
+        },
+        {
+          "n": 22,
+          "stem": "What does the author say is wrong with the debate on machines and jobs?",
+          "group": "第22-25题",
+          "options": {
+            "A": "It assumes that machines will take most jobs.",
+            "B": "It concentrates on the number of jobs rather than their shape.",
+            "C": "It relies on figures supplied by employers.",
+            "D": "It ignores the views of clerical workers."
+          }
+        },
+        {
+          "n": 23,
+          "stem": "What pattern has been visible so far?",
+          "group": "第22-25题",
+          "options": {
+            "A": "A hollowing out of middle-skill clerical and technical work.",
+            "B": "A general rise in unemployment across all levels.",
+            "C": "The collapse of firms that automate their claims.",
+            "D": "A transfer of judgement work to junior staff."
+          }
+        },
+        {
+          "n": 24,
+          "stem": "What long-term consequence is described in the third paragraph?",
+          "group": "第22-25题",
+          "options": {
+            "A": "Firms find they have no internal candidates for senior roles.",
+            "B": "Entry-level workers begin to demand higher salaries.",
+            "C": "Supervisors are themselves replaced by automated systems.",
+            "D": "Customers lose confidence in automated decisions."
+          }
+        },
+        {
+          "n": 25,
+          "stem": "What does the author recommend?",
+          "group": "第22-25题",
+          "options": {
+            "A": "Preserving jobs that no longer need doing.",
+            "B": "Delaying automation until all staff are retrained.",
+            "C": "Rebuilding entry-level routes such as apprenticeships.",
+            "D": "Raising salaries in occupations facing shortages."
+          }
+        }
+      ]
+    }
+  ],
+  "transcripts": {
+    "第1-2题": [
+      "A report published today by the Alderton Panel on Climate Finance concludes that spending on adaptation has risen for a third consecutive year, yet still covers less than a fifth of what the most exposed regions are estimated to need. The panel, made up of twelve economists and engineers, examined public budgets in forty-one countries. It found that money is increasingly directed towards sea walls and drainage systems, while far less is committed to early warning networks and to the retraining of farmers whose growing seasons have shifted. Dr. Nina Hale, who chaired the panel, said the imbalance was not accidental. Projects that produce a visible structure, she argued, are easier to announce and easier to audit than projects whose benefits depend on habits changing slowly over a decade. The report recommends that donors tie a fixed share of every adaptation grant to monitoring and to local training, and that progress be reviewed every two years rather than every five. Governments are expected to respond at a meeting in March."
+    ],
+    "第3-4题": [
+      "Caldwell Library has completed a four-year project to photograph and publish its collection of medieval medical manuscripts, some of which have not been handled by anyone outside the library for more than a century. The collection consists of eighty-three volumes, many of them bound in covers that crumble at the hinge the moment they are opened. Rather than flattening the pages against a glass plate, the conservation team built a foam cradle for each volume, so that it could be photographed at an angle of no more than forty degrees. Every image was then checked by two readers working independently, because faded ink in the margins is easily mistaken for damage. The library has released the images without charge and without registration, a decision its director, Marcus Feld, described as a bet that use will justify the cost. Scholars have already begun to compare recipes for pain relief across the volumes, and a group in Veymouth reports that one instruction long dismissed as nonsense appears to describe a workable antiseptic."
+    ],
+    "第5-7题": [
+      "A small biotechnology company has reported the results of a first-stage trial of a compound intended to slow the loss of muscle strength in patients with a rare inherited disorder. The trial enrolled thirty-six volunteers and lasted twelve weeks. Because the purpose of such a study is to establish safety rather than benefit, the primary measure was the number and severity of side effects; on that measure the compound performed acceptably, with headaches the most common complaint and no participant withdrawing. Secondary measures were more encouraging than the designers had expected. Patients who received the higher dose walked, on average, sixty metres further in six minutes than they had at the start, while those given the placebo changed hardly at all. The company's research director cautioned that the groups were small, that the trial had not been designed to compare doses, and that a twelve-week improvement may not persist. A second-stage trial, involving four hundred patients at eleven centres, is due to begin recruiting in the autumn."
+    ],
+    "第8-11题": [
+      "Ellen: Tobias, have you read the latest message from the keynote speaker? Tobias: Only the first line. She has pulled out. Family reasons, apparently, and she suggests her deputy instead. Ellen: Her deputy. The one who wrote the book on harbour towns? Tobias: That is the one. I have read two of her chapters and they are sharp, but she is far less known. Half the registrations we have had so far probably came because of the original name. Ellen: Then we must decide this week, before the programme goes to press. If we announce the change now and explain why, people will accept it. If they discover it in April from the website, they will not. Tobias: Agreed. The other problem is the parallel sessions. We have nineteen papers and four slots, which means five papers in some rooms. Ellen: Five is too many. Twenty minutes each leaves no time for questions, and the questions are the reason people come. Tobias: We could shorten the papers to fifteen minutes and add a discussant to each session. That keeps the numbers and still leaves room for argument. Ellen: It also means finding eight discussants who will actually read the papers beforehand. Last time half of them arrived having skimmed the abstract. Tobias: We could pay them. Not much, but enough to make it a commitment rather than a favour. Ellen: Out of which budget? The travel grants are already stretched. Tobias: The publisher has offered to cover the printing of the abstract book. That frees about two thousand, and it is not a sum that would change anyone's travel plans. Ellen: All right. But I want the discussants named in the programme, so that if they do not deliver, it is visible. Tobias: Fair. And the poster session? Do we keep it on Thursday evening? Ellen: Move it to Friday lunchtime. People will actually walk past the posters if there is food."
+    ],
+    "第12-15题": [
+      "Grace: So, Daniel, you said on the form that you are thinking of leaving the laboratory. What is pulling you away? Daniel: It is not the science. I like the science. It is that I spend six hours a day at a bench, and the part of the week I look forward to is explaining the work to visitors. Grace: Then let us take that seriously rather than treating it as a hobby. Have you written anything for a general audience? Daniel: A few pieces for the department newsletter. Nothing that anyone would call a portfolio. Grace: That is the first gap to close, and it is the cheapest one. Three or four short pieces, published somewhere with an editor who will cut them. The editing matters more than the publication. Daniel: I have been put off by the pay. Everyone I have spoken to says science writing pays badly at the start. Grace: It does, for the first two years. But you are comparing a starting salary with the salary you would reach in four years if you stayed. That comparison always looks bad, and it is the wrong one. Daniel: So what is the right one? Grace: Whether the ceiling is higher, and whether you can live on the floor for a while. Do you have savings? Daniel: About four months' worth. Grace: Then do not resign. Ask for a four-day week, use the fifth day for writing, and give yourself a year. If by next summer you have six published pieces and no income from them, you will know something. Daniel: And if I do have income? Grace: Then you negotiate from strength rather than from hope. One more thing: talk to people doing the job now, not to people who left it five years ago. The work has changed."
+    ],
+    "第16-18题": [
+      "Universities routinely list critical thinking among their graduate aims, and just as routinely assume that it will appear once students have acquired enough subject knowledge. The assumption is convenient, because it requires no change to the timetable. It is also largely unsupported. Studies that follow students through a degree find that the ability to weigh evidence improves modestly at best, and that most of the improvement occurs in departments where argument is taught explicitly rather than absorbed by example. What explicit teaching looks like is less mysterious than the phrase suggests. In one design, students are given two accounts of the same event, written from opposing positions, and asked to list the claims that both accounts accept. The exercise is uncomfortable, because most students arrive expecting to choose a side. Its value lies in showing that disagreement usually rests on a narrow base of shared fact, and that identifying that base is a skill which can be practised. A second design asks students to write the strongest version of the argument they reject. This is harder still, and it exposes a common failure: students can often state an opposing view, but they state it in a form no reasonable person would hold, which makes refutation easy and learning impossible. None of this requires smaller classes or new technology. It requires that the reasoning be made visible, that students be asked to produce it under conditions they cannot avoid, and that someone with expertise mark the result. The obstacle is not money but the reluctance of departments to surrender time currently spent on content. Content, after all, is what examinations reward."
+    ],
+    "第19-21题": [
+      "Most cities now regulate the noise of individual machines: a lorry, a drill, a ventilation unit must each stay below a stated limit. The approach has an obvious appeal, since a limit can be written into a permit and checked with a meter. It also fails to address the problem residents actually complain about, which is the sum of many sources that are each perfectly legal. A street may contain a dozen refrigeration units, each quiet enough to pass inspection, whose combined hum at three in the morning is what wakes the people living above the shop. No single owner is responsible, and no inspector has the authority to require that any one of them be switched off. Regulation designed around sources cannot see a total. The second difficulty is measurement. A reading taken at a bedroom window over ten minutes will miss the delivery that arrives at half past five, and it will also miss the fact that a sound tolerable in July, with windows open, is intolerable in January, when the same plant runs all night. Averaging over time produces numbers that are defensible in court and meaningless to the person who cannot sleep. Some cities have begun to regulate zones rather than machines, setting a ceiling for an area and then allocating it, much as a cap on emissions is allocated among firms. The advantage is that it makes the total visible and forces a decision about who must reduce. The disadvantage is political: allocating a scarce resource means telling someone that their share is smaller than they had assumed, and few councils relish that conversation before an election."
+    ],
+    "第22-25题": [
+      "Arguments about artificial intelligence and employment tend to be conducted in totals: either machines will take most jobs, or they will take very few. Both claims are probably wrong, and both are unhelpful, because what matters is not the number of jobs but their shape. The pattern visible so far is not mass dismissal but the hollowing out of the middle. Tasks that can be described precisely enough to be automated tend to be the tasks of clerical and technical workers, whose jobs consist of applying known rules to known cases. The work that remains at the top involves judgement under uncertainty, and the work at the bottom involves physical presence in unpredictable settings. A firm that automates its claims processing does not usually close; it hires fewer clerks and more people who can supervise the system and explain its decisions to customers and regulators. The consequence is a change in the ladder rather than the disappearance of the building. Entry-level positions have traditionally been where people learned the judgement that the higher positions require. If the entry-level task is automated, the learning is removed along with it, and firms discover after several years that they have no internal candidates for roles they assumed would fill themselves. This is not an argument for preserving jobs that no longer need doing. It is an argument for rebuilding the bottom rung deliberately, through apprenticeships, through supervised projects, and through a willingness to employ people before they are fully productive. The cost of doing so is visible on a budget line; the cost of not doing so appears a decade later, in the form of a shortage that no salary seems able to fill."
+    ]
+  },
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "B",
+    "5": "C",
+    "6": "B",
+    "7": "A",
+    "8": "A",
+    "9": "B",
+    "10": "C",
+    "11": "D",
+    "12": "C",
+    "13": "B",
+    "14": "C",
+    "15": "B",
+    "16": "A",
+    "17": "B",
+    "18": "C",
+    "19": "B",
+    "20": "C",
+    "21": "D",
+    "22": "B",
+    "23": "A",
+    "24": "A",
+    "25": "C"
+  },
+  "exps": {
+    "1": "答案 A。新闻首句说适应支出已连续第三年上升，却仍不足最脆弱地区所需的两成；D 项与「不足五分之一」直接相反，B 项方向也相反。",
+    "2": "答案 B。Dr. Hale 指出能造出可见结构的项目更容易宣布、更容易审计，即更容易宣传与核查；A 项把报告建议中的农民培训误当成受资助对象。",
+    "3": "答案 C。原文说许多书册的封面一打开就在折页处碎裂，保护团队才为每册特制泡沫托架；D 项把「页边褪色墨迹易被误认为破损」曲解为墨迹无法复原。",
+    "4": "答案 B。Marcus Feld 把免费开放称为一场赌，赌的是使用量能证明这笔开销值得，可见他视其为有风险的决定；A 项原文未提日后收费。",
+    "5": "答案 C。原文明确说这类研究的目的是确立安全性而非疗效，主要指标是副作用的数量与严重程度；B 项只是次要指标，D 项属于下一阶段。",
+    "6": "答案 B。研究主管提醒受试组人数少、试验并非为比较剂量而设计，且十二周的改善未必能持续；A 项与「比设计者预期更令人鼓舞」相反。",
+    "7": "答案 A。末句说第二阶段试验将在十一个中心招募四百名患者，秋季开始招募；D 项把早期试验误推为已获批上市。",
+    "8": "答案 A。Tobias 说主旨演讲者已经退出，并提出由她的副手代替；C 项与「提出替代人选」矛盾。",
+    "9": "答案 B。Ellen 说目前已报名的人多半是冲着原来的名字来的，即原演讲者的声望带动了注册；D 项与「节目单尚未付印」相反。",
+    "10": "答案 C。两人商定把每篇报告压缩到十五分钟，并为每场增设一位评议人；A 项是原文讨论过但未采纳的做法。",
+    "11": "答案 D。Tobias 说出版社愿意承担摘要集的印刷费，由此腾出约两千，正好用来支付评议人；B 项是 Ellen 明说已经吃紧的预算。",
+    "12": "答案 C。Daniel 说让他期待的是向参观者解释研究工作，而不是放弃科学本身；A 项与「我喜欢这门科学」相反。",
+    "13": "答案 B。Grace 说编辑比发表更重要，即需要有称职的编辑替他删改；A 项正是她刻意淡化的发表平台。",
+    "14": "答案 C。Grace 指出他拿起薪去比留下来四年后才能达到的薪水，这种比较永远是错的；B 项原文未提数据过时。",
+    "15": "答案 B。Grace 建议他不要辞职，而是申请每周工作四天，用第五天写作，并给自己一年时间；A 项与「不要辞职」直接冲突。",
+    "16": "答案 A。首段说大学普遍假定学生有了足够学科知识后批判性思维自然出现，作者随即指出这一假定缺乏依据；C 项是末段明确否定的条件。",
+    "17": "答案 B。第二段说该练习的价值在于显示分歧建立在很窄的共同事实之上，而识别这一共同基础是可训练的技能；A 项与「学生原以为要选边」的用意相反。",
+    "18": "答案 C。末段说障碍不在经费，而在各系不愿放弃目前用于讲授内容的时间；B 项被「不需要新技术」直接排除。",
+    "19": "答案 B。第二段以制冷机组为例，说明每台都合法、合起来却吵醒住户，而按声源设计的法规看不到总量；A 项与「可用仪器检查」相反。",
+    "20": "答案 C。第三段说十分钟的读数会漏掉清晨的送货，也漏掉冬夏感受的差异，因此平均值在法庭上站得住，对失眠者却毫无意义；B 项原文未提。",
+    "21": "答案 D。末段说分区管理要告诉某人他的份额比预想的小，而议会不愿在选举前做这件事；A 项与「让总量可见」相反。",
+    "22": "答案 B。首段说争论总在总数上进行，而真正重要的是工作的形状而非数量；A 项只是作者所反对的一方观点。",
+    "23": "答案 A。第二段说可见的模式不是大规模裁员，而是中间被掏空，被自动化的正是文书与技术类岗位；C 项与「公司通常不会关门」相反。",
+    "24": "答案 A。第三段说入门岗位本是学习判断力的地方，一旦被自动化，这条学习路径随之消失，若干年后企业发现自己没有内部人选可提拔；B 项原文未提。",
+    "25": "答案 C。末段主张有意重建最底层的台阶，途径包括学徒制和有指导的项目；A 项是作者明确不赞成的做法。"
+  }
+}

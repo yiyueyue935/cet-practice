@@ -1,0 +1,235 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet6",
+    "year": 2026,
+    "month": 1,
+    "set": 2,
+    "title": "原创模拟 六级 第2套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "On a summer afternoon a dense city can run several degrees warmer than the farmland beyond its edge. Known as the urban heat island effect, the gap is not simply a matter of latitude. Concrete, asphalt and dark roofing [[26]] sunlight by day and release it slowly after sunset, so streets stay warm long into the night. Air conditioners then work harder and [[27]] more electricity, pushing outdoor temperatures higher.\n\nPlanners now treat it as a design problem, not an inevitable one. Green roofs planted with low-growing species [[28]] the sun's energy for evaporation instead of storing it, and they insulate the building beneath. Permeable paving lets rain [[29]] into the soil rather than run off into drains, keeping surfaces cooler and easing the load on sewers during storms. Street trees cast shade over pavements and [[30]] moisture through their leaves.\n\nNone of these measures is expensive in itself, but their [[31]] depends on scale. A single planted roof cools only the floor below it; a network of roofs and shaded streets can lower temperatures across a district. Cities with such networks report the effect is most [[32]] in the evening, when the day's heat would otherwise be released.\n\nCritics note that green infrastructure demands [[33]] maintenance, and trees need years to mature. Yet the alternatives—larger air-conditioning plants, wider roads and more powerful pumps—are [[34]] more costly to build and to run, and in the long run they tend to [[35]] the very problem they were meant to solve, since every extra unit of cooling adds heat to the street.",
+      "word_options": [
+        { "k": "A", "t": "absorb" },
+        { "k": "B", "t": "benefit" },
+        { "k": "C", "t": "capture" },
+        { "k": "D", "t": "considerably" },
+        { "k": "E", "t": "constant" },
+        { "k": "F", "t": "consume" },
+        { "k": "G", "t": "expense" },
+        { "k": "H", "t": "gradual" },
+        { "k": "I", "t": "impact" },
+        { "k": "J", "t": "pronounced" },
+        { "k": "K", "t": "roughly" },
+        { "k": "L", "t": "release" },
+        { "k": "M", "t": "soak" },
+        { "k": "N", "t": "capacity" },
+        { "k": "O", "t": "aggravate" }
+      ],
+      "questions": [
+        { "n": 26, "answer": "A", "explanation": "答案 A) absorb。主语是 Concrete, asphalt and dark roofing 三个并列名词，谓语须用复数现在时，且与后半句 release it slowly 形成对照，故选 absorb（吸收）。F) consume 虽是动词，但宾语通常是燃料或电力，与 sunlight 搭配不当。" },
+        { "n": 27, "answer": "F", "explanation": "答案 F) consume。and 连接 work harder 与另一个并列谓语，主语 Air conditioners 为复数，须用现在时原形；consume electricity 是固定搭配，后文 pushing outdoor temperatures higher 也说明用电量增加。A) absorb 与 electricity 不能搭配。" },
+        { "n": 28, "answer": "C", "explanation": "答案 C) capture。主语 Green roofs 为复数，须用现在时动词；capture the sun's energy for evaporation 与 instead of storing it 构成对比，强调截获而非储存。L) release 与 instead of storing 语义方向相反。" },
+        { "n": 29, "answer": "M", "explanation": "答案 M) soak。lets rain ___ into the soil 中 lets 后接动词原形，soak into 意为渗入，与 rather than run off into drains 形成对照。C) capture 不能与 into the soil 搭配，语义也不通。" },
+        { "n": 30, "answer": "L", "explanation": "答案 L) release。and 连接 cast shade 与另一个谓语，主语 Street trees 为复数；树木通过叶片释放水分，与遮阴并列说明行道树的作用。M) soak 与 through their leaves 搭配不当。" },
+        { "n": 31, "answer": "I", "explanation": "答案 I) impact。their 后须接名词，depends on scale 说明讨论的是作用的大小，且与下文 the effect is most ... 呼应。G) expense 与 depends on scale 逻辑不通，本段也不是在谈费用。" },
+        { "n": 32, "answer": "J", "explanation": "答案 J) pronounced。is most ___ 需要形容词作表语，most 前无 the，说明此处是程度副词修饰形容词；pronounced 意为明显，与傍晚释放蓄热的语境一致。H) gradual 与傍晚最明显这一判断相矛盾。" },
+        { "n": 33, "answer": "E", "explanation": "答案 E) constant。demands ___ maintenance 中需要形容词修饰 maintenance，constant 表示持续不断的，与后文树木需多年长成共同说明维护负担。H) gradual 修饰 maintenance 时无法表达频率，语义不成立。" },
+        { "n": 34, "answer": "D", "explanation": "答案 D) considerably。are ___ more costly 中 more 前须用副词修饰比较级，considerably 表示大大地。K) roughly 与 more costly 连用意为大约更贵，逻辑上说不通。" },
+        { "n": 35, "answer": "O", "explanation": "答案 O) aggravate。tend to 后接动词原形，宾语 the very problem they were meant to solve 说明这些替代方案反而加剧了问题。C) capture 与 problem 不能搭配。" }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        { "label": "A", "text": "The arithmetic of ageing is simple and unforgiving. In many countries the number of people over eighty is growing faster than any other age group, while the number of adults of working age who might look after them is not. Families are smaller, adult children often settle in another city, and more women, who once supplied most unpaid care, now hold full-time jobs. The result is a gap that no single institution can close. Debates about care therefore turn less on whether the arrangements must be reorganised than on which combination of them can carry the load." },
+        { "label": "B", "text": "Home care is the option most older people say they prefer, and it is usually the cheapest. A visit may involve help with washing, dressing, medication and a hot meal, and it allows someone to remain among familiar neighbours. Yet the model has structural weaknesses. Visits are often fifteen or thirty minutes long, which is enough for tasks but not for conversation. Workers travel between appointments on their own time, and a single absence can leave a frail client without support for a whole day. Recruitment is further hampered by the isolation of the job." },
+        { "label": "C", "text": "Day centres occupy a middle ground. Older people arrive in the morning and return home in the afternoon, receiving a meal, exercise classes and physiotherapy in between. The benefit is twofold: clients escape isolation, and relatives who provide most of the daily care gain a few hours of relief. Such centres, however, depend on minibuses and on premises close to where people live, and both are expensive to sustain. Where municipal budgets for transport have been cut, attendance has fallen sharply even though the centres themselves stayed open." },
+        { "label": "D", "text": "Long-term care insurance attempts to answer the question of payment. Contributions are collected from workers, sometimes matched by employers, and pooled in a fund that releases money once an independent assessment confirms that a person needs help. Some schemes pay cash, allowing families to reward a relative; others pay providers directly. Cash is popular but hard to monitor, since money intended for care may be spent on something else. Schemes that pay providers keep standards higher but cost more to administer, and the eligibility thresholds are invariably contested." },
+        { "label": "E", "text": "Shared living has emerged as an unexpected solution. Universities and housing associations match students with older homeowners who have a spare room; the student offers company and light help in exchange for low rent. Evaluations report high satisfaction on both sides, together with genuine friction over noise, cooking smells and incompatible ideas of tidiness. Schemes that succeed invest heavily in matching and in a named coordinator whom either party can telephone. Those that simply hand over a key tend to collapse within a year, often after a single quarrel about the bathroom." },
+        { "label": "F", "text": "None of these arrangements functions without people willing to do the work. Paid care is physically demanding, emotionally draining and, in most places, poorly paid. Staff turnover is high, and agencies spend heavily on recruitment only to lose new employees within months. The remedy most often proposed is a career structure: recognised qualifications, progression into specialist roles, and wages that reflect responsibility. Where such structures exist, vacancies fall. Where care is treated as unskilled work that anyone can pick up, shortages persist regardless of how much public money is spent." },
+        { "label": "G", "text": "Technology is frequently offered as a substitute for labour. Sensors can detect a fall, a kettle left on the hob or a front door opened at three in the morning, and alerts can be routed to a relative or a call centre. Video calls ease loneliness for those able to use them. The difficulty is that the people most in need are often the least connected: they may lack devices, broadband or the confidence to learn. A sensor network is a useful supplement to human contact and never a replacement for it." },
+        { "label": "H", "text": "Behind every scheme lies a question of fairness. Care for the very old is consumed by one generation and paid for by another, and the arrangement is politically fragile because the benefits are visible immediately while the costs persist for decades. Some argue that insurance is fairest, since everyone contributes and everyone may one day claim. Others reply that general taxation spreads the burden more widely and avoids excluding those who never worked formally. No government has yet found a way to raise the money without a prolonged argument." },
+        { "label": "I", "text": "Rural areas expose the weaknesses of every model. Populations are sparse, so a care worker may drive forty minutes between clients and the cost of each visit rises accordingly. Day centres close for lack of numbers, shops and clinics withdraw, and the residents who remain depend on neighbours who are themselves elderly. Informal networks can be remarkably resilient, but they are invisible to funding formulas that count registered users. Mobile services, which bring a doctor or a physiotherapist to a village hall once a week, are among the few responses that work." },
+        { "label": "J", "text": "What the evidence supports is not a single model but a portfolio. Home visits, day centres, shared housing and insurance each address part of the problem, and each fails when asked to carry the whole of it. The test of a care system is therefore not which arrangement it prefers but whether older people can move between them as their needs change, and whether the choice is genuinely theirs. Dignity, in practice, means being able to say what kind of help you want and being believed." }
+      ],
+      "questions": [
+        { "n": 36, "stem": "Care may be paid for from pooled contributions and released only after an official assessment of need.", "answer": "D", "explanation": "答案 D 段。该段说明长期护理保险的运作：工人缴费、雇主可能配比，资金汇入基金，经独立评估确认当事人需要照护后才放款，与题干 pooled contributions 和 official assessment 对应。B 段讨论的是上门探访的时长问题，不涉及筹资与评估。" },
+        { "n": 37, "stem": "Short appointments leave no room for company, and a missed visit can strand a frail person for a day.", "answer": "B", "explanation": "答案 B 段。该段指出探访常只有十五到三十分钟，够完成任务却不够交谈，护理员在预约之间自行赶路，一次缺勤就能让体弱者整天无人照应，与题干两处细节一一对应。C 段的日间中心是集体场所，不涉及上门探访。" },
+        { "n": 38, "stem": "What decides the fate of shared housing is careful pairing and someone to mediate, not the room itself.", "answer": "E", "explanation": "答案 E 段。该段说成功的共居项目在配对和指定协调人上投入很大，而只把钥匙交出去的项目往往一年内就散伙，正是配对与调解比房间本身更关键之意。D 段谈的是保险给付方式，与配对无关。" },
+        { "n": 39, "stem": "Monitoring devices help those already equipped to use them and cannot stand in for human presence.", "answer": "G", "explanation": "答案 G 段。该段指出最需要技术帮助的人往往最缺乏设备、宽带和学习信心，末句明确说传感器网络只是人际接触的补充，永远不能取代它，与题干两句判断吻合。F 段谈的是护理人力短缺，不是技术。" },
+        { "n": 40, "stem": "Formulas that count registered users fail to see the help neighbours give one another in remote places.", "answer": "I", "explanation": "答案 I 段。该段说农村的非正式互助网络相当有韧性，却对按登记用户数拨款的公式而言是看不见的，即统计口径漏掉了这部分互助。H 段讨论代际公平，不涉及拨款公式。" },
+        { "n": 41, "stem": "Attendance can decline even when a centre stays open, if getting there becomes too costly.", "answer": "C", "explanation": "答案 C 段。该段末句说交通预算被削减后，即便中心本身仍然开放，到场人数也大幅下降，与题干的条件关系完全对应。B 段的困难在于探访时间短，不在交通。" },
+        { "n": 42, "stem": "Staff shortages ease where care work offers recognised qualifications and visible promotion.", "answer": "F", "explanation": "答案 F 段。该段把解决办法落在职业结构上：被认可的资格、进入专科岗位的通道、与责任相称的报酬，并说有这样的结构空缺就下降，与题干同义。E 段讲的是学生与老人的共居安排。" },
+        { "n": 43, "stem": "The supply of unpaid care inside families is shrinking as households shrink and more women take paid jobs.", "answer": "A", "explanation": "答案 A 段。该段说家庭规模变小、成年子女多迁往他城、原本承担大部分无偿照护的女性更多进入全职工作，照护供给因此萎缩，与题干三点对应。J 段是全文总结，没有涉及人口结构。" },
+        { "n": 44, "stem": "The politics of care is awkward because the gains are felt at once while the bill lasts for decades.", "answer": "H", "explanation": "答案 H 段。该段说照护的好处当下即可见，成本却要持续数十年，因此这一安排政治上脆弱，与题干 gains are felt at once 和 bill lasts for decades 对应。D 段只讲保险如何运作，未讨论政治难度。" },
+        { "n": 45, "stem": "A system should be judged by whether people can switch between arrangements as their circumstances change.", "answer": "J", "explanation": "答案 J 段。该段主张照护体系应是多种方式的组合，评判标准不是偏好哪一种，而是老人能否随需求变化在各安排之间转换，与题干 switch between arrangements 对应。F 段谈的是护理人员的职业发展路径。" }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Of the roughly seven thousand languages spoken today, linguists estimate that between half and ninety per cent will lose their last fluent speaker within a century. The figures are disputed, since the boundary between a language and a dialect is itself a political question, but the direction is not in doubt. What is less often noticed is that a language rarely dies suddenly. It retreats, first from public life, then from the schoolroom, then from the kitchen, until the only people who speak it fluently learned it as children sixty years ago.\n\nLinguists who set out to record such a language face a difficulty that laboratory scientists rarely meet: the object of study is a conversation, and conversations cannot be summoned on demand. A fieldworker may spend months learning enough of a language to ask a question, and years more before speakers are willing to talk freely in front of a microphone. The most valuable material often arrives sideways — a joke, a quarrel, a recipe — when the recorder is running but nobody is performing. Consent, too, must be negotiated repeatedly, because a story told to one researcher may not be intended for an archive that anyone can open.\n\nEven a thorough record is a poor substitute for a living language. A dictionary and a corpus of texts preserve words and some of their uses, but they cannot capture the speed with which a speaker chooses one honorific over another, or the way a particular family pronounces a vowel. Grammars tend to describe the careful speech of the oldest consultants, precisely the variety that younger people no longer hear around them. Documentation, in other words, produces an archive, not a community of speakers.\n\nThis is why a growing number of projects are designed by the communities themselves rather than by visiting academics. In one programme, elders were paid to spend afternoons with teenagers, recording stories and then transcribing them together; the transcripts became school materials, and the recordings the basis of a telephone application. The linguist's role shrank to training and advice. Where such programmes have lasted, the decisive factor has been less money than continuity — the same few people turning up, week after week, for years.\n\nNone of this guarantees survival. A language can be documented exhaustively and still fall silent, and a revival can produce a generation of semi-speakers who are fluent in the classroom register and lost in the kitchen. What has changed is the assumption behind the work. The question is no longer what outsiders can extract from a vanishing community, but what that community decides it wants to keep, and on what terms it is willing to share it.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What does the author emphasise about the way languages disappear?",
+          "options": {
+            "A": "They vanish abruptly once the last elderly speaker dies.",
+            "B": "They withdraw gradually from one area of daily use to another.",
+            "C": "They are lost mainly because schools stop teaching them.",
+            "D": "They decline only after written records have ceased."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段第 4 至 5 句说语言很少突然消亡，而是先退出公共生活，再退出课堂，最后退出厨房，即一层层退守，与 B 项逐域退缩同义。A 项说最后一位老人去世便骤然消失，与 rarely dies suddenly 相反；C 项把学校绝对化为唯一原因，原文只把它列为退守的一站。"
+        },
+        {
+          "n": 47,
+          "stem": "Why is fieldwork on endangered languages described as unusually demanding?",
+          "options": {
+            "A": "Researchers have to master several unrelated languages at once.",
+            "B": "Recordings made in the field are usually of poor technical quality.",
+            "C": "Natural speech cannot be produced to order, so researchers must wait and earn trust.",
+            "D": "Communities generally refuse to permit any recording at all."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 2 段第 1 句说研究对象是对话，而对话无法按需召唤；第 2 句说研究者要花数月乃至数年，等到对方愿意对着麦克风自如说话；第 4 句又说同意须反复协商，合起来即不能点单、只能等待并取得信任。A 项同时掌握数门无关语言原文未提；D 项与文中确有录音材料相矛盾。"
+        },
+        {
+          "n": 48,
+          "stem": "The phrase 'arrives sideways' (Para. 2) most probably means that valuable material comes",
+          "options": {
+            "A": "from moments the researcher did not plan or solicit.",
+            "B": "through written documents rather than speech.",
+            "C": "from neighbouring communities instead of the village.",
+            "D": "only after long and formal interviews."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 2 段第 3 句在 sideways 之后用破折号列举 a joke, a quarrel, a recipe，并补充录音机开着却无人在表演，说明最有价值的语料往往不是按计划问出来的，而是偶然撞上的。B 项理解为书面材料、C 项理解为邻村来源，都与破折号后的举例不符。"
+        },
+        {
+          "n": 49,
+          "stem": "What does the author imply about grammars built on the speech of the oldest consultants?",
+          "options": {
+            "A": "They exaggerate the differences between related dialects.",
+            "B": "They describe a variety that is already fading from everyday use.",
+            "C": "They are more reliable than dictionaries of the same language.",
+            "D": "They are compiled by speakers rather than by trained linguists."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段第 3 句说语法书倾向于描写最年长发音人的审慎语体，而这恰恰是年轻人在身边已听不到的变体，暗示这类语法记录的是正在退出日常生活的形式。A 项谈方言差异、C 项比较词典的可靠性，原文都未作此判断。"
+        },
+        {
+          "n": 50,
+          "stem": "What change in the practice of language work does the author identify?",
+          "options": {
+            "A": "Communities now value documentation more than survival.",
+            "B": "Linguists have abandoned fieldwork in favour of archives.",
+            "C": "The work is increasingly shaped by what communities choose to keep and share.",
+            "D": "Outsiders are no longer welcome in community language projects."
+          },
+          "answer": "C",
+          "explanation": "答案 C。末段最后一句把问题从外来者能从消失的社区提取什么，转为社区自己决定保留什么、以何种条件分享，重心落在社区的选择权上。A 项与第 5 段首句记录并不保证存续相反；B 项语言学家放弃田野属过度推断，第 4 段只说他退到培训与顾问的位置。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "The gig economy was sold as freedom. Instead of a single employer and a fixed shift, a worker would log on when it suited, accept the jobs that appealed, and be paid for each one. Platforms described themselves as marketplaces that matched independent contractors with customers, and for a time the description held. Drivers, couriers and cleaners valued the ability to refuse work without asking permission, and many combined several applications in a single week to fill the hours they wanted.\n\nThe freedom, however, is unevenly distributed. Platforms set the price, the route, the rating threshold below which a worker is deactivated, and the penalty for declining too many offers. A courier who turns down three jobs in an hour may find the next hour empty. None of this is issued as an instruction, which is precisely the point: the constraints arrive as algorithms rather than as a manager, and the worker experiences them as market conditions rather than as orders. The result is a relationship that looks like self-employment and behaves like employment.\n\nWhat such workers lack is not work but the protections attached to it. Sick pay, holiday pay, accident insurance and the right to appeal a dismissal are, in most systems, triggered by the status of employee. A rider injured in traffic may discover that the platform's insurance covers the customer's parcel and not the rider's leg. Savings are supposed to fill the gap, yet earnings fluctuate from week to week, and the people most dependent on the work are least able to absorb a month without it.\n\nRegulators have responded in three broad ways. Some have reclassified workers as employees, which brings protection but also rigidity: platforms then limit hours, and the flexibility that attracted workers in the first place narrows. Others have created an intermediate category with partial rights, a compromise that has proved administratively messy, since the same person may qualify one month and not the next. A third approach leaves the status alone and requires platforms to contribute to a portable fund, so that benefits travel with the worker from one application to another.\n\nThe debate is often framed as a choice between flexibility and security, as though the two were fixed quantities on a seesaw. In practice the trade-off is a design decision, not a law of nature. A system can offer predictable earnings, injury cover and a genuine choice of hours, provided somebody is willing to pay for them; the question of who that somebody should be is political rather than technical.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "What initially attracted workers to platform work?",
+          "options": {
+            "A": "The prospect of a permanent contract with a single firm.",
+            "B": "The freedom to decide when and whether to work.",
+            "C": "Hourly rates higher than those in conventional jobs.",
+            "D": "Training and equipment supplied by the platforms."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段第 4 句说司机、快递员和清洁工看重不必请假就能拒绝工作的能力，第 5 句说不少人同时用几个应用来凑够想做的工时，即自主决定何时做、做不做。A 项长期合同恰是平台模式所没有的；C 项时薪更高原文未提。"
+        },
+        {
+          "n": 52,
+          "stem": "The remark that constraints 'arrive as algorithms' suggests that platform control",
+          "options": {
+            "A": "is weaker than the control a manager exercises.",
+            "B": "operates without being acknowledged as a direct order.",
+            "C": "is applied only to newly recruited workers.",
+            "D": "is designed jointly by workers and platforms."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段说这些限制不是以指令的形式下达的，工人把它们体验为市场状况而非命令，可见控制并未消失，只是不再以管理者发号施令的面目出现，因而更难被识别和质疑。A 项与控制更弱相矛盾，平台仍设定价格、路线与评分门槛；D 项共同设计一说无据。"
+        },
+        {
+          "n": 53,
+          "stem": "The example of the injured rider is used to show that",
+          "options": {
+            "A": "platform insurance protects the goods rather than the person doing the work.",
+            "B": "riders are usually held responsible for accidents they cause.",
+            "C": "customers seldom report damage to their parcels.",
+            "D": "accident rates are higher than platforms admit."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 3 段第 3 句说在交通事故中受伤的骑手可能发现，平台的保险保的是顾客的包裹，而不是自己的腿，用来说明保障对象错位。B 项骑手自负其责、D 项事故率被隐瞒，原文均未涉及。"
+        },
+        {
+          "n": 54,
+          "stem": "What drawback does the author associate with reclassifying workers as employees?",
+          "options": {
+            "A": "It raises the insurance costs paid by customers.",
+            "B": "It narrows the flexibility that workers valued.",
+            "C": "It excludes part-time workers from all protection.",
+            "D": "It obliges platforms to publish their algorithms."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 4 段第 2 句说重新归类为雇员虽带来保障，却也带来刚性：平台随即限制工时，当初吸引工人的灵活性因此收窄。A 项谈顾客保费、D 项谈公开算法，都不是该段内容；C 项把部分保障说成全部排除，属绝对化。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the author's main point in the last paragraph?",
+          "options": {
+            "A": "Flexibility and security can never be combined in practice.",
+            "B": "Platforms ought to be owned collectively by their workers.",
+            "C": "The balance between them is a matter of policy design, not an inevitable trade-off.",
+            "D": "Regulation has made gig work less appealing than office work."
+          },
+          "answer": "C",
+          "explanation": "答案 C。末段第 2 句明确说这种取舍是设计决定而非自然规律，第 3 句说只要有人愿意付钱，可预测的收入、工伤保障与真正的工时选择可以并存，只是由谁付属于政治问题而非技术问题。A 项正是作者要反驳的看法；B 项工人集体所有属额外主张。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on whether community service should be a graduation requirement. You should write at least 150 words but no more than 200 words.",
+    "prompt_cn": "假设你校正在考虑把社区服务设为毕业要求。请写一篇短文表达你的看法。",
+    "word_limit": 150,
+    "sample_essay": "Universities exist to prepare students for more than a career, and few experiences teach civic responsibility as directly as service to a community. I therefore support making community service a graduation requirement, provided that the requirement is designed with care.\n\nA mandatory programme ensures that every student, not only those already inclined to volunteer, meets people whose lives differ from their own. A student who spends a term assisting at a neighbourhood legal clinic, or teaching reading to newly arrived children, learns to listen before advising, and begins to see how much of her own success rested on circumstances she did not choose. Lessons of that kind are hard to deliver in a lecture hall.\n\nThe obvious objection is that compulsion breeds resentment and produces hours logged rather than work done. The risk is real but manageable. If students may choose among a range of placements, if the hours required are modest, and if reflection is assessed rather than attendance alone, most will find the work worth doing. A requirement, in short, is not the enemy of commitment; indifference is.",
+    "sample_essay_cn": "大学的存在不只是为了让学生谋一份职业，而很少有哪种经历能像服务社区那样直接地教会人公民责任。因此我支持把社区服务设为毕业要求，前提是这一要求经过审慎设计。\n\n强制性的安排能保证每个学生都接触到与自己生活不同的人，而不只是那些本来就愿意做志愿者的人。一个在社区法律咨询点帮忙一学期、或教新来的孩子读书的学生，会先学会倾听再给出建议，也会开始意识到自己的许多顺利并非全凭个人选择。这样的课在阶梯教室里很难上到。\n\n最明显的反对意见是，强制会滋生抵触，只换来一堆打卡时长而非真正的工作。这种风险确实存在，但可以控制。如果学生能在多种岗位中挑选，如果要求的时长适度，如果考核的是反思而不只是出勤，多数人会认为这段经历值得。简言之，要求并不是投入的敌人，冷漠才是。"
+  },
+  "translation": {
+    "source_cn": "乡村振兴战略实施以来，中国农村的面貌发生了明显变化。过去，许多年轻人离村进城打工，留下老人和孩子守着空房。如今，公路和网络延伸到偏远地区，一些年轻人开始返乡创业。他们借助电商平台销售本地的水果、茶叶和手工艺品，把山里的产品卖到千里之外。村里的卫生室、学校和养老服务站也在改善，垃圾和污水得到集中处理。乡村振兴不是把城市模式搬到农村，而是让农民在自己的土地上过上体面的生活，并愿意留下来。",
+    "reference_en": "Since the rural revitalisation strategy was introduced, the face of the Chinese countryside has changed noticeably. In the past, many young people left their villages to work in cities, leaving elderly parents and children behind in empty houses. Today, as roads and internet connections reach remote areas, some of the young have begun to return and start businesses. They sell local fruit, tea and handicrafts through e-commerce platforms, sending produce from the mountains to dinner tables a thousand miles away. Village clinics, schools and care centres for the elderly have also improved, and household waste and sewage are now collected and treated. Rural revitalisation does not mean transplanting the urban model into the countryside; it means enabling farmers to live decent lives on their own land, and to want to stay.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet4",
+    "year": 2026,
+    "month": 1,
+    "set": 4,
+    "title": "原创模拟 四级 第4套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "Every week a household throws away kilograms of peelings, coffee grounds and stale bread. In a landfill this waste rots without air and releases methane, a gas far stronger than carbon dioxide. Composting at home offers a simple [[26]].\nThe method is not difficult, and the equipment costs nothing, but it does demand a little [[27]]. Keep scraps in a lidded container and empty it every few days, before the smell becomes noticeable. Gather dry material too, such as leaves and torn cardboard, because a heap needs both wet and dry matter.\nA common mistake is adding vegetable waste only. Such a pile turns wet and [[28]], and it soon smells of vinegar rather than of earth. Aim for one part green to two parts brown, and turn the heap so that air can [[29]] the centre.\nLift the lid after a month and the scraps have gone. What happens inside is a slow form of [[30]]: bacteria break the material into a dark, crumbly substance that smells of forest soil. In warm weather the heap may [[31]] in two months; in winter it takes far longer.\nThe finished compost can be spread on flower beds, where it [[32]] moisture and feeds plants. Nothing is burned and nothing leaves the garden. The [[33]] are plain: less rubbish and better soil.\nEven in a flat, a sealed bucket on a balcony can [[34]] much of the same work, with care. The habit costs nothing, and it [[35]] a weekly chore into something close to a pleasure.",
+      "word_options": [
+        { "k": "A", "t": "benefits" },
+        { "k": "B", "t": "decay" },
+        { "k": "C", "t": "mature" },
+        { "k": "D", "t": "patience" },
+        { "k": "E", "t": "perform" },
+        { "k": "F", "t": "reach" },
+        { "k": "G", "t": "retains" },
+        { "k": "H", "t": "shallow" },
+        { "k": "I", "t": "solution" },
+        { "k": "J", "t": "sour" },
+        { "k": "K", "t": "steadily" },
+        { "k": "L", "t": "steady" },
+        { "k": "M", "t": "turns" },
+        { "k": "N", "t": "unless" },
+        { "k": "O", "t": "usually" }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "answer": "I",
+          "explanation": "答案 I) solution。第 1 段末句说家庭堆肥 offers a simple 某物，前两句讲厨余进填埋场会释放甲烷，空格需单数名词并与 offers 搭配，solution 指「解决办法」。B) decay 指腐烂本身，不是办法；D) patience 无法与 offers a simple 搭配。"
+        },
+        {
+          "n": 27,
+          "answer": "D",
+          "explanation": "答案 D) patience。第 2 段第 1 句以 but 转折，前面说方法和设备都不花钱，转折后说 it does demand a little 某物，a little 后接不可数名词，patience 与「不难但要有耐性」呼应。A) benefits 是复数，不能跟在 a little 后；B) decay 在此语义不通。"
+        },
+        {
+          "n": 28,
+          "answer": "J",
+          "explanation": "答案 J) sour。第 3 段第 2 句 Such a pile 指只放菜叶的堆，turns wet and 后需形容词，紧接着的 smells of vinegar 就是线索，醋是酸的。H) shallow 与 L) steady 都不能与 wet 并列描写一个腐坏的堆。"
+        },
+        {
+          "n": 29,
+          "answer": "F",
+          "explanation": "答案 F) reach。第 3 段末句 so that air can 后需动词原形，翻堆的目的是让空气进到堆心，reach the centre 即「到达中心」。E) perform 与 C) mature 都不能以 air 作主语、以 the centre 作宾语。"
+        },
+        {
+          "n": 30,
+          "answer": "B",
+          "explanation": "答案 B) decay。第 4 段第 2 句 a slow form of 后需名词，冒号后 bacteria break the material into a dark, crumbly substance 正是对腐烂过程的解释。D) patience 与 I) solution 都无法被冒号后的内容解释。"
+        },
+        {
+          "n": 31,
+          "answer": "C",
+          "explanation": "答案 C) mature。第 4 段末句主语是 the heap，may 后接动词原形，in two months 说的是堆肥「成熟」所需时间，与后半句 in winter it takes far longer 形成对照。F) reach 与 G) retains 都不能表示堆肥已经可用。"
+        },
+        {
+          "n": 32,
+          "answer": "G",
+          "explanation": "答案 G) retains。第 5 段第 1 句 where 从句的主语 it 指 compost，需第三人称单数谓语，retains moisture 指保住水分，与并列的 feeds plants 一致。M) turns 要接 into 才能表示「变成」，此处不成立。"
+        },
+        {
+          "n": 33,
+          "answer": "A",
+          "explanation": "答案 A) benefits。第 5 段末句 the ___ are plain 中的 are 说明主语是复数名词，冒号后 less rubbish and better soil 列举的正是好处。I) solution 是单数，与 are 不一致；C) mature 是动词，不能作主语。"
+        },
+        {
+          "n": 34,
+          "answer": "E",
+          "explanation": "答案 E) perform。第 6 段第 1 句 can 后需动词原形，perform much of the same work 指「完成大部分同样的活儿」，与前半句 Even in a flat 的让步呼应。M) turns 需搭配 into；G) retains 是第三人称单数形式，不能跟在 can 后。"
+        },
+        {
+          "n": 35,
+          "answer": "M",
+          "explanation": "答案 M) turns。第 6 段末句主语 it 指 the habit，需第三人称单数谓语，turn A into B 是固定搭配，指把每周的杂活变成一件近乎愉快的事。E) perform 不能接 into 结构；G) retains 与 into 搭配后语义不通。"
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "For most of its history Calderport closed at nine. The last buses left the centre, shutters came down, and the streets between the station and the river belonged to taxis and cleaners. That pattern began to change about eight years ago, when the council noticed that the city was losing young workers to a larger neighbour forty minutes away. A night-time strategy was drawn up, not by one department but by a small group that included police officers, transport planners and venue owners. Its aim was narrow and practical: keep the centre alive for four more hours, and make those hours safe, affordable and worth travelling for."
+        },
+        {
+          "label": "B",
+          "text": "The Riverside night market is the strategy's most visible result. It began with twenty stalls on a disused loading yard and now runs to a hundred and eighty, open from six in the evening until one. Traders pay a modest daily fee and must hold a food hygiene certificate; the market supplies bins, water and a generator so that nobody runs a cable across the pavement. The rules are enforced by a committee of the traders themselves, which has proved cheaper and quicker than sending inspectors. For many vendors the market is a first business: one noodle stall now employs six people and rents a small kitchen nearby."
+        },
+        {
+          "label": "C",
+          "text": "Bookshops were expected to disappear, yet three in Calderport now stay open all night. The oldest, on Quarry Street, was rescued by its owner, Lena Marsh, who cut back the shelves at the front and put in a coffee counter. Between eleven and two the shop sells more coffee than books, but the books are why people come: students revise at the long table, and a reading group meets on Thursdays at midnight. Ms Marsh says the late hours pay for themselves twice over, because customers who arrive at midnight often return on Saturday afternoon and buy a novel on their way out."
+        },
+        {
+          "label": "D",
+          "text": "Transport was the hardest part. A city that empties at nine has no reason to run buses at midnight, and a night economy with no way home is a night economy for people who own cars. The council therefore funded a single route, N7, linking the station, the university and the riverside, with buses every twenty minutes until half past two. In its first year the service carried far more passengers than the forecast had predicted, and the cost of each journey fell as a result. Two more routes were added last spring, and a fourth is being tested at weekends."
+        },
+        {
+          "label": "E",
+          "text": "Noise is where enthusiasm meets resistance. Residents near the riverside complained about shouting, about bottles being emptied at two in the morning, and about music from a courtyard bar. Rather than ban anything, the council drew a quiet zone covering four streets, set a limit on sound after eleven, and paid for double glazing in the worst-affected flats. Venues that broke the limit twice lost their late licence for a month. Complaints fell by roughly a third within a year, and, more surprisingly, the number of venues applying for late licences rose, because the rules were now predictable."
+        },
+        {
+          "label": "F",
+          "text": "Safety work is less visible and harder to measure. The council replaced the lighting along three alleys, moved two taxi ranks closer to the market, and trained forty volunteers to walk people to their cars or bus stops between eleven and two. The scheme, called Safe Walk, is advertised on cards in bar toilets. A survey of women using the centre after dark found that the share who felt safe walking alone had risen from forty-one to sixty-eight per cent in two years. Reported assaults did not fall, but the police attribute that to more people being willing to report them."
+        },
+        {
+          "label": "G",
+          "text": "Behind the bars and stalls is a workforce that the strategy documents rarely mention. Most staff are paid by the hour, finish after midnight and depend on the night buses to get home. A hospitality group representing two hundred workers asked the council for two things: a guaranteed ride home for anyone finishing after one, and a rule that shifts be published a week in advance. The first was agreed and is now funded from a small levy on late licences. The second is still being negotiated, and some owners argue that they cannot predict demand that far ahead."
+        },
+        {
+          "label": "H",
+          "text": "Not every district can copy the riverside. An economist at the city university points out that a night economy needs density: enough people within a short walk to make a stall, a bus and a lit street worthwhile. Two outer districts tried to launch their own markets and both closed within a year, one because the nearest bus stop was a twenty-minute walk away and the other because there was nowhere for customers to park. She also warns against treating bars as the only form of night activity, since a street of bars attracts a narrower crowd than a street of bars, bookshops and food."
+        },
+        {
+          "label": "I",
+          "text": "Culture has become part of the argument. The city appointed a night-time commissioner, a part-time post held by a former festival director, whose job is to speak for the hours after dark in meetings that usually end at six. Under her influence the museum opens free on the last Friday of each month until eleven, and a disused warehouse now hosts small concerts. Critics say the programme is thin: a monthly opening and a few concerts do not make a culture, and most of what the city counts as night life is simply consumption with the lights on. Attendance figures suggest the audience is growing, if slowly."
+        },
+        {
+          "label": "J",
+          "text": "What would count as success? The council's own targets are economic: turnover, jobs, visitors. Others would add quieter measures, such as whether a nurse finishing at midnight can get home without paying for a taxi, or whether a resident can sleep with the window open in July. The next five years will test whether the two sets of aims can be held together, because the market, the buses and the late licences all depend on the same crowded streets, and a street can only hold so much before the people who live on it begin to leave."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "A pilot bus route drew more riders than expected, which brought down the cost of carrying each one.",
+          "answer": "D",
+          "explanation": "答案 D 段。该段第 4 句说 N7 首年载客量 far more than the forecast had predicted，第 5 句说 the cost of each journey fell as a result，与题干 more riders than expected 和 brought down the cost 对应。C 段谈的是书店的营业时间，与公交无关。"
+        },
+        {
+          "n": 37,
+          "stem": "Better lighting and volunteer escorts raised women's sense of safety, while recorded attacks stayed at the same level.",
+          "answer": "F",
+          "explanation": "答案 F 段。该段讲更换小巷路灯、增设出租车点以及 Safe Walk 志愿陪送，接着说感到安全的女性比例由百分之四十一升到六十八，而 Reported assaults did not fall，与题干 raised ... sense of safety 和 stayed at the same level 一致。E 段讲噪音治理，不涉及安全感。"
+        },
+        {
+          "n": 38,
+          "stem": "Stallholders at the market run it themselves and pay a small charge for each day of trading.",
+          "answer": "B",
+          "explanation": "答案 B 段。该段第 3 句说摊主要交 a modest daily fee，第 4 句说规则由 a committee of the traders themselves 执行，与题干 run it themselves 和 small charge for each day 对应。G 段讲的是受雇员工的工资与排班，不是摊主自治。"
+        },
+        {
+          "n": 39,
+          "stem": "Some critics doubt that occasional openings and concerts add up to a real cultural life.",
+          "answer": "I",
+          "explanation": "答案 I 段。该段倒数第 2 句引批评者的话，说一个月一次的免费开放和几场小音乐会 do not make a culture，与题干 occasional openings and concerts 和 add up to a real cultural life 对应。J 段讨论的是如何衡量成功，不是文化含量。"
+        },
+        {
+          "n": 40,
+          "stem": "The city's evenings were once empty, and the change was designed by a small group drawn from several services.",
+          "answer": "A",
+          "explanation": "答案 A 段。该段开头说城市过去九点就关门，第 4 句说夜间策略由 a small group that included police officers, transport planners and venue owners 制定，与题干 a small group drawn from several services 对应。D 段只讲交通这一项，范围过窄。"
+        },
+        {
+          "n": 41,
+          "stem": "Efforts to reproduce the riverside success in outer areas collapsed because of poor transport and parking.",
+          "answer": "H",
+          "explanation": "答案 H 段。该段第 3 句说两个外围区试办夜市都在一年内关闭，原因分别是最近的公交站要走二十分钟和无处停车，与题干 poor transport and parking 对应。B 段讲的是河畔夜市本身如何运作，不是复制失败。"
+        },
+        {
+          "n": 42,
+          "stem": "One bookshop earns more from drinks after midnight than from books, but books are what draw people in.",
+          "answer": "C",
+          "explanation": "答案 C 段。该段第 3 句说十一点到两点之间咖啡卖得比书多，紧接 but the books are why people come，与题干 earns more from drinks 和 books are what draw people in 对应。I 段虽也提到文化场所，但讲的是开放日与音乐会，不涉及营业额构成。"
+        },
+        {
+          "n": 43,
+          "stem": "Representatives of late-shift workers secured a paid journey home but are still negotiating over how far ahead schedules are issued.",
+          "answer": "G",
+          "explanation": "答案 G 段。该段末三句说保证一点后下班者有车回家已获同意并由夜间执照费出资，而提前一周公布排班仍在谈判，与题干 secured a paid journey home 和 still negotiating 对应。F 段讲的是顾客安全，不是员工待遇。"
+        },
+        {
+          "n": 44,
+          "stem": "Sound limits that were enforced consistently cut complaints without reducing the number of late licences.",
+          "answer": "E",
+          "explanation": "答案 E 段。该段说划定安静区、十一点后限噪、违者停发夜间执照一个月，结果投诉下降约三分之一，而申请夜间执照的场所反而增多，与题干 cut complaints 和 without reducing the number of late licences 对应。F 段同样涉及治理，但主题是人身安全。"
+        },
+        {
+          "n": 45,
+          "stem": "The value of the night economy should be measured by residents' sleep and workers' journeys, not only by sales and jobs.",
+          "answer": "J",
+          "explanation": "答案 J 段。该段先列出议会自己的经济指标，再说 Others would add quieter measures，例如护士深夜能否不花钱回家、居民七月能否开窗睡觉，与题干 measured by residents' sleep and workers' journeys 对应。A 段讲的是策略的由来，不是评价标准。"
+        }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Few arguments about reading produce as much heat as the one about screens. Publishers report that sales of printed books have held up better than anyone predicted, while students arriving at university now carry entire reading lists on a single tablet. The assumption behind much of the enthusiasm is simple: if a text is available instantly, searchable and cheap, then reading it must be at least as effective. A small study at Brookfield College suggests that the assumption needs qualifying.\nThe team asked a hundred and twenty undergraduates to read the same three-thousand-word article, half of them on paper and half on a tablet. Both groups had twenty minutes, and neither group was allowed to take notes. Immediately afterwards the students answered two kinds of question. The first asked them to put six events from the article in the correct order; the second asked where in the text a particular claim had appeared. On the first task the paper group did slightly better. On the second the gap was wide: most of those who had read on paper could say whether a claim came early or late, while many tablet readers could not place it at all.\nThe obvious explanation would be distraction, and the team was careful to rule it out. The tablets were offline, notifications were switched off, and a researcher sat in the room throughout. What differed, the authors argue, was the physical shape of the text. A printed article has thickness: the reader feels how much remains, sees a paragraph at the top of a left-hand page, and remembers that a difficult passage came just before a diagram. Scrolling removes these landmarks. The text becomes a narrow window that never shows where the reader is.\nThe result should not be read as a verdict against screens. The difference in scores was modest, and it shrank to almost nothing among students who read long documents on a tablet every week. Nor did the study test the advantages that digital texts clearly have: a reader can enlarge the type, search for a name, or carry forty books on a journey. For a student checking a date in a report, a screen is faster and better.\nThe practical lesson is about matching the tool to the job. Where the aim is to follow an argument, remember its structure and carry it into an examination, print still has an edge. Where the aim is to find, compare or extract, the screen wins easily. Publishers who care about comprehension might also learn something: keeping page layout stable, and showing readers how far they have travelled, costs little and may recover part of what scrolling takes away.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What were the participants in the study asked to do?",
+          "options": {
+            "A": "Read an article and then discuss it with a partner.",
+            "B": "Read the same article in two formats and answer questions about it.",
+            "C": "Read several articles of different lengths within twenty minutes.",
+            "D": "Take notes while reading and hand them in afterwards."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 1 句说研究让 120 名本科生读同一篇三千词文章，一半用纸、一半用平板，随后回答两类问题，B 项是对这一设计的概括。D 项与 neither group was allowed to take notes 相反；C 项与 the same three-thousand-word article 不符。"
+        },
+        {
+          "n": 47,
+          "stem": "What did the study find about the tablet readers?",
+          "options": {
+            "A": "They recalled the order of events better than the paper readers.",
+            "B": "They finished the article more quickly than the paper readers.",
+            "C": "They were much less able to say where a claim appeared.",
+            "D": "They were more often disturbed by incoming messages."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 2 段末句说在「某说法出现在文中何处」这一任务上 the gap was wide，many tablet readers could not place it at all，C 项即此意。A 项与原文相反，排序题上是纸书组略好；D 项把被排除的原因当成结论，第 3 段已说明设备离线。"
+        },
+        {
+          "n": 48,
+          "stem": "Why does the author mention that the tablets were offline?",
+          "options": {
+            "A": "To show that the tablets cost less than printed copies.",
+            "B": "To explain why the tablet group read more slowly.",
+            "C": "To suggest that the study was paid for by a technology firm.",
+            "D": "To rule out distraction as the cause of the difference."
+          },
+          "answer": "D",
+          "explanation": "答案 D。第 3 段开头说最省事的解释是分心，接着讲平板离线、通知关闭、研究员全程在场，The team was careful to rule it out，与 D 项对应。B 项「读得更慢」原文未提；C 项属无依据的猜测。"
+        },
+        {
+          "n": 49,
+          "stem": "The word 'landmarks' in paragraph 3 most probably refers to",
+          "options": {
+            "A": "features of a page that help a reader remember its layout.",
+            "B": "important claims that the author wants readers to notice.",
+            "C": "marks that students made on the paper as they read.",
+            "D": "headings that divide a long article into sections."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 3 段先说纸页有厚度、读者能感到还剩多少、记得某段在左页顶端，随后说 Scrolling removes these landmarks，可见它指帮助记忆版面位置的纸面特征。C 项与第 2 段不许做笔记矛盾；D 项「小标题」原文未提。"
+        },
+        {
+          "n": 50,
+          "stem": "What is the author's attitude towards reading on screens?",
+          "options": {
+            "A": "Students preparing for examinations should avoid it entirely.",
+            "B": "It suits some purposes but is weaker for deep reading.",
+            "C": "It will soon replace printed books in universities.",
+            "D": "The evidence against it is strong enough to justify a ban."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 4 段说结果不应被读成对屏幕的判决，差异不大，且数字文本在放大字号、检索、携带上优势明显；第 5 段结论是按用途选格式，B 项最贴合。A、D 两项把它推向禁用，属过度推断；C 项原文无据。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "Every university health service says the same thing in different words: students know that exercise is good for them, and most of them still do not do it. The advice they receive usually stresses the body, with warnings about weight, blood pressure and long hours at a desk. Less often mentioned is the effect on mood, although that may be the benefit students notice first. A brisk walk after a difficult morning often does more for a low mood than an hour of scrolling, and not simply because walking is healthier.\nPart of the effect is chemical. Moderate activity raises the heart rate, increases blood flow to the brain and releases substances that reduce the sensation of pain and, with it, some of the feeling of strain. But chemistry explains less than people assume. Exercise also interrupts rumination: a student who is walking has to watch for traffic, choose a route and keep moving, and the mind has less room to replay the same anxious thought. And there is the plain satisfaction of finishing something, which is why a short session completed is usually worth more than a long one abandoned.\nA study at Brookfield College tested how much of this depends on effort. Ninety students who described themselves as stressed were divided into three groups. One walked briskly for thirty minutes three times a week, one followed a programme of gentle stretching, and one was placed on a waiting list. After eight weeks the walkers reported the largest fall in stress and the best sleep. But the stretching group also improved, by roughly half as much, although their hearts worked far less. Intensity, the authors conclude, is not the only ingredient.\nTwo practical points follow. The first is that ten minutes counts. Students who plan an hour of exercise often do none, while those who accept a ten-minute walk between lectures usually do more than they intended. The second is that daylight matters: a walk outdoors in the morning appears to help sleep more than the same walk under artificial light at midnight. Neither point requires equipment, a membership or a change of clothes.\nNone of this makes exercise a treatment for depression, and the authors are careful to say so. Students whose low mood lasts for weeks, or who stop attending classes, need professional help rather than a running plan. For the ordinary strain of an examination term, however, the evidence is encouraging: a little regular movement, repeated often enough to become a habit, changes how a week feels.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "What does the author say is usually left out of advice about exercise?",
+          "options": {
+            "A": "Its effect on body weight.",
+            "B": "Its effect on mood.",
+            "C": "The time needed to see results.",
+            "D": "The risk of injury to beginners."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段第 3 句说通常的建议强调的是身体，Less often mentioned is the effect on mood，B 项即此。A 项恰是常被提到的内容，与题干 left out 相反；C、D 两项原文未涉及。"
+        },
+        {
+          "n": 52,
+          "stem": "According to paragraph 2, how does walking help a worried student?",
+          "options": {
+            "A": "It leaves the mind less room to repeat the same anxious thought.",
+            "B": "It removes the cause of the student's anxiety.",
+            "C": "It makes the student too tired to think about problems.",
+            "D": "It gives the student a chance to talk the problem over."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 2 段第 4 句说运动会打断 rumination，走路的人要看车、选路线、保持移动，the mind has less room to replay the same anxious thought，A 项是这句的同义改写。B 项说消除焦虑的根源，属夸大；D 项「与人交谈」原文没有。"
+        },
+        {
+          "n": 53,
+          "stem": "What was notable about the results of the eight-week study?",
+          "options": {
+            "A": "The waiting list group improved as much as the walkers.",
+            "B": "The walkers ended up sleeping worse than the other groups.",
+            "C": "Students who exercised less often reported lower stress.",
+            "D": "Gentle stretching brought about half the gain of brisk walking."
+          },
+          "answer": "D",
+          "explanation": "答案 D。第 3 段倒数第 2 句说拉伸组也有改善，by roughly half as much，作者据此得出强度不是唯一因素的结论，D 项对应。A 项与步行组降幅最大相矛盾；B 项把 the best sleep 说反。"
+        },
+        {
+          "n": 54,
+          "stem": "What does the author mean by saying that ten minutes counts?",
+          "options": {
+            "A": "Even a short session is worth doing.",
+            "B": "Ten minutes is the minimum needed for any benefit.",
+            "C": "Sessions should be timed and written down.",
+            "D": "Students should exercise for ten minutes every day."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 4 段在 The first is that ten minutes counts 之后解释：打算练一小时的人常常什么都不做，而接受课间走十分钟的人往往做得比预想多，可见 counts 意为「算数、有价值」。B 项把它读成最低有效时长，原文没有这层意思；D 项「每天十分钟」也非原意。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the main message of the passage?",
+          "options": {
+            "A": "Exercise can take the place of professional treatment for depression.",
+            "B": "Students should join a gym to cope with examination stress.",
+            "C": "Small amounts of regular movement can improve how students feel.",
+            "D": "Intensity is the most important factor in relieving stress."
+          },
+          "answer": "C",
+          "explanation": "答案 C。全文从情绪益处、作用机制、八周实验讲到具体建议，落点在末段 a little regular movement, repeated often enough to become a habit, changes how a week feels，C 项概括最准。A 项与作者明确否认运动可替代治疗相反；D 项与强度不是唯一因素矛盾。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay. Suppose your class is discussing whether college students should be allowed to keep pets in dormitories. Write an essay of 120-180 words stating your opinion and giving reasons.",
+    "prompt_cn": "假设你班正在讨论大学生是否可以在宿舍养宠物，请就此写一篇 120–180 词的短文，说明你的观点并给出理由。",
+    "word_limit": 120,
+    "sample_essay": "Whether students should be allowed to keep pets in their dormitories is a question my class has argued over for a week. I would answer no, though not without sympathy for the other side.\nThe practical objections are hard to dismiss. A room shared by four people is not a private space, and a cat or a rabbit affects every one of them through allergies, night-time noise and smells that no air freshener can hide. Animals also need food, veterinary care and daily company. When the summer holiday comes, a student cannot put a pet in a cupboard, and the animals abandoned near campus each June show what happens when a rule is ignored rather than discussed.\nCompanionship is a real need, but a dormitory is the wrong place to meet it. A small aquarium causes little trouble, and a common room where students walk a shelter dog for an afternoon teaches responsibility without forcing it on roommates. That is a better answer than a rule everyone breaks.",
+    "sample_essay_cn": "大学生是否可以在宿舍养宠物，这个问题我们班已经争了一个星期。我的回答是不可以，虽然我也理解另一方的想法。\n现实层面的反对理由很难驳倒。一间四人合住的房间并不是私人空间，一只猫或一只兔子会通过过敏、夜里的响动和空气清新剂遮不住的气味影响到每一个人。动物还需要食物、看病和每天的陪伴。到了暑假，学生总不能把宠物塞进柜子；每年六月校园附近被遗弃的动物，正说明当规则被无视而不是被讨论时会发生什么。\n陪伴是真实的需要，但宿舍不是满足这种需要的合适场所。养一小缸鱼麻烦不大；设一间公共活动室，让学生下午去遛一只收容所的狗，既能教人负责，又不必把责任强加给室友。这比一条人人都违反的规定要好。"
+  },
+  "translation": {
+    "source_cn": "剪纸是中国最古老的民间艺术之一，已有一千五百多年历史。人们用剪刀在红纸上剪出花鸟、人物和吉祥图案，贴在窗户、门楣上，为节日添彩。北方剪纸粗犷有力，南方剪纸细腻秀丽，各地风格迥异。过去，这门手艺由农村妇女口传心授，母女相传；如今它走进课堂和设计工作室，年轻人把纹样用在服装和包装上。二〇〇九年，中国剪纸被列入联合国教科文组织人类非物质文化遗产名录，这门古老手艺因此受到更多关注。",
+    "reference_en": "Paper-cutting is one of the oldest folk arts in China, with a history of more than fifteen hundred years. With a pair of scissors or a small knife, people cut flowers, birds, figures and auspicious patterns out of red paper and paste them on windows and door lintels to add to the cheer of a festival. In the north the lines are bold and vigorous, while in the south they are delicate and graceful, and the styles of different regions differ noticeably. In the past the craft was passed on by word of mouth, usually from mother to daughter in the countryside; today it has entered classrooms and design studios, and young people use traditional patterns on clothing and packaging and in animation. In 2009 Chinese paper-cutting was added to the UNESCO list of intangible cultural heritage, and this old craft has since attracted wider attention.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

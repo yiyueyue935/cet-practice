@@ -1,0 +1,355 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet4",
+    "year": 2026,
+    "month": 1,
+    "set": 1,
+    "title": "原创模拟 四级 第1套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "Baking bread at home looks simple, yet it punishes anyone in a hurry. Beginners usually fail not for lack of skill but for lack of [[26]].\nThe ingredients are plain: flour, water, salt and a little yeast. First [[27]] the flour and water with a wooden spoon until no dry patches remain, then move the mass onto a clean surface.\nKneading comes next. For ten minutes you push the dough away with the heel of your hand, fold it back and repeat. These folds [[28]] the gluten, the elastic web that traps gas.\nThen comes fermentation. Cover the bowl and leave it in a warm corner. Yeast cells feed on sugars in the flour and [[29]] carbon dioxide; the gas stays inside the web, and the dough slowly doubles. How long this takes will [[30]] on room temperature.\nOnce it has risen, press the dough down, shape it and let it rest. This second rise is brief, yet [[31]] to the final texture: a loaf that skips it comes out heavy.\nBaking is the last test. A very hot oven will [[32]] a firm shell on the outside, and that shell keeps the loaf from collapsing. Do not slice it at once: steam is still moving through the centre, and a knife will [[33]] the crumb into a sticky mass.\nWait at least half an hour before cutting, [[34]] on a wire rack so air reaches the base. The reward is the smell that fills the kitchen and the quiet [[35]] of making something good from plain ingredients.",
+      "word_options": [
+        { "k": "A", "t": "combine" },
+        { "k": "B", "t": "depend" },
+        { "k": "C", "t": "develop" },
+        { "k": "D", "t": "essential" },
+        { "k": "E", "t": "flavour" },
+        { "k": "F", "t": "form" },
+        { "k": "G", "t": "gradual" },
+        { "k": "H", "t": "ideally" },
+        { "k": "I", "t": "patience" },
+        { "k": "J", "t": "pride" },
+        { "k": "K", "t": "rarely" },
+        { "k": "L", "t": "reduce" },
+        { "k": "M", "t": "release" },
+        { "k": "N", "t": "steady" },
+        { "k": "O", "t": "turn" }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "answer": "I",
+          "explanation": "答案 I) patience。第 1 段第 2 句说初学者失败不是因为缺少技巧，而是 for lack of 某物，而第 1 句已点明这个流程会惩罚 in a hurry 的人，patience 正与「匆忙」相对，且 lack of 后需要名词。E) flavour 与 J) pride 虽也是名词，但与「缺少技巧」并列时语义不通。"
+        },
+        {
+          "n": 27,
+          "answer": "A",
+          "explanation": "答案 A) combine。第 2 段第 2 句以 First 引出祈使句，空格需动词原形；combine the flour and water 与后面 until no dry patches remain（不再有干粉）呼应，说明是把两者混合。L) reduce 与 O) turn 都不能直接接 the flour and water 表示「混合」。"
+        },
+        {
+          "n": 28,
+          "answer": "C",
+          "explanation": "答案 C) develop。第 3 段第 3 句主语 These folds 是复数，谓语需动词原形，develop the gluten 是固定搭配，指反复折叠使面筋形成。G) gradual 与 N) steady 是形容词，不能作谓语。"
+        },
+        {
+          "n": 29,
+          "answer": "M",
+          "explanation": "答案 M) release。第 4 段第 3 句主语 Yeast cells 为复数，与并列的 feed 时态一致，需动词原形；release carbon dioxide 指酵母释放二氧化碳，后文 the gas 即回指它。L) reduce 与二氧化碳搭配在语义上说不通。"
+        },
+        {
+          "n": 30,
+          "answer": "B",
+          "explanation": "答案 B) depend。第 4 段最后一句 will 后接动词原形，depend on 为固定搭配，说明发酵时间长短取决于室温。A) combine 不能与 on 搭配表示「取决于」。"
+        },
+        {
+          "n": 31,
+          "answer": "D",
+          "explanation": "答案 D) essential。第 5 段第 2 句 yet 表转折，brief 为形容词，空格后接 to the final texture，需能与 to 搭配的形容词，essential to 意为「对……必不可少」。G) gradual 与 N) steady 都不能接 to 表达这种关系。"
+        },
+        {
+          "n": 32,
+          "answer": "F",
+          "explanation": "答案 F) form。第 6 段第 2 句 will 后接动词原形，高温会在表面 form a firm shell，与后文 that shell 形成呼应。O) turn 表示「变成」时须接 into，此处宾语是 a firm shell，搭配不成立。"
+        },
+        {
+          "n": 33,
+          "answer": "O",
+          "explanation": "答案 O) turn。第 6 段最后一句 will 后接动词原形，turn sth into sth 为固定搭配，指过早下刀会把面包心弄得黏糊。L) reduce 虽也可接 into，但意为「使变成某种更差的状态」时多用于抽象语境，与 a sticky mass 搭配不当。"
+        },
+        {
+          "n": 34,
+          "answer": "H",
+          "explanation": "答案 H) ideally。第 7 段第 1 句主句 Wait at least half an hour 结构已完整，空格后是 on a wire rack 这一地点状语，需用副词修饰整个短语，ideally 表示「最好」。K) rarely 语义相反，与随后的建议矛盾。"
+        },
+        {
+          "n": 35,
+          "answer": "J",
+          "explanation": "答案 J) pride。第 7 段第 2 句 the quiet ___ of making something 中 of 短语修饰空格，需名词；pride 与前半句 the reward 呼应，指亲手做成东西的自豪。E) flavour 不能与 of making 搭配，且与 quiet 修饰关系不合。"
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Ask someone to describe a university library and the answer is usually a quiet room lined with shelves. That picture is out of date. Across Northfield and dozens of similar institutions, the library has become the busiest building on campus, and very little of the activity involves borrowing a printed book. The change did not happen overnight, and no single committee planned it. It came from several pressures arriving at the same time: falling demand for print, rising demand for space, and a new understanding of how students actually study, alone and in groups, at every hour of the day."
+        },
+        {
+          "label": "B",
+          "text": "The most visible change is physical. Many libraries have moved the bulk of their print collections into compact shelving in the basement or into a shared storage building, which frees whole floors for people rather than paper. At Northfield, two floors that once held bound periodicals now contain long tables with power sockets, soft chairs, and small rooms that can be booked online. A student who wants a single quiet desk can still find one, but that desk may now sit beside a glass wall through which a seminar is visible. Visitors often remark that the building feels larger, although no wall has been moved."
+        },
+        {
+          "label": "C",
+          "text": "Behind the scenes, the collection itself has changed shape. The library now spends a larger share of its budget on electronic journals, databases and e-books than on printed volumes, and students reach most of these from a laptop in a dormitory at midnight. Print circulation has fallen for fifteen years without a pause. Reference works that once filled shelves are consulted online, and one subscription can serve several thousand readers at the same moment. Librarians point out that this shift saves space but not money, since electronic licences are renewed every year and rise in price faster than inflation."
+        },
+        {
+          "label": "D",
+          "text": "The new floors are designed for collaboration, a word that would have puzzled librarians a generation ago. Movable tables let four students form a group in seconds; whiteboards cover entire walls; and glass partitions keep discussion from disturbing readers next door. Staff report that demand for group space far exceeds supply, especially in the weeks before examinations. Some buildings now label zones by noise level rather than by subject, so a student can choose silence, conversation or something in between, and the choice is made before the books are opened rather than after a complaint."
+        },
+        {
+          "label": "E",
+          "text": "A newer addition is the makerspace, usually tucked into a corner of the ground floor. It may contain 3D printers, a laser cutter, sewing machines, audio booths and software for editing video. The equipment is expensive to buy and to maintain, and few students use it every week, yet it has become a symbol of what the library now claims to offer: not only texts to read but tools to make things with. Supporters argue that a shared workshop removes a barrier for students who could never afford such machines at home, and that the skills learned there travel well beyond the campus."
+        },
+        {
+          "label": "F",
+          "text": "The people who work there have changed too. Reference desks, where a librarian once answered factual questions, have largely disappeared, because most of those questions can now be settled by a search engine in seconds. In their place are appointments for research advice, help with data analysis, and guidance on copyright and open access. One librarian described the shift as moving from answering questions to teaching people how to ask better ones, which takes longer, cannot be done from behind a desk, and is much harder to count at the end of a year."
+        },
+        {
+          "label": "G",
+          "text": "Not everyone is pleased. Students who need absolute quiet complain that the building has become a social centre and that the few silent rooms are always full. Maintenance costs have risen sharply: machines break, furniture wears out, and a makerspace needs trained staff on duty whenever it is open. Librarians also worry about the message sent when a university invests in cafes and game rooms while the budget for new books shrinks. The criticism is fair, and it has forced several libraries to publish their spending figures and to explain publicly why a smaller book budget is not the same as a smaller collection."
+        },
+        {
+          "label": "H",
+          "text": "Measuring success is harder than it sounds. Gate counts once told the whole story, but a student who enters to meet a friend and never opens a book counts exactly the same as one who spends six hours on a thesis. Northfield now combines several indicators: bookings of group rooms, downloads of electronic resources, attendance at workshops, and short surveys sent twice a year. None of these numbers is reliable on its own, and staff admit that they still cannot say precisely what makes a library good, only which parts of it are being used and by whom."
+        },
+        {
+          "label": "I",
+          "text": "Equity has become part of the design brief. Extended opening hours matter to students who share a crowded flat or commute long distances, and several libraries now stay open all night during examination periods. Height-adjustable desks, screen readers and quiet pods serve users with disabilities. One administrator noted that the library is often the only indoor space on campus where a student can sit for hours without being expected to buy anything, which makes it especially important for those with the least money and the least comfortable homes."
+        },
+        {
+          "label": "J",
+          "text": "What, then, is a library for? The honest answer is that it is no longer defined by what it holds but by what it makes possible. Books remain, and they still matter, but they sit alongside software, workshops, quiet corners and rooms full of conversation. The building has survived because it adapted, and the next decade will probably bring changes that nobody in the current staff meeting can predict. The one constant is the idea of a shared place that belongs to everyone on campus, whether or not they ever borrow a single volume."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "An increasing part of the money spent on collections now buys material that never exists in physical form.",
+          "answer": "C",
+          "explanation": "答案 C 段。C 段第 2 句说图书馆把更大比例的预算投向电子期刊、数据库和电子书，而这些资源学生可从宿舍的笔记本电脑上获取，正是「经费越来越多地用于没有实体形态的资料」；A 段只谈整体变化与成因，没有提经费结构。"
+        },
+        {
+          "n": 37,
+          "stem": "Some of the newest facilities are costly to run and attract relatively few regular users, yet they are held up as evidence of the library's broader purpose.",
+          "answer": "E",
+          "explanation": "答案 E 段。E 段第 3 句指出这些设备购置与维护都很贵、每周使用者不多，后半句 yet it has become a symbol of what the library now claims to offer 与题干「却被当作图书馆更广阔用途的证明」对应；D 段讲的是小组学习区，不涉及设备成本。"
+        },
+        {
+          "n": 38,
+          "stem": "People who value silence feel that their needs have been sacrificed to the building's new social role.",
+          "answer": "G",
+          "explanation": "答案 G 段。G 段第 2 句说需要绝对安静的学生抱怨图书馆变成了社交中心、仅有的安静房间总被占满，即「认为自己的需求被牺牲」；D 段虽然提到噪音分区，但那是介绍设计思路，并未表达不满。"
+        },
+        {
+          "n": 39,
+          "stem": "Taking away rows of shelving has allowed rooms to be given over to seating and bookable study areas without any structural work.",
+          "answer": "B",
+          "explanation": "答案 B 段。B 段第 2、3 句说印刷书刊被移入密集书库，腾出整层楼放长桌、软椅和可预约的小房间，末句又说 although no wall has been moved，与题干「没有做任何结构改造」直接对应；A 段只笼统说图书馆变忙。"
+        },
+        {
+          "n": 40,
+          "stem": "Librarians increasingly help students frame better questions instead of supplying quick facts.",
+          "answer": "F",
+          "explanation": "答案 F 段。F 段第 3 句引用馆员的话，说工作已从 answering questions 转为 teaching people how to ask better ones，与题干「不再提供快速事实，而是帮学生把问题问得更好」同义；C 段讲的是资源形态变化，与馆员角色无关。"
+        },
+        {
+          "n": 41,
+          "stem": "Simply counting the people who come through the door fails to show whether they actually study there.",
+          "answer": "H",
+          "explanation": "答案 H 段。H 段第 2 句说进馆见朋友、一本书都不翻的人，与写六小时论文的人被算作一样，说明单纯统计入馆人数不能反映真实使用；B 段讲空间改造，与如何衡量无关。"
+        },
+        {
+          "n": 42,
+          "stem": "The transformation came about through several separate pressures rather than one deliberate plan.",
+          "answer": "A",
+          "explanation": "答案 A 段。A 段第 4、5 句说变化不是一夜之间发生的、也没有哪个委员会统一规划，而是几种压力同时到来（falling demand for print, rising demand for space 等），与题干逐点对应；J 段是全文总结，强调适应能力，不是成因。"
+        },
+        {
+          "n": 43,
+          "stem": "Some buildings now organise their floors by how much noise is acceptable rather than by academic field.",
+          "answer": "D",
+          "explanation": "答案 D 段。D 段最后一句说一些建筑现在按噪音水平而非按学科划分区域，学生可以选安静、交谈或介于两者之间，与题干「按可接受的噪音程度而非学科分区」几乎逐词对应；G 段谈的是对噪音的抱怨，不是分区方式。"
+        },
+        {
+          "n": 44,
+          "stem": "For students with little money, the library may be the only place where they can stay for hours without spending anything.",
+          "answer": "I",
+          "explanation": "答案 I 段。I 段最后一句说图书馆常是校园里唯一可以坐上几个小时而不必消费的室内空间，对钱最少、住处最不舒适的学生尤其重要，与题干同义；E 段虽提到共享设备降低门槛，但主语是创客空间而非整座图书馆。"
+        },
+        {
+          "n": 45,
+          "stem": "The library has survived because it was willing to change, and further change is expected.",
+          "answer": "J",
+          "explanation": "答案 J 段。J 段第 3 句说这座建筑之所以存续是因为它不断调整，未来十年还会出现连现在开会的馆员都预料不到的变化，与题干两点都吻合；A 段只描述已经发生的变化，没有对未来作出判断。"
+        }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Ten years ago the riverside road in Marlow Bay carried four lanes of traffic and almost no cyclists. Today a wide green strip runs along the water, separated from cars by a low concrete barrier, and on a weekday morning it is crowded. The change followed a decision by the city council to remove one lane of parking and one lane of traffic along a three-kilometre stretch. Officials expected complaints. They received more than they had bargained for, along with something they had not expected: a steady rise in the number of people who cycle to work.\nThe numbers are striking. Cycling trips along the corridor rose from about 900 a day to 3,400 within two years. Shops on the street reported mixed results: cafes and bakeries gained customers, while a hardware store that depended on drivers loading heavy goods lost trade and eventually closed. Traffic on parallel streets increased by roughly eight per cent, and journey times for drivers there lengthened by two to four minutes at peak hours.\nSupporters argue that such figures miss the point. A cyclist who passes a shop ten times a week is more likely to stop than a driver who passes once, and a street with fewer cars is pleasanter to walk along. They also point to safety: collisions involving cyclists on the corridor fell by half after the barrier was installed, and hospital admissions for serious injuries followed the same pattern. For a group that had long been told to ride more carefully, separating bikes from fast traffic felt like an admission that the road itself had been the problem.\nCritics are not persuaded. They note that the corridor serves a wealthy district close to the city centre, where many residents already owned bicycles, and that the same money could have funded bus services in poorer suburbs where car ownership is low but so is access to work. A shopkeepers' association commissioned its own survey and reported that a third of its members had seen turnover fall. The council's own review admitted that the benefits were unevenly distributed, though it insisted that the overall balance was positive.\nWhat the dispute reveals is less about bicycles than about who a street is for. For decades the answer was assumed: cars, with everything else fitted around them. The new lane is an experiment in reversing that order, and like most experiments it produces winners and losers at the same time. The council has promised to review the scheme after five years, and other districts are watching closely. Whether the model travels well to poorer areas, where a bicycle is a cost rather than a lifestyle choice, remains genuinely uncertain.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What did the city council do to create the cycle lane?",
+          "options": {
+            "A": "It closed the riverside road to all motor traffic.",
+            "B": "It took away a parking lane and a traffic lane along part of the road.",
+            "C": "It widened the road by building out over the river bank.",
+            "D": "It banned heavy goods vehicles from the whole district."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段第 3 句说议会决定在三公里长的路段上 remove one lane of parking and one lane of traffic，B 项是这句话的同义复述。A 项把它说成禁止一切机动车，属过度推断；C 项「向河岸扩建」原文没有依据。"
+        },
+        {
+          "n": 47,
+          "stem": "What happened to the shops on the street after the change?",
+          "options": {
+            "A": "Every one of them reported a fall in turnover.",
+            "B": "Cafes lost customers while the hardware store gained trade.",
+            "C": "Food businesses gained customers while a shop serving drivers closed.",
+            "D": "Most of them moved to the parallel streets nearby."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 2 段第 3 句说 cafes and bakeries gained customers，而依赖司机装卸重货的五金店 lost trade and eventually closed，C 项概括准确。A 项与原文相反（原文说 mixed results）；B 项把两类店铺的结果张冠李戴；D 项原文未提。"
+        },
+        {
+          "n": 48,
+          "stem": "What can be inferred from the safety argument in paragraph 3?",
+          "options": {
+            "A": "Cyclists themselves were to blame for most earlier collisions.",
+            "B": "Injuries fell because the road was redesigned, not because riders behaved better.",
+            "C": "Hospital admissions rose as more people took up cycling.",
+            "D": "Officials had promised safer roads before the lane was built."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段最后一句说骑车人长期被告知要更小心，而隔离之后碰撞减半、重伤入院同样下降，使他们觉得问题出在道路本身，即安全改善来自改造道路而非要求骑手自律。A 项与「长期被要求小心骑行」的语境相反；C 项把下降说成上升。"
+        },
+        {
+          "n": 49,
+          "stem": "In paragraph 3, the phrase 'the same pattern' refers to the drop in",
+          "options": {
+            "A": "the number of cyclists using the corridor.",
+            "B": "serious injuries requiring hospital treatment.",
+            "C": "the number of customers at street cafes.",
+            "D": "traffic on the parallel streets."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段第 3 句先说 collisions ... fell by half，紧接着说 hospital admissions for serious injuries followed the same pattern，可见所指就是「严重受伤入院人数同样下降」。A 项与事实相反（骑车人数是上升的）；D 项出现在第 2 段，且方向是增加。"
+        },
+        {
+          "n": 50,
+          "stem": "What is the author's attitude towards the cycle lane?",
+          "options": {
+            "A": "Unreserved support for the council's decision.",
+            "B": "A cautious, balanced assessment of its effects.",
+            "C": "Firm opposition on grounds of cost.",
+            "D": "Complete indifference to the outcome."
+          },
+          "answer": "B",
+          "explanation": "答案 B。作者既列出骑车人数上升、事故减半等收益，也在第 4 段呈现批评者的质疑和议会自己承认的 unevenly distributed，末句更说效果 remains genuinely uncertain，可见态度谨慎而平衡。A 项「无条件支持」和 C 项「坚决反对」都只取一面；D 项与全文细致的分析不符。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "Students often treat sleep as a resource to be spent, like money, and the week before examinations is when they spend most freely. A survey of 1,200 undergraduates at three universities found that average sleep fell from seven and a half hours to five hours and forty minutes during that period, while coffee consumption doubled. The students who slept least did not, on average, do better. They did worse, and the gap was widest on questions that asked them to apply a rule to a new example rather than simply recall a fact.\nThe reason lies in what happens after learning. During deep sleep the brain replays patterns of activity recorded during the day, strengthening the connections that hold new information. This process, called consolidation, is not a luxury that can be postponed; it appears to happen mainly at night and cannot be replaced by rest during the day. In one experiment, students who learned a list of word pairs in the evening and then slept for eight hours remembered about a fifth more the next morning than those who stayed awake for the same period.\nSleep loss also damages attention, and attention is the door through which information enters memory in the first place. A tired student reading a page may reach the bottom with no memory of the middle, not because the material was hard but because the mind drifted. Laboratory studies show that after a night of restricted sleep the number of brief lapses in attention rises sharply, and that people are poor at noticing when they have occurred. Students who believe they are studying for six hours may in fact be studying effectively for three.\nThere is a further cost that is easy to overlook. Sleep affects mood and the ability to tolerate frustration, so a tired student is more likely to abandon a difficult problem and less likely to ask for help. Over a term this can turn a single bad night into a habit of avoidance. Counsellors at one university reported that students seeking help with anxiety often described a cycle in which late-night study produced poor results, which produced more anxiety, which produced later nights still.\nThe practical advice is unglamorous. Regular bedtimes matter more than total hours in bed, because the body's internal clock responds to consistency. Screens should be put away half an hour before sleep, and coffee should stop in the early afternoon. Most important, revision should be spread across days rather than packed into the final night, since each period of sleep can only strengthen what has already been learned. The student who sleeps before an examination is not being lazy; they are completing the work.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "What did the survey find about students during the examination period?",
+          "options": {
+            "A": "They slept less and drank more coffee, and the least sleepers did worse.",
+            "B": "They slept longer but performed worse than in normal weeks.",
+            "C": "Their sleep fell, yet their results improved on recall questions.",
+            "D": "Coffee helped them keep their normal amount of sleep."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 1 段第 2 句说睡眠从七个半小时降到五小时四十分钟、咖啡消费翻倍，第 3、4 句又说睡得最少的人成绩更差，A 项三点齐全。B 项「睡得更多」与原文相反；C 项说回忆题成绩提高，而原文是「应用题上差距最大」，并非提高。"
+        },
+        {
+          "n": 52,
+          "stem": "According to paragraph 2, consolidation is a process that",
+          "options": {
+            "A": "can be replaced by resting during the daytime.",
+            "B": "happens mainly at night and strengthens new connections.",
+            "C": "takes place only while students are awake.",
+            "D": "students can practise deliberately before an exam."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 2、3 句说深度睡眠时大脑重放白天的活动模式、强化承载新信息的连接，并说这一过程主要发生在夜间，B 项对应这两点。A 项与 cannot be replaced 相反；C 项把夜间过程说成清醒时发生；D 项把无意识的生理过程说成可刻意练习的技巧。"
+        },
+        {
+          "n": 53,
+          "stem": "Why does the author mention a student who reads a page but cannot recall its middle?",
+          "options": {
+            "A": "To recommend reading difficult material a second time.",
+            "B": "To show how tiredness keeps information from entering memory.",
+            "C": "To prove that reading speed declines as people grow older.",
+            "D": "To suggest that textbooks are badly organised."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段第 1 句指出注意力是信息进入记忆的门，第 2 句随即用「读到底却记不住中间」的例子说明疲劳时 mind drifted，例子正是服务于这一观点。A 项谈重复阅读、D 项谈教材编排，都不是举例目的；C 项与年龄无关。"
+        },
+        {
+          "n": 54,
+          "stem": "The word 'unglamorous' in paragraph 5 most probably means",
+          "options": {
+            "A": "hard to follow in practice.",
+            "B": "plain and not at all exciting.",
+            "C": "expensive for most students.",
+            "D": "familiar to almost everyone."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 5 段第 1 句之后列举的都是按时睡觉、睡前放下屏幕、下午早停咖啡、把复习分散到多天等朴素建议，可见该词指「平淡、不吸引人」。A 项「难以照做」是过度推断，原文强调的恰恰是容易执行；C 项「昂贵」与建议内容毫无关系。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the main point of the passage?",
+          "options": {
+            "A": "Students should drink less coffee before examinations.",
+            "B": "Universities should schedule examinations later in the day.",
+            "C": "Sleep is part of learning rather than time taken away from it.",
+            "D": "Memory depends mainly on how long a student reads."
+          },
+          "answer": "C",
+          "explanation": "答案 C。全文从记忆巩固、注意力、情绪三个层面说明睡眠参与学习，末句更直接说考前睡觉的人不是偷懒，而是在「完成工作」，C 项概括了这一主旨。A 项只是第 5 段的一个细节；B 项考试时间安排在文中未提；D 项与「以为学了六小时，实际只学了三小时」的说法相反。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on whether undergraduates should take part-time jobs. You should state your opinion and give reasons. You should write at least 120 words but no more than 180 words.",
+    "prompt_cn": "校报正在征集稿件，请就「大学生是否应该做兼职」发表你的看法，写一篇 120–180 词的短文。",
+    "word_limit": 120,
+    "sample_essay": "Whether undergraduates should take part-time jobs divides students, but I believe the answer depends on how the job is chosen rather than on whether one is taken at all.\nA well-chosen job teaches what a classroom cannot. Serving customers, meeting a deadline for a small employer, or explaining a mistake to a manager builds patience and confidence that no lecture provides. It also brings a modest income, which matters to students who dislike asking their parents for money.\nYet a job becomes harmful when it consumes the hours that study needs. Students who work twenty hours a week before examinations often discover, too late, that they have traded a term of learning for a little cash. The sensible rule is to keep work under ten hours a week, to choose something related to one's field, and to stop when grades begin to fall.\nPart-time work is therefore neither a virtue nor a danger. It is a tool, and its value depends on the hand that uses it.",
+    "sample_essay_cn": "大学生是否应该做兼职，同学们看法不一，但我认为关键在于如何选择这份工作，而不在于要不要做。\n选得合适的工作能教给学生课堂教不了的东西。接待顾客、为小雇主赶上交期、向经理说明自己的失误，这些都会培养出讲座给不了的耐心与自信。它还能带来一份不多的收入，这对不愿向父母开口要钱的学生很重要。\n然而，当兼职占用了学习所需要的时间，它就有害了。考前每周工作二十小时的学生往往发现得太晚：他们用一学期的学习换来了一点现金。明智的做法是每周工作不超过十小时，尽量选择与本专业相关的岗位，并在成绩下滑时及时停下。\n因此，兼职既不是美德，也不是危险。它是一件工具，价值取决于使用它的那双手。"
+  },
+  "translation": {
+    "source_cn": "中国是茶的故乡，饮茶的历史已有数千年。最初，茶叶被当作药材，后来才逐渐成为日常饮品。唐代以后，饮茶之风盛行，人们开始讲究水质、器具与冲泡方法。如今，茶不只是一种饮料，也是一种待客的方式。客人来访，主人往往先奉上一杯热茶，以示尊重。在南方的一些城市，茶馆仍是人们聊天、听书和消磨时光的地方。近年来，越来越多的年轻人重新爱上传统茶饮，这一古老习俗因此获得新的生命。",
+    "reference_en": "China is the home of tea, and the history of tea drinking there goes back thousands of years. At first tea leaves were used as a medicine, and only later did they become an everyday drink. After the Tang Dynasty the habit of tea drinking spread widely, and people began to pay attention to the quality of water, to their utensils and to the way the leaves were brewed. Today tea is not only a beverage but also a way of receiving guests. When visitors arrive, the host usually offers a cup of hot tea first as a sign of respect. In some southern cities, tea houses are still places where people chat, listen to storytellers and pass the time. In recent years more and more young people have fallen in love with traditional tea again, and this old custom has thus gained a new life.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

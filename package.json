@@ -1,0 +1,21 @@
+{
+  "name": "guoji",
+  "version": "3.3.0",
+  "private": true,
+  "description": "过级 —— 四六级备考 PWA / APK：阅读刷题、听力、作文批改、翻译练习",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node scripts/serve.js",
+    "build": "node scripts/build_bundles.js",
+    "validate": "node scripts/validate_bank.js",
+    "test": "node scripts/smoke_test_cet.js",
+    "single": "node scripts/build_single_html.js",
+    "check": "npm run build && npm run validate && npm test"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

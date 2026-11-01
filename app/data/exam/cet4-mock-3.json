@@ -1,0 +1,235 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet4",
+    "year": 2026,
+    "month": 1,
+    "set": 3,
+    "title": "原创模拟 四级 第3套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "Few households set out to waste food. Trouble usually begins at the supermarket, where a hungry shopper fills the trolley with more than the fridge can hold. A survey of 400 families found that most kitchens [[26]] nearly a fifth of the food they buy, and that the money lost this way is rarely noticed.\n\nThe first remedy is planning. Before shopping, families should open the fridge and write a short list. Shoppers who [[27]] closely to that list buy far fewer items on impulse, and a [[28]] basket filled twice a week keeps vegetables fresher than one huge weekly load.\n\nStorage matters just as much. Many people [[29]] the same mistake: they put everything in one drawer, where soft fruit and greens spoil faster. Bread keeps longer in the freezer than on the counter, and herbs stay fresh in a glass of water. Containers marked with the date make the oldest item easy to [[30]], so it is eaten first.\n\nLeftovers deserve a second chance. Cold rice becomes fried rice; roast vegetables turn into soup. Families that set aside one evening a week for leftovers report a clear [[31]]: they bin far less and spend less at the till. Children pick up the [[32]] quickly, and a half loaf becomes tomorrow's lunch.\n\nNone of this demands special equipment or extra money. It asks only for a [[33]] approach to buying food and storing it, and for enough patience to [[34]] yesterday's dinner into today's lunch. Households that adopt these routines often find their weekly [[35]] falls by a quarter.",
+      "word_options": [
+        { "k": "A", "t": "benefit" },
+        { "k": "B", "t": "bill" },
+        { "k": "C", "t": "carefully" },
+        { "k": "D", "t": "devote" },
+        { "k": "E", "t": "generous" },
+        { "k": "F", "t": "habit" },
+        { "k": "G", "t": "identify" },
+        { "k": "H", "t": "modest" },
+        { "k": "I", "t": "rarely" },
+        { "k": "J", "t": "repeat" },
+        { "k": "K", "t": "sensible" },
+        { "k": "L", "t": "shortage" },
+        { "k": "M", "t": "stick" },
+        { "k": "N", "t": "turn" },
+        { "k": "O", "t": "discard" }
+      ],
+      "questions": [
+        { "n": 26, "answer": "O", "explanation": "答案 O) discard。第 1 段第 3 句，most kitchens 是复数主语，空格处需及物动词原形，宾语为 nearly a fifth of the food，discard 意为「丢弃」，与后半句 the money lost 呼应；N) turn 要与 into 搭配才表「变成」，此处没有 into；D) devote 须接 to，语法也不成立。" },
+        { "n": 27, "answer": "M", "explanation": "答案 M) stick。第 2 段第 3 句，who 引导定语从句修饰 Shoppers，stick to 意为「坚持照……做」，与后半句 buy far less on impulse 构成因果；J) repeat 不能接 to，D) devote 虽可接 to，但 devote to that list 缺宾语，语义不通。" },
+        { "n": 28, "answer": "H", "explanation": "答案 H) modest。同句 a ___ basket 需形容词，后面 than one huge load 构成对比，说明购物篮是「少量的、适度的」；E) generous 意为「大量的」，与 huge 同义，会使这个比较失去意义。" },
+        { "n": 29, "answer": "J", "explanation": "答案 J) repeat。第 3 段第 2 句，Many people 后接动词原形，repeat the same mistake 是固定搭配「重犯同一个错误」；O) discard 与 mistake 搭配不成立，M) stick 后面必须接 to。" },
+        { "n": 30, "answer": "G", "explanation": "答案 G) identify。第 3 段末句，easy to 后接动词原形，贴上日期是为了「认出」最旧的那一件，与 so it is eaten first 逻辑一致；N) turn 需 into 才成立，J) repeat 与 the oldest item 搭配不通。" },
+        { "n": 31, "answer": "A", "explanation": "答案 A) benefit。第 4 段第 3 句，a clear ___ 后接冒号，冒号后的 bin far less and spend less 正是好处，故填 benefit；L) shortage 表示「短缺」，与「扔得更少」正好相反。" },
+        { "n": 32, "answer": "F", "explanation": "答案 F) habit。第 4 段末句，pick up the ___ 是固定搭配「养成……习惯」，后文孩子把半个面包留作午饭正是这一习惯的体现；A) benefit 已用于上一空，且 pick up the benefit 不成立。" },
+        { "n": 33, "answer": "K", "explanation": "答案 K) sensible。第 5 段第 1 句，a ___ approach 需形容词修饰 approach，only 引出与 no special equipment 相对的「只需明智的做法」；E) generous 修饰 approach 语义空泛，也与全文省钱的主旨相反。" },
+        { "n": 34, "answer": "N", "explanation": "答案 N) turn。第 5 段第 1 句，patience to 后接动词原形，turn A into B 意为「把 A 变成 B」，指把剩饭变成第二天的午饭；O) discard 不与 into 搭配，M) stick 后面须接 to。" },
+        { "n": 35, "answer": "B", "explanation": "答案 B) bill。第 5 段第 2 句，their weekly ___ falls by a quarter，空格被 weekly 修饰且与 falls 搭配，指每周的账单或开销下降，与全文省钱主题一致；A) benefit 不能与 falls 连用表示减少，L) shortage 与 falls 语义冲突。" }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        { "label": "A", "text": "Walk down Halden Road on any weekday morning and you will pass a strip of grass no wider than a bus. Ten years ago it held a bench, a litter bin and very little else. Today the same strip holds twelve pieces of outdoor exercise equipment, a drinking fountain and a rubberised surface that stays firm in the rain. The district council installed the machines in 2019 and has never charged anyone to use them. Residents call the place the pocket park, and on a fine morning you may have to wait your turn at the air walker." },
+        { "label": "B", "text": "The machines are not the heavy steel frames found in commercial gyms. They use the user's own body weight as resistance, so a cross trainer slows down when the person pushing it slows down, and nobody has to set a speed. Most are low impact: the feet never leave the pedals, the handles sit within easy reach of someone who prefers to remain seated, and no exercise needs a partner. A metal plate on each machine shows three simple diagrams and one short sentence in large print, because the designers assumed that most users would arrive alone." },
+        { "label": "C", "text": "The park has three busy periods, and they barely overlap. Between six and eight in the morning it belongs to people over sixty, who arrive in pairs, work through the same sequence of machines in the same order and leave before the shops open. From four in the afternoon the equipment is taken over by teenagers, who treat the pull-down bars as a climbing frame, which the council did not plan for. Office workers appear briefly around one o'clock, still wearing their lanyards, and rarely stay more than twenty minutes." },
+        { "label": "D", "text": "For the first two years the park was empty after sunset. The nearest street lamp stood forty metres away, and residents said they did not want to exercise where they could not see their own feet. In 2021 the council added four low lamps on three-metre posts, angled so that the light falls on the equipment rather than into the windows of the flats opposite. Evening use rose sharply within a month. The change was largest among women, many of whom had avoided the park altogether after dark. Two of the lamps were damaged by a car within a year, and the council replaced both within a week." },
+        { "label": "E", "text": "Every Saturday at nine, a retired PE teacher called Ms. Nora Pike runs a free session that lasts forty-five minutes. She begins with ten minutes of slow movement for stiff shoulders, then takes the group through the machines in a fixed order, and finishes with stretching on the grass. Numbers grew from six to more than thirty within a year, and the clinic on the corner now sends a nurse once a month to check blood pressure and answer questions. Nobody books a place; people simply turn up. Ms. Pike also keeps a paper list of who has been shown how to use each machine, because new faces appear every month." },
+        { "label": "F", "text": "The equipment cost about as much as a small car, and the district spends roughly two thousand a year keeping it in working order. A hardware shop on the corner covers part of that sum in exchange for a modest sign on the fence. A private gym membership in this city costs more for one person than the annual maintenance of the whole park, which is why the council's finance officer calls the site cheap insurance. He also argues that it reduces demand for other services." },
+        { "label": "G", "text": "Not everything has gone smoothly. Two machines stood out of order for five months because the parts had to be ordered from another province, and a bearing was stolen twice in the same winter. Households close to the fence have complained about the thump of cross trainers at seven in the morning and about groups who stay talking until midnight. The council now posts a repair date on the fence whenever a machine fails, a small change that has done more for goodwill than any public meeting. The stolen bearing was finally replaced with a lockable cover, which has so far held." },
+        { "label": "H", "text": "A survey of 600 local residents, carried out by a university team, found that 41 per cent of those living within five minutes' walk said they exercised more than they had before the park opened. That number should be read with care. The survey relied on what people said about themselves, and residents who never visit the park were less likely to return the form at all. Even so, the pattern held across three years of data and in every age group. Older men were the least likely to report a change, and the team could not explain why." },
+        { "label": "I", "text": "What the survey could not measure was the effect on neighbours. People who had lived on the same street for a decade met for the first time beside the air walker. A group of regulars now runs a phone chat that announces who is coming out, shares photographs of a broken handle and organises a shared taxi to the hospital for members who need one. For several older residents this is the only conversation of the day, and it began beside a machine that costs nothing to use. The chat has sixty-four members, most of whom had never joined any group before." },
+        { "label": "J", "text": "Other districts have asked how to copy the idea, and the honest answer is less attractive than the photographs. A strip of unused land, twelve machines, four lamps and one volunteer are enough to begin. What cannot be skipped is the dull part: a maintenance contract, a named person to telephone when something breaks, and a meeting with the people who live close enough to hear the equipment at seven in the morning. Without those three things, the park is scrap metal with good intentions." }
+      ],
+      "questions": [
+        { "n": 36, "stem": "A piece of ground that once served almost no purpose now offers equipment that costs local people nothing.", "answer": "A", "explanation": "答案 A 段。该段说这块地十年前只有长椅和垃圾桶，如今装了十二件器械，并且安装后从未向任何人收费，与「几乎没用途的地块」「免费」两点对应；F 段虽然谈到钱，但讲的是维护成本，不是使用是否收费。" },
+        { "n": 37, "stem": "The equipment responds to how hard the user works instead of setting a fixed pace for everyone.", "answer": "B", "explanation": "答案 B 段。该段第 2 句说器械以使用者自身体重为阻力，人推得慢机器就慢，谁也不必设定速度，正是「随使用者用力大小而变化」；C 段谈的是不同时段的使用人群，与此无关。" },
+        { "n": 38, "stem": "The same space is used by different age groups at different times of the day.", "answer": "C", "explanation": "答案 C 段。该段按早晨、下午、午后一点三个时段分别写老年人、青少年和上班族，且开头就说三个高峰「几乎不重叠」；A 段只笼统提到有人排队，没有区分人群与时段。" },
+        { "n": 39, "stem": "Making the site visible after dark produced a quick increase in use, especially among women.", "answer": "D", "explanation": "答案 D 段。该段说装灯前日落后无人使用，2021 年加装四盏矮灯后一个月内晚间使用量骤增，且女性变化最大，正合题意；B 段讲器械的低冲击设计，与照明无关。" },
+        { "n": 40, "stem": "A weekly class is run without payment by a local person and has attracted help from a health service.", "answer": "E", "explanation": "答案 E 段。该段说退休体育老师 Ms. Nora Pike 每周六免费带课，街角诊所每月派护士量血压，对应「不收费的本地人主持」「医疗机构参与」；G 段虽然提到居民，但讲的是投诉与维修。" },
+        { "n": 41, "stem": "The amount needed to keep the site running is tiny next to what private facilities charge.", "answer": "F", "explanation": "答案 F 段。该段把每年约两千元的维护费与私人健身房一个人的年费相比，并称这块场地是「便宜的保险」，正是运营成本远低于商业场馆；E 段谈课程人数增长，不涉及费用比较。" },
+        { "n": 42, "stem": "Missing parts and theft have left some of the equipment out of action.", "answer": "G", "explanation": "答案 G 段。该段说两台机器因零件要从外省订购而停用五个月，同一冬天还两次丢失轴承，对应「配件不到位」和「被盗」；D 段讲的是照明改造带来的好处，方向相反。" },
+        { "n": 43, "stem": "The survey results come with a warning about the way the information was gathered.", "answer": "H", "explanation": "答案 H 段。该段给出 41% 这个数字后立刻说「应谨慎看待」，理由是数据来自自我报告，且不去公园的人更不可能交回问卷，正是对调查方式的提醒；I 段说的是调查无法测量的邻里关系。" },
+        { "n": 44, "stem": "The site has brought together people who had never spoken to one another before.", "answer": "I", "explanation": "答案 I 段。该段说同一条街上住了十年的邻居第一次在漫步机旁相识，还自发建了手机群互相照应，对应「此前从未交谈的人建立了联系」；C 段只说明不同人群分时段使用，并未涉及彼此交往。" },
+        { "n": 45, "stem": "Repeating the scheme elsewhere depends more on arrangements for upkeep and for consulting residents than on the machines themselves.", "answer": "J", "explanation": "答案 J 段。该段说土地、器械、灯和一名志愿者就够起步，真正不能省的是维修合同、报修负责人和与附近居民的沟通会，强调「难的是维护与协商，不是硬件」；F 段只讲钱，没有提到征询居民意见。" }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Ask people what makes a city unhealthy and most will mention dirty air, traffic or a lack of green space. Few will say noise, although noise is the pollutant we meet most often. A study of three European cities estimated that traffic sound above 65 decibels during the day reaches one household in five, and linked years of exposure to raised blood pressure and broken sleep. What makes noise odd among pollutants is that it leaves no residue: once the lorry has passed, the street looks clean again.\n\nThe body, however, does not forget so quickly. Sound is processed first as a warning rather than as information. A sudden bang reaches the brain before we have decided whether it matters, and the body answers with a small rise in heart rate and a tightening of the muscles. If the noise repeats, the response repeats, even when the sleeper does not wake. Researchers who measured sleep in rooms beside a motorway found that people who said they had grown used to the sound still showed brief rises in heart rate a hundred times a night.\n\nThe effects are not evenly spread. Households that can afford triple glazing, thick walls and a bedroom at the back of the building buy silence; those in cheaper flats beside main roads cannot. A study of schoolchildren found that reading scores were lower in classrooms where aircraft passed overhead, and that the gap widened as the school year went on. Teachers in those rooms also spoke more loudly and took more sick leave.\n\nSolutions exist, and some are surprisingly cheap. Lower speed limits cut tyre noise more than most drivers expect, and quiet road surfaces, planted strips and a moved bus stop can each remove a few decibels. None of these measures is dramatic, and none produces the visible result that a new park or a cleaned river does. That may be why noise receives so little attention: a problem you cannot photograph is easy to postpone.\n\nThe most effective step, researchers argue, is not technical but political. Cities that treat noise as a public health matter set limits, measure them and publish the results, in the way they already do for drinking water. Where that has happened, complaints have fallen and, more importantly, so has exposure. The lesson is simple enough: a city that listens to its residents should also listen to its noise.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What does the author find most distinctive about noise as a pollutant?",
+          "options": {
+            "A": "It disappears from view as soon as its source has moved on.",
+            "B": "It is produced mainly by vehicles in the centre of cities.",
+            "C": "It can be measured more accurately than the quality of air.",
+            "D": "It harms wealthy households more severely than poorer ones."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 1 段末句说噪音不留下残留物，卡车一过街道看上去又干净了，正是「源头离开后便从视野中消失」；D 项与第 3 段相反，原文说买得起三层玻璃和背街卧室的富裕家庭可以把安静买下来。"
+        },
+        {
+          "n": 47,
+          "stem": "What did the sleep studies show about people who believed they had got used to traffic noise?",
+          "options": {
+            "A": "They woke up far more often than they realised.",
+            "B": "Their bodies still reacted to the sound many times a night.",
+            "C": "They needed longer than light sleepers to fall asleep.",
+            "D": "They reported fewer health problems than their neighbours."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段末句说自认为已经习惯噪音的人，一夜之中仍有上百次心率的短暂上升，说明身体仍在反应；A 项偷换概念，原文强调的是「没有醒来」也有反应，而非醒来次数多。"
+        },
+        {
+          "n": 48,
+          "stem": "Why does the author mention triple glazing and bedrooms at the back?",
+          "options": {
+            "A": "To explain why new buildings are quieter than old ones.",
+            "B": "To show that protection from noise depends on income.",
+            "C": "To recommend a cheap solution that councils can fund.",
+            "D": "To question whether silence is really worth paying for."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段开头用「买得起」与「住不起」对照，随后说便宜公寓里的住户做不到，可见作者要说明安静是可以花钱买到的、因而分配不均；C 项把三层玻璃当成政府可资助的低成本方案，原文并未这样说。"
+        },
+        {
+          "n": 49,
+          "stem": "What does the author suggest by saying that a problem you cannot photograph is easy to postpone?",
+          "options": {
+            "A": "Officials keep delaying action because the damage is invisible.",
+            "B": "Noise will fade away by itself as cities grow richer.",
+            "C": "The problem is too complex for scientists to measure.",
+            "D": "It receives more attention than water pollution does."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 4 段先说降噪措施都不「戏剧化」、没有新公园那样的可见成果，接着用这句话解释噪音为何少受关注，即看不见的损害使决策者一再拖延；C 项与第 5 段「设限、测量、公布」矛盾。"
+        },
+        {
+          "n": 50,
+          "stem": "What is the main message of the passage?",
+          "options": {
+            "A": "Noise harms health in hidden ways and deserves public action.",
+            "B": "Traffic noise is the main reason city residents move away.",
+            "C": "Cheap technical fixes have already solved most noise problems.",
+            "D": "Scientists still disagree about whether noise affects sleep."
+          },
+          "answer": "A",
+          "explanation": "答案 A。全文先讲噪音对血压和睡眠的隐性伤害，再讲其影响不均、措施不受重视，末段主张把噪音当作公共卫生问题来测量和公布，主旨即「隐性危害需要公共行动」；C 项与第 4 段「没有一项措施引人注目」以及末段「关键不在技术」都不符。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "Parents are often told that a second language is good for the brain, and the claim usually rests on studies showing that bilingual children do better on certain puzzles. The picture is more complicated than the advertisement suggests. Children who grow up with two languages do perform better on tasks that require ignoring a distraction, but the advantage is modest and does not appear in every study.\n\nThe most reliable finding concerns what researchers call executive control: the set of mental skills that let a person hold a goal in mind, switch between rules and resist an obvious but wrong answer. A bilingual speaker chooses between two words for every object and must hold back the one that is not wanted, thousands of times a day. Practice of that kind may strengthen the system that manages attention, much as repeated lifting strengthens an arm.\n\nThe effect on memory is less clear. Some studies report that people who take up a language in later life score better on attention tests a year or two later; others find no difference once education and income are taken into account. A 2022 review of forty studies concluded that the average benefit was small, and that the studies with the weakest methods reported the largest gains, a pattern that should make any reader cautious.\n\nWhat the research does support strongly is a different argument. Learning a language forces a learner to notice how meaning is built: why one word order sounds natural and another does not, why a sentence can be polite in one culture and rude in another. That habit of noticing does not require fluency. Adults who study for an hour a week for a year often report that they read their own language more carefully.\n\nThe practical advice that follows is unglamorous. Choose a language you have a reason to use, practise in short sessions rather than long ones, and speak before you feel ready. Claims that a new language will add years to your mental life are probably exaggerated; claims that it will change how you notice the world are easier to defend. Either way, the first lesson is worth more than the tenth article about the benefits.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "What does the author say about the claim that bilingual children do better on puzzles?",
+          "options": {
+            "A": "It rests on a single study that has never been repeated.",
+            "B": "It is broadly true, but the advantage is limited and not universal.",
+            "C": "It applies only to children who start before the age of three.",
+            "D": "It was withdrawn after later researchers failed to agree."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段第 3 句承认双语儿童在需要忽略干扰的任务上确实表现更好，但随即说 the advantage is modest and does not appear in every study，即优势有限且并非普遍；D 项说该说法已被撤回，原文只说情况比广告复杂，并未否定这一发现。"
+        },
+        {
+          "n": 52,
+          "stem": "Why does the author mention lifting an arm in paragraph 2?",
+          "options": {
+            "A": "To show that language learning requires physical training.",
+            "B": "To suggest that children learn faster than adults do.",
+            "C": "To illustrate how repeated practice may strengthen attention.",
+            "D": "To argue that learners should exercise before studying."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 2 段先解释双语者每天上千次抑制不用的词，再用 much as repeated lifting strengthens an arm 作类比，说明这种反复练习可能强化管理注意力的系统；A 项把比喻当成事实，原文并非在谈体育锻炼。"
+        },
+        {
+          "n": 53,
+          "stem": "What did the 2022 review of forty studies find?",
+          "options": {
+            "A": "The average benefit was small, and weaker studies reported larger gains.",
+            "B": "Older learners gained far more than younger ones in every study.",
+            "C": "Memory improved clearly once education was taken into account.",
+            "D": "Most of the forty studies produced almost identical results."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 3 段末句说该综述认为平均收益很小，而且方法最弱的研究报告的收益最大；C 项与同段前一句相反，原文说一旦把教育和收入考虑进去，有些研究就找不到差异。"
+        },
+        {
+          "n": 54,
+          "stem": "According to paragraph 4, which benefit does not depend on becoming fluent?",
+          "options": {
+            "A": "A sharper awareness of how meaning is constructed.",
+            "B": "A larger vocabulary in the learner's first language.",
+            "C": "A better memory for names and dates.",
+            "D": "A stronger ability to imitate native pronunciation."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 4 段说学语言迫使人注意意义是如何构成的，并明确 That habit of noticing does not require fluency，与选项对应；B、C、D 三项原文均未提及，属于无据推断。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the author's attitude towards popular claims about language learning?",
+          "options": {
+            "A": "Cautious about the size of the benefits, but not dismissive of them.",
+            "B": "Convinced that the real benefits have been greatly understated.",
+            "C": "Indifferent, since the evidence cannot be interpreted at all.",
+            "D": "Hostile, because such claims are used to sell courses."
+          },
+          "answer": "A",
+          "explanation": "答案 A。末段说「延长心智寿命」之类的说法大概被夸大，但「改变你观察世界的方式」较站得住脚，可见作者对收益大小持保留态度却不全盘否定；D 项过度，原文虽提到 advertisement，却未指责其动机。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay. Suppose a foreign friend is coming to your university and you want to introduce a traditional Chinese festival to him or her. You should write at least 120 words but no more than 180 words.",
+    "prompt_cn": "假设一位外国朋友要来你的学校，你想向他（她）介绍一个中国传统节日。写一篇 120–180 词的短文，说明这个节日的由来或习俗，并表达欢迎之意。",
+    "word_limit": 120,
+    "sample_essay": "Dear Daniel,\n\nSince you arrive in early February, you will be here for the Spring Festival, and I would like to tell you what to expect. It is the most important holiday in China, and it is less a single day than a season of about two weeks.\n\nBefore the holiday, families clean the house from top to bottom, paste red paper cuttings on the windows and cook far more food than anyone can eat. On the eve of the new year, everyone gathers for a long dinner; dumplings appear in the north, while rice cakes are common in the south. Older relatives hand young people red envelopes with money inside, and children stay up late to welcome the new year.\n\nIf you join my family, I will take you to the night market near my home, where lanterns hang along the street. Please do not worry about the food or the customs. Just follow us and ask whatever you like.\n\nYours,\nWei",
+    "sample_essay_cn": "亲爱的丹尼尔：\n\n你二月初到，正好赶上春节，我想先告诉你一些该期待的事。春节是中国最重要的节日，它与其说是一天，不如说是持续约两周的一段日子。\n\n节前，家家户户把房子彻底打扫一遍，在窗户上贴红色剪纸，做的饭菜多得谁也吃不完。除夕夜，全家人聚在一起吃一顿长长的晚饭；北方吃饺子，南方则常见年糕。长辈会给晚辈装着钱的红色信封，孩子们熬到很晚迎接新年。\n\n如果你来我家，我会带你去我家附近的夜市，那里沿街挂着灯笼。吃的和习俗你都不用担心，跟着我们走，想问什么就问什么。\n\n你的朋友\n伟"
+  },
+  "translation": {
+    "source_cn": "中国书法是一门用毛笔书写汉字的艺术，已有两千多年历史。写字的人握住毛笔，蘸上墨，在宣纸上留下粗细、快慢各不相同的线条。同一个字，不同的人写出来往往风格完全不同，因此书法常被看作书写者性情与修养的体现。学书法一般从临摹古人的碑帖开始，先练基本笔画，再练整字的结构。许多人练字时心会慢慢静下来，所以书法也被当作一种修身养性的方式。今天，书法课已经走进中小学课堂，年轻人也愿意在周末去美术馆看展览。",
+    "reference_en": "Chinese calligraphy is the art of writing Chinese characters with a brush, and it has a history of more than two thousand years. The writer holds the brush, dips it in ink and leaves lines of different thickness and speed on the paper. The same character, written by different people, often looks completely different, so calligraphy is often seen as a reflection of the writer's character and cultivation. Learning calligraphy usually begins with copying the stone inscriptions of earlier masters: basic strokes first, then the structure of whole characters. Many people find that their minds gradually settle while they practise, which is why calligraphy is also regarded as a way of calming and improving oneself. Today calligraphy classes have entered primary and secondary schools, and young people are willing to spend weekends looking at exhibitions in art galleries.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

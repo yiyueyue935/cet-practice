@@ -1,0 +1,355 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet6",
+    "year": 2026,
+    "month": 1,
+    "set": 3,
+    "title": "原创模拟 六级 第3套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "Human bodies keep time with an internal clock that expects darkness at night and light by day. When work schedules ignore that expectation, the effects reach far beyond [[26]] fatigue at the end of a shift. Bright factory lighting, arriving at the hour when the body expects dusk, tends to [[27]] the production of melatonin, the hormone that prepares us for sleep. Body temperature and blood pressure, which ought to fall during the night, remain [[28]] for hours. Meanwhile the digestive system, braced for rest, must process a heavy meal at three in the morning.\n\nEconomists put the [[29]] at hundreds of billions a year in lost output and medical bills. Large surveys of nurses and transport staff have also linked years of rotating shifts to a higher [[30]] of metabolic disorder, weight gain and heart disease. One explanation is that the organs drift out of step with one another: the liver may be working on one timetable while the brain is still on another, so the hormones that [[31]] appetite and blood sugar no longer arrive at the moment the body can use them.\n\nSome employers have tried to [[32]] the damage through better design. Forward-rotating schedules, in which a worker moves from morning to afternoon to night rather than the reverse, suit the clock's natural [[33]] to run slightly long. They also acknowledge that the body does not switch in a single night: it adapts [[34]], by roughly an hour a day. None of these measures makes night work harmless, but together they [[35]] the strain.",
+      "word_options": [
+        { "k": "A", "t": "adjust" },
+        { "k": "B", "t": "conceal" },
+        { "k": "C", "t": "abruptly" },
+        { "k": "D", "t": "modest" },
+        { "k": "E", "t": "ease" },
+        { "k": "F", "t": "erratic" },
+        { "k": "G", "t": "shortage" },
+        { "k": "H", "t": "incidence" },
+        { "k": "I", "t": "offset" },
+        { "k": "J", "t": "regulate" },
+        { "k": "K", "t": "mere" },
+        { "k": "L", "t": "suppress" },
+        { "k": "M", "t": "tendency" },
+        { "k": "N", "t": "gradually" },
+        { "k": "O", "t": "cost" }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "answer": "K",
+          "explanation": "答案 K) mere。空处修饰 fatigue，与前面的 far beyond 构成「远不止」的递进，mere 意为「仅仅的」，与 at the end of a shift 这种轻描淡写的说法相呼应。D modest 只表示程度温和，撑不起「不止于此」的让步语气；F erratic 修饰疲劳不搭配。"
+        },
+        {
+          "n": 27,
+          "answer": "L",
+          "explanation": "答案 L) suppress。第 1 段第 2 句说工厂强光恰好出现在身体期待黄昏的时刻，tends to 后接动词原形，而褪黑素本是 prepares us for sleep 的激素，强光自然「抑制」其分泌。J regulate 看似合理，但上下文强调节律被打乱而非被调节；B conceal 不能与激素分泌搭配。"
+        },
+        {
+          "n": 28,
+          "answer": "F",
+          "explanation": "答案 F) erratic。remain 后接形容词作表语，前面的 which ought to fall during the night 说明本应平稳下降却「忽高忽低」，erratic 正合此意。D modest 指幅度温和，与 for hours 暗示的失控相反；K mere 不能作表语描述生理指标。"
+        },
+        {
+          "n": 29,
+          "answer": "O",
+          "explanation": "答案 O) cost。put the cost at ... 是固定说法，后接 hundreds of billions a year in lost output and medical bills，金额线索明确指向经济代价。G shortage 无法与金额搭配；M tendency 不能用于 put ... at 结构。"
+        },
+        {
+          "n": 30,
+          "answer": "H",
+          "explanation": "答案 H) incidence。a higher ___ of metabolic disorder 需要表示「发生率」的名词，incidence of 为固定搭配。M tendency 后应接 to do 而非 of，语法上即被排除；O cost 与 disorder 连用会变成「疾病的花费」，与 linked ... to 的因果表述不符。"
+        },
+        {
+          "n": 31,
+          "answer": "J",
+          "explanation": "答案 J) regulate。定语从句先行词是 hormones，空格后接 appetite and blood sugar 两个并列宾语，只有 regulate 能同时与二者搭配，意为「调节」。L suppress 只能带 appetite，与 blood sugar 连用不合逻辑；A adjust 不能直接以 appetite 作宾语。"
+        },
+        {
+          "n": 32,
+          "answer": "I",
+          "explanation": "答案 I) offset。try to 后接动词原形，through better design 说明是以改进排班来「抵消」损害。B conceal 语法可行，但下文列举的全是减轻伤害的措施，与「隐瞒」相反；E ease 通常搭配 strain、pain，不搭配 damage。"
+        },
+        {
+          "n": 33,
+          "answer": "M",
+          "explanation": "答案 M) tendency。the clock's natural ___ to run slightly long 中，to run 是判定依据：能接不定式且表示「倾向」的名词只有 tendency。H incidence 后常接 of；O cost 与 to run long 无法构成语义。"
+        },
+        {
+          "n": 34,
+          "answer": "N",
+          "explanation": "答案 N) gradually。冒号后的 by roughly an hour a day 说明适应是「逐步」发生的，与前半句 does not switch in a single night 完全一致。C abruptly 与之恰好相反；D modest 是形容词，不能修饰 adapts。"
+        },
+        {
+          "n": 35,
+          "answer": "E",
+          "explanation": "答案 E) ease。but together they 引出转折后的正面作用，空格后接 the strain，ease the strain 意为「减轻负担」。I offset 已用于第 32 题，且多接 damage、cost；A adjust 不能以 strain 为宾语。"
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "For three decades the standing of a university department in much of the world has been read off a single number: how many papers its staff place in journals that somebody else has ranked. The habit is easy to explain and hard to break. A count can be produced by an administrator in an afternoon, compared across institutions, and defended in a budget meeting. What it cannot do is say whether the work counted was any good, or whether the person who produced it will still be asking interesting questions in ten years. That gap is now the subject of an unusually wide reform."
+        },
+        {
+          "label": "B",
+          "text": "The fashion for counting did not begin with malice. In the 1980s and 1990s, as public funding tightened, ministries demanded evidence that money was being well spent, and universities needed a language that auditors understood. Citation indices, journal rankings and grant totals were already sitting in databases, so they became that language. Each was a rough proxy for quality, and each was soon treated as though it were quality itself. Once appointments and promotions were tied to the proxies, staff had every reason to optimise for them, and the proxies quietly became the purpose they had been invented to measure."
+        },
+        {
+          "label": "C",
+          "text": "The behavioural effects were predictable and are now well documented. Researchers split findings into the smallest publishable units, because four short papers count more than one long one. They avoid questions whose answers might take a decade, because the review cycle rewards visible annual output. Young scholars feel this most sharply, since they need a contract renewed long before they can afford to be patient; several surveys report that early-career staff are the least willing to change field or take a speculative risk. The result is a literature that grows quickly and, in some fields, advances slowly."
+        },
+        {
+          "label": "D",
+          "text": "The most widely discussed remedy is the representative works system. Instead of listing everything an applicant has published, a candidate submits three to five pieces chosen as the best evidence of what he or she can do, together with a short statement explaining why each was selected and what it contributed. Evaluators read the pieces themselves rather than their titles. Advocates argue that the format puts judgement back at the centre of assessment and removes the incentive to pad a list. Critics warn that it hands enormous discretion to panels and may simply relocate the old favouritism."
+        },
+        {
+          "label": "E",
+          "text": "Peer review is the mechanism on which the whole design depends, and it is also its weakest joint. Reviewers are busy, unpaid and often drawn from the same small circle of networks that produced the candidate. Studies of grant panels have found that scores shift when the same proposals are read in a different order, and that the identity of the chair accounts for a surprising share of the variance. None of this makes review worthless; it makes it something that has to be designed. Randomisation, written rather than spoken scoring, and readers from outside the field are among the fixes now being tested."
+        },
+        {
+          "label": "F",
+          "text": "A second complaint concerns teaching. In institutions that reward only publication, lecturing becomes a duty to be discharged with as little interference as possible, and students notice. Reform proposals therefore usually include a teaching portfolio: course designs, samples of feedback, evidence of what students actually learned. The difficulty is measurement. Research output, however imperfectly, leaves a trail; good teaching often leaves only a memory. Departments that have tried portfolios report that the documents are hard to compare and easy to write well without teaching well, which is why some have turned to structured observation of classes instead."
+        },
+        {
+          "label": "G",
+          "text": "Any single template runs into the fact that disciplines do not share a tempo. A mathematician may produce two papers in a decade and change the subject; a clinical team may produce forty, each reporting a trial that could not have been run in any other way. Historians publish books, economists publish articles, and engineers publish patents that no journal would accept. A national framework that ignores these differences will either crush the slow disciplines or inflate the fast ones. The Corwin Commission, which spent four years on the question, concluded that the unit of assessment should be the department's own account of what it is trying to do."
+        },
+        {
+          "label": "H",
+          "text": "Pressure also arrives from outside the sector. International league tables weigh research income and citation counts heavily, and governments that fund universities by results tend to import the same weights. A ministry that wants its flag higher in the table has an obvious interest in more papers, not better ones. Reformers therefore face an awkward task: they must persuade the same officials who commissioned the counting to accept a slower and less legible kind of evidence. Where that persuasion has succeeded, it has usually come with a protected budget, so that departments are not forced to choose between reputation and survival."
+        },
+        {
+          "label": "I",
+          "text": "No evaluation system is neutral, and every one of them will be gamed. The realistic aim is not to abolish gaming but to make the game worth playing. A department that shifts from counting papers to reading them will find that its staff spend more time on fewer, better projects, and it will also find that colleagues who were efficient at producing short papers become less comfortable. That discomfort is a cost, and honest reformers should say so plainly rather than promise that nothing will be lost along the way."
+        },
+        {
+          "label": "J",
+          "text": "What the reform ultimately asks is a question universities have always found awkward: what is scholarship for? If the answer is a contribution to understanding, then the evidence must include the judgement of people who understand the work, and it must allow for the possibility that the most valuable contribution looks unimpressive for years. Metrics can support that judgement; they cannot replace it. The institutions that get this right will not be the ones with the most elaborate formulas, but the ones whose committees are trusted enough to be given real discretion."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "The use of counts spread when funders began demanding proof that public money was being well spent.",
+          "answer": "B",
+          "explanation": "答案 B 段。该段交代历史成因：上世纪八九十年代公共经费收紧，主管部门要求证明资金用得其所，而引用指数与期刊排名「本来就在数据库里」，于是成了审计者听得懂的语言，与题干 funders demanding proof 对应。A 段只讲计数当下的方便，没有交代它为何兴起。"
+        },
+        {
+          "n": 37,
+          "stem": "Breaking results into several short papers is a rational response to the way output is measured.",
+          "answer": "C",
+          "explanation": "答案 C 段。该段说研究者把发现拆成 the smallest publishable units，理由是四篇短文比一篇长文更「算数」，正是题干 rational response 的改写。D 段谈代表作制度如何提交材料，与拆分论文无关。"
+        },
+        {
+          "n": 38,
+          "stem": "Under the proposed format, assessors are expected to engage with the substance of a few selected pieces rather than tally titles.",
+          "answer": "D",
+          "explanation": "答案 D 段。该段说明候选人提交三到五篇自选作品，评审「读作品本身而不是标题」，对应题干 engage with the substance 与 rather than tally titles。E 段讨论的是评审环节的缺陷，而非制度对评审者的要求。"
+        },
+        {
+          "n": 39,
+          "stem": "Even expert judgement can be swayed by features of the process that have nothing to do with quality.",
+          "answer": "E",
+          "explanation": "答案 E 段。该段列举同一批申请换个顺序阅读分数就会变、主席身份能解释相当一部分方差，说明判断受与质量无关的因素左右，与题干 swayed by irrelevant features 对应。F 段谈教学档案难比较，不涉及评审偏差。"
+        },
+        {
+          "n": 40,
+          "stem": "Good teaching leaves few durable records, which complicates any attempt to reward it.",
+          "answer": "F",
+          "explanation": "答案 F 段。该段说研究成果总会留下痕迹，而好教学往往只留下记忆，因此教学档案 hard to compare，对应题干 few durable records 与 complicates。G 段讨论学科节奏差异，与教学记录无关。"
+        },
+        {
+          "n": 41,
+          "stem": "Publication habits vary so much between fields that one uniform standard is likely to distort some of them.",
+          "answer": "G",
+          "explanation": "答案 G 段。该段以数学、临床团队、历史学、工程学为例说明产出节奏不同，并指出统一框架会 either crush the slow disciplines or inflate the fast ones，与题干 distort 对应。H 段讲的是外部排名的压力，不是学科差异。"
+        },
+        {
+          "n": 42,
+          "stem": "External league tables push institutions towards exactly the behaviour that reformers wish to discourage.",
+          "answer": "H",
+          "explanation": "答案 H 段。该段说国际排名看重科研经费与引用数，按绩效拨款的政府会把同样的权重搬过来，于是主管部门更想要 more papers, not better ones，对应题干 push institutions towards。G 段未提及排名或外部压力。"
+        },
+        {
+          "n": 43,
+          "stem": "Reformers should admit that a better system will still impose losses on some members of staff.",
+          "answer": "I",
+          "explanation": "答案 I 段。该段承认改革会让擅长写短文的人变得不那么自在，并说 That discomfort is a cost，诚实的改革者应当讲清楚，对应题干 admit 与 impose losses。J 段是收束性的总结，没有谈到具体代价。"
+        },
+        {
+          "n": 44,
+          "stem": "The worth of a piece of research may become apparent only long after it appears.",
+          "answer": "J",
+          "explanation": "答案 J 段。该段说最有价值的贡献可能 looks unimpressive for years，因此评价必须为此留出空间，与题干 only long after it appears 对应。D 段只讲提交与阅读方式，不涉及时间维度。"
+        },
+        {
+          "n": 45,
+          "stem": "The counting habit survives partly because it is convenient for the people who run institutions.",
+          "answer": "A",
+          "explanation": "答案 A 段。该段说一个数字行政人员一个下午就能算出来，还能跨校比较、在预算会上为自己辩护，正是题干 convenient for administrators 的展开。B 段讲的是历史成因，不是当下的便利。"
+        }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Walk into any design-conscious apartment and you meet the aesthetic of subtraction: bare walls, one good chair, a shelf holding four books and a stone. Advertisers call this minimalism, and they sell it with the same urgency that once sold clutter. A plain linen cushion costs more than an ornate one, because restraint, it turns out, requires expensive materials and considerable confidence. Critics note the irony: a movement that began as a protest against acquisition has become a reliable way of persuading people to acquire.\n\nThe original argument was not about taste. Its target was the machinery of wanting: the assumption, rarely examined, that a life improves in proportion to the number of things in it. Writers in this tradition observed that possessions demand attention, since they must be cleaned, insured, stored and worried about, and that attention is the one resource nobody can manufacture. A smaller number of better things was offered as a way of spending less of oneself on maintenance. That claim concerns time and attention rather than beauty, and survives whether or not the objects are attractive.\n\nSomething was lost in translation. When the argument reached the market it was recast as a look rather than a practice, and a look can be purchased. The result is a curious loop: the buyer who wishes to signal detachment from consumerism buys a carefully curated set of objects to signal it with. Sociologists have a name for goods valued chiefly for what they say about their owner, and the pale, empty room says a great deal. It says that the owner can afford space and need not keep things for want of replacements.\n\nThere is a harder version that resists this fate. It begins with an inventory rather than a purchase, and often produces less attractive rooms. Its questions are unglamorous: which of these objects do I use, and what would happen if I did not own it? People who work through such questions frequently discover that the most expensive item in the house is not the one they regret buying but the one they are paying to store. The savings, in money and in attention, are real; they are simply invisible in photographs.\n\nNone of this means the aesthetic is dishonest, only that it is not the argument. A person may keep a beautiful, sparse room and think clearly about consumption; another may keep a crowded one and think equally clearly. What separates them is not the number of objects but whether the objects were chosen or merely accumulated. Judged by that standard, minimalism as a style is a distraction, and as a discipline it is a question most households would benefit from asking once a decade.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What does the author suggest about plain, restrained objects in the first paragraph?",
+          "options": {
+            "A": "They are chosen mainly by people who cannot afford ornament.",
+            "B": "They are produced in smaller quantities than decorated goods.",
+            "C": "They often cost more than elaborate ones because simplicity is expensive to achieve.",
+            "D": "They appeal chiefly to buyers who dislike modern design."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 1 段第 3 句说 A plain linen cushion costs more than an ornate one, because restraint ... requires expensive materials，即「简洁」本身要花更多钱。A 项说买主买不起装饰，与 expensive materials 直接相反；B 项谈产量，原文根本没有提及。"
+        },
+        {
+          "n": 47,
+          "stem": "According to the second paragraph, the original case for owning fewer things rested on",
+          "options": {
+            "A": "the belief that beautiful objects improve daily life.",
+            "B": "the wish to imitate the habits of wealthier households.",
+            "C": "the fear that clutter does permanent damage to health.",
+            "D": "the observation that possessions consume time and attention."
+          },
+          "answer": "D",
+          "explanation": "答案 D。第 2 段第 3 句指出 possessions demand attention ... and attention is the one resource nobody can manufacture，少拥有是为了少耗费时间与注意力。A 项把审美当成立论依据，而该段明说 The original argument was not about taste；C 项的健康损害属于无据添加。"
+        },
+        {
+          "n": 48,
+          "stem": "What does the author refer to by saying that the idea resists 'this fate' (Para. 4)?",
+          "options": {
+            "A": "Being dismissed by critics as insincere.",
+            "B": "Being turned into a style that can be bought.",
+            "C": "Being abandoned by its original supporters.",
+            "D": "Being confused with ordinary household thrift."
+          },
+          "answer": "B",
+          "explanation": "答案 B。this fate 回指上一段：极简主义进入市场后被改写成 a look rather than a practice，而 a look can be purchased，即被变成可以买到的风格。A 项「被批评者否定」并非第三段所述；D 项「与节俭混淆」原文没有这一层。"
+        },
+        {
+          "n": 49,
+          "stem": "What do people commonly discover when they examine what they own, according to the fourth paragraph?",
+          "options": {
+            "A": "They are paying more to keep things than the things are worth.",
+            "B": "They have spent too much on objects they rarely use.",
+            "C": "They own fewer items than they had previously assumed.",
+            "D": "They would rather replace old objects than repair them."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 4 段倒数第二句说，最贵的不是后悔买的那件，而是 the one they are paying to store，即持续为存放付费，对应「保管成本超过物品价值」。B 项「买了不用」是常识性推测，原文的落点在储存开销；C 项与做清单的语境相反。"
+        },
+        {
+          "n": 50,
+          "stem": "What is the author's view of minimalism as a style?",
+          "options": {
+            "A": "It is a harmless fashion that deserves no criticism at all.",
+            "B": "It conveys the original argument more clearly than words can.",
+            "C": "It addresses appearance rather than the underlying practice.",
+            "D": "It should be replaced by stricter rules about ownership."
+          },
+          "answer": "C",
+          "explanation": "答案 C。末段说 What separates them is not the number of objects but whether the objects were chosen or merely accumulated，并把作为风格的极简主义称作 a distraction，即它处理的是外观而非选择本身。A 项「无害」与 distraction 的贬抑语气不符；D 项主张更严格的规则，而原文主张的是「是否经过选择」。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "The ocean receives roughly eleven million tonnes of plastic a year, a figure repeated so often that it has lost the power to shock. What is less often said is that the material arrives by a small number of routes. Packaging floats down rivers; fishing gear is cut loose in storms; fibres escape washing machines and tyre treads. A policy aimed at the gyres themselves, the great rotating patches where debris accumulates, would be aimed at the symptom, since the patches are where plastic ends up, not where it starts.\n\nRecycling is the remedy most often proposed and the least able to deliver on its own. Only a small fraction of the plastic ever produced has been recycled, and much of what is collected is not recycled but downcycled: a bottle becomes a park bench, and the bench becomes landfill. The technical reason is that most packaging is a laminate of several materials bonded together, and separating them costs more than the recovered plastic is worth. The economic reason is that virgin plastic, made from cheap fossil fuel, usually undercuts the recycled kind.\n\nDesign offers a quieter route. A bottle made of a single polymer can be reprocessed repeatedly, whereas the same bottle with a glued label and a multilayer cap cannot. Several large brands have therefore begun to simplify packaging, not out of sentiment but because collection schemes in parts of Europe now charge producers by weight and by difficulty. Refill systems, which return the container to the seller, go further, removing the package from the waste stream altogether. Both approaches share a feature that recycling lacks: they change what is made rather than what is done with it afterwards.\n\nThe diplomatic track has moved more slowly and matters more. A proposed international agreement would, in its current draft, oblige signatories to set binding limits on production rather than merely on leakage, and to publish the chemicals used in plastics. Industry representatives argue that caps on production punish manufacturers for a problem created by poor waste management. Public-health groups reply that additives are precisely the part of the problem that recycling cannot touch, since a toxic additive survives every mechanical process.\n\nThe temptation in all of this is to look for a single lever. There is none: an agreement without collection infrastructure produces signatures and little else, and collection without redesigned packaging produces bales that nobody will buy. What the evidence does support is a rough ordering. The cheapest gains are upstream, in what gets made and how much of it; the most expensive are downstream, in the machines that fish it out again. Policies that reverse that order tend to be popular and ineffective.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "Why does the author regard a policy aimed at the ocean gyres as inadequate?",
+          "options": {
+            "A": "The patches lie too far from land for ships to reach economically.",
+            "B": "They are places where plastic gathers rather than where it originates.",
+            "C": "Most of the material there has already broken into tiny particles.",
+            "D": "International law does not cover waters beyond national boundaries."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段末句说 the patches are where plastic ends up, not where it starts，即环流区是塑料汇聚之地而非源头，故针对此处治理只触及症状。A 项「船开不到」原文未提；C 项「已碎成微粒」属过度推断，文中没有这一步。"
+        },
+        {
+          "n": 52,
+          "stem": "What makes much of today's packaging difficult to recycle?",
+          "options": {
+            "A": "It contains materials that cannot be melted down at all.",
+            "B": "Consumers seldom remove labels before throwing containers away.",
+            "C": "Its layers are bonded together and expensive to separate.",
+            "D": "Collection schemes refuse to accept containers that held food."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 2 段第 3 句说多数包装是 a laminate of several materials bonded together，而 separating them costs more than the recovered plastic is worth，即分层粘合、分离成本过高。A 项「完全不能熔融」说得过死；D 项「拒收食品容器」原文没有依据。"
+        },
+        {
+          "n": 53,
+          "stem": "The word 'undercuts' (Para. 2) is closest in meaning to",
+          "options": {
+            "A": "is produced more quickly than",
+            "B": "is sold at a lower price than",
+            "C": "is regulated less strictly than",
+            "D": "is advertised more widely than"
+          },
+          "answer": "B",
+          "explanation": "答案 B。该词所在句说 virgin plastic, made from cheap fossil fuel, usually undercuts the recycled kind，cheap 与「价格更低」构成因果，故 undercuts 意为「比……卖得便宜」。A、C、D 分别指向速度、监管与宣传，都与 cheap fossil fuel 这一线索无关。"
+        },
+        {
+          "n": 54,
+          "stem": "What do simplified packaging and refill systems have in common?",
+          "options": {
+            "A": "Both depend on consumers sorting their waste correctly.",
+            "B": "Both have so far been adopted mainly by small companies.",
+            "C": "Both raise the price paid by the ordinary consumer.",
+            "D": "Both alter what is produced instead of what happens to it later."
+          },
+          "answer": "D",
+          "explanation": "答案 D。第 3 段末句说两者 share a feature that recycling lacks: they change what is made rather than what is done with it afterwards，与 D 项同义。A 项「依赖消费者分类」恰是回收的特征；B 项与原文 Several large brands 相反。"
+        },
+        {
+          "n": 55,
+          "stem": "What does the author conclude about policies for dealing with plastic waste?",
+          "options": {
+            "A": "A binding international agreement would solve most of the problem.",
+            "B": "Recycling should be abandoned in favour of refill schemes.",
+            "C": "The most effective measures act before waste is created.",
+            "D": "Downstream technologies deserve far more funding than they receive."
+          },
+          "answer": "C",
+          "explanation": "答案 C。末段说 The cheapest gains are upstream, in what gets made and how much of it，并指出颠倒这一次序的政策 popular and ineffective，即最有效的措施发生在废物产生之前。A 项与 an agreement without collection infrastructure produces signatures and little else 相反；B 项「放弃回收」属过度推断。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on whether technology brings people closer together or drives them apart. You should write at least 150 words but no more than 200 words.",
+    "prompt_cn": "有人认为科技让人与人更加亲近，也有人认为科技使人彼此疏远。请就此写一篇短文，说明你的看法。",
+    "word_limit": 150,
+    "sample_essay": "The argument that technology isolates us has a certain appeal, and a certain laziness. It is true that a family may sit at one table, each member attending to a different screen, and that a message sent from the next room is not the same as a conversation. Yet the comparison is usually made against an imagined past in which everyone lived within walking distance of the people they loved.\n\nFor those who have moved away, the change is not subtle. A grandparent can watch a child grow up across an ocean; a student can keep a friendship alive through years of separation. Distance used to end relationships quietly, simply because maintaining them cost more effort than most people could spare.\n\nThe honest conclusion is that technology amplifies whatever intention we bring to it. It offers new ways of avoiding people and new ways of reaching them, and it does not choose between the two. Whether it draws us together depends less on the devices than on the habits we build around them.",
+    "sample_essay_cn": "认为科技使人孤立的说法既有一分道理，也带着一分懒惰。一家人坐在同一张桌边、各自盯着一块屏幕，这确实是事实；从隔壁房间发一条消息，也确实不等同于一次交谈。然而这种比较通常是以一个想象中的过去为参照的——在那个过去里，人人所爱之人都住在步行可达的地方。\n\n对于离乡在外的人来说，变化并不细微。祖父母可以隔着大洋看着孙辈长大；一个学生可以在多年分离中维持一段友谊。过去，距离会悄无声息地终结一段关系，仅仅因为维系它所需的努力超出了多数人所能负担的范围。\n\n诚实的结论是：科技放大了我们带给它的意图。它既提供了回避他人的新方式，也提供了抵达他人的新方式，而它本身并不在两者之间做出选择。它究竟让我们更亲近还是更疏远，取决于我们围绕这些设备养成的习惯，而不是设备本身。"
+  },
+  "translation": {
+    "source_cn": "二十年来，中国保护非物质文化遗产的方式变化明显。早期重点是记录技艺：拍摄影像，整理成书，以免人亡艺绝。如今人们更强调让传统在日常生活中继续生长：一些地方把老手艺引入课程，一些村落把节庆恢复为社区活动，而非供游客围观的表演。这种转变并不轻松，活态传承既需要传承人有稳定收入，也需要年轻人愿意长期学艺。保护的目的不是把文化制成标本，而是给它留下继续变化的余地。",
+    "reference_en": "Over the past two decades, the way China protects its intangible cultural heritage has changed markedly. Early efforts concentrated on recording skills: filming them and compiling them into books, so that a craft would not disappear with its last practitioner. Today the emphasis has shifted towards letting traditions keep growing in everyday life. Some places have brought old crafts into school curricula, and some villages have restored festivals as events belonging to the community itself rather than as performances staged for tourists to watch. This shift has not been easy, because living transmission requires both a steady income for inheritors and young people willing to spend years learning a craft. The purpose of protection is not to turn culture into a specimen, but to leave it room to keep changing.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

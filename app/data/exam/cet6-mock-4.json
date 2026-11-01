@@ -1,0 +1,235 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet6",
+    "year": 2026,
+    "month": 1,
+    "set": 4,
+    "title": "原创模拟 六级 第4套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "For half a century, transport planning treated the street as a pipe for moving vehicles and measured success in seconds saved per kilometre. The result in many cities was a network of wide, fast roads that left a deep [[26]] between neighbourhoods. A newer school of urban design begins from a rather different [[27]]: a street is a room, and the people in it are hosts and guests rather than traffic. Three ideas [[28]] the argument.\nThe first is scale. A walkable street is not merely a short one; it is one whose width, kerb radius and signage [[29]] the speed a driver feels safe adopting. Very narrow lanes and tight corners [[30]] drivers to slow down without a single sign, because the road itself offers no invitation to hurry.\nThe second is connectivity. A grid of small blocks multiplies the routes available, so a ten-minute walk may [[31]] a dozen alternatives. Cul-de-sacs, by contrast, concentrate traffic on a few arteries and make every trip [[32]] on the same crowded road. Connectivity also spreads custom: a shop on a well-connected street draws from a wider [[33]] than one stranded at the end of a dead end.\nThe third is the street-facing interface. Blank walls and car parks at ground level [[34]] the very activity that makes walking pleasant. Doors, windows and stalls close to the pavement provide what designers call eyes on the street, a form of supervision that is exercised [[35]] but to remarkable effect.",
+      "word_options": [
+        { "k": "A", "t": "sustain" },
+        { "k": "B", "t": "catchment" },
+        { "k": "C", "t": "rigid" },
+        { "k": "D", "t": "underpin" },
+        { "k": "E", "t": "threshold" },
+        { "k": "F", "t": "prompt" },
+        { "k": "G", "t": "modest" },
+        { "k": "H", "t": "rift" },
+        { "k": "I", "t": "govern" },
+        { "k": "J", "t": "scarcely" },
+        { "k": "K", "t": "dependent" },
+        { "k": "L", "t": "premise" },
+        { "k": "M", "t": "suppress" },
+        { "k": "N", "t": "unobtrusively" },
+        { "k": "O", "t": "yield" }
+      ],
+      "questions": [
+        { "n": 26, "answer": "H", "explanation": "答案 H) rift。第一段第二句说这些宽而快的道路 left a deep ___ between neighbourhoods，rift 意为『裂痕』，与 between 搭配表示道路把社区割开。E) threshold 指门槛，不能作 left 的宾语表达分隔；G) modest 是形容词，此处需要名词。" },
+        { "n": 27, "answer": "L", "explanation": "答案 L) premise。第一段第三句 begins from a rather different ___，冒号后的 a street is a room 正是这一前提的内容，premise 意为『前提』。A) sustain 是动词，无法出现在 a different 之后作名词。" },
+        { "n": 28, "answer": "D", "explanation": "答案 D) underpin。第一段末句 Three ideas ___ the argument，主语为复数、句子为一般现在时，underpin 意为『支撑』，与 ideas 和 argument 的搭配自然。F) prompt 须接某人做某事，不能直接带 the argument。" },
+        { "n": 29, "answer": "I", "explanation": "答案 I) govern。第二段第二句主语是 width, kerb radius and signage，空格后为 the speed a driver feels safe adopting，govern 表示『决定、左右』，与 speed 搭配。M) suppress 意为『压制』，与街道尺度决定车速的逻辑相反。" },
+        { "n": 30, "answer": "F", "explanation": "答案 F) prompt。第二段第三句 Narrow lanes and tight corners ___ drivers to slow down，prompt sb to do sth 为固定搭配，意为『促使』。I) govern 不能接 to do；D) underpin 与 drivers 搭配不通。" },
+        { "n": 31, "answer": "O", "explanation": "答案 O) yield。第三段第二句 so a ten-minute walk may ___ a dozen alternatives，yield 意为『产生、带来』，与 alternatives 构成动宾关系。A) sustain 意为『维持』，无法表达『提供多种选择』之意。" },
+        { "n": 32, "answer": "K", "explanation": "答案 K) dependent。第三段第三句 make every trip ___ on the same crowded road，此处为 make + 宾语 + 形容词结构，dependent on 是固定搭配。C) rigid 不能与 on 连用表示依赖。" },
+        { "n": 33, "answer": "B", "explanation": "答案 B) catchment。第三段末句 draws from a wider ___ than one stranded at the end of a dead end，catchment 指商店的『客源范围』，与 draws from、wider 呼应。E) threshold 指阈值或门槛，不能表示客源范围。" },
+        { "n": 34, "answer": "M", "explanation": "答案 M) suppress。第四段第二句 Blank walls and car parks at ground level ___ the very activity，suppress 意为『压制』，与 the very activity 构成合理动宾关系。A) sustain 意为『维持』，与空白墙面带来的负面作用相反。" },
+        { "n": 35, "answer": "N", "explanation": "答案 N) unobtrusively。第四段末句 a form of supervision that is exercised ___ but to remarkable effect，需副词修饰 exercised，unobtrusively 意为『不引人注意地』，与后面的 remarkable effect 形成让步对比。J) scarcely 意为『几乎不』，与 remarkable effect 自相矛盾。" }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        { "label": "A", "text": "The notion that education is something completed in youth and then used for forty years is a historical anomaly rather than a natural law. For most of the industrial era a single trade could sustain a working life, and a person who changed occupation twice was considered unusual. Today the useful half-life of a technical skill is often reckoned in years rather than decades. Institutions, however, still behave as though the sequence were fixed: study, then work, then retire. The mismatch is not primarily a shortage of courses. It is a shortage of permission, money and time to return to study once a person has become expensive to employ." },
+        { "label": "B", "text": "Micro-credentials were meant to solve exactly that problem. A short course, assessed and badged, can be completed in weeks and stacked with others into something resembling a qualification. On paper the logic is elegant: learners pay less, employers receive evidence of a specific skill, and universities reach people who would never enrol in a full degree. In practice the market has fragmented. Hundreds of providers issue badges under incompatible rules, and a certificate that takes three weeks to earn struggles to tell an employer much that a line on a CV could not. The currency has inflated faster than its value has grown." },
+        { "label": "C", "text": "Employers have responded by building academies of their own. A retail group with sixty thousand staff may run induction, compliance and leadership programmes in-house, and some now award credentials that carry weight inside the company. The advantages are real: the curriculum matches the work, and study fits around shifts rather than competing with them. The risk is narrower. A qualification designed around one firm's systems may lose much of its value the moment the employee leaves, which discourages precisely the mobility that a changing economy requires. Learning that cannot travel is training, not education." },
+        { "label": "D", "text": "Online provision promised to dissolve the geography of opportunity, and in one respect it has: a student in a small town can now follow a lecture given by a specialist on another continent. What it has not solved is persistence. Enrolment is cheap and therefore casual, and completion rates in open online courses have long hovered in the single digits. Platforms have responded with shorter units, reminders and paid certificates, yet the underlying difficulty remains social rather than technical. People finish what connects them to other people, and a screen alone provides very little of that connection." },
+        { "label": "E", "text": "The hardest transitions happen in mid-life, when the cost of returning to study is highest. A forty-five-year-old with a mortgage, ageing parents and children in school cannot easily take a year out, and evening classes compete with everything else that is already squeezed. Dr Susan Vick, who studies adult learning at the Marlow Centre, observes that such learners rarely lack motivation; what they lack is permission to be beginners again. Programmes that treat them as deficient tend to lose them within weeks, while those that build on the judgement they already possess recruit far more successfully." },
+        { "label": "F", "text": "Even well-designed courses run into the filter problem. Employers say they value skills, then screen applicants by degree classification because it is cheap and legible. A candidate who has completed four excellent short courses may still be invisible to a recruitment system that asks for a bachelor's degree, and the rejection arrives without explanation. Some firms have begun to publish skills-based job descriptions and to test candidates directly, but the practice is uneven. Until hiring routines change, credentials that do not fit the filter will struggle to reward the people who earn them." },
+        { "label": "G", "text": "Who pays is the question that decides whether any of this scales. Individuals can be asked to invest in their own futures, and many do, but the burden falls hardest on those with least to invest and most to gain. Several governments have experimented with learning accounts, vouchers and tax relief, with mixed results: take-up is concentrated among people who were already well qualified. Levies on employers have a clearer logic, since the firms that benefit contribute, yet small businesses complain that the administration costs more than the training it funds." },
+        { "label": "H", "text": "There is also a persistent misreading of what older learners bring. A study at the Marlow Centre followed two hundred workers who retrained after the age of forty and found that their advantage was rarely speed of acquisition. It was judgement: knowing which questions to ask, which shortcuts are unsafe, and when a tidy answer is probably wrong. Employers who treat retraining as a repair job miss this entirely. The most productive arrangements pair experienced people with new tools instead of replacing one with the other, and the results tend to appear within a single project cycle." },
+        { "label": "I", "text": "Assessment remains the weakest link. A certificate is only as good as the evidence behind it, and evidence is expensive to produce. Recognition of prior learning, which allows people to convert experience into academic credit, sounds generous but often collapses into paperwork that favours those with well-documented careers. Portfolios, simulations and supervised projects offer richer signals, though they resist comparison across providers. The field has not agreed on what a credible claim of competence looks like, and until it does, badges will multiply faster than trust in them. That is a problem for learners and for employers alike." },
+        { "label": "J", "text": "The temptation is to turn all of this into a story about individual effort, in which those who keep learning thrive and those who do not are left behind. That framing is convenient for institutions and unkind to people, since it converts a structural question into a personal failing. Learning across a working life depends on arrangements: time that employers release, money that governments or firms supply, and qualifications that travel across borders and sectors. Treat lifelong learning as infrastructure rather than as rescue, and the policy questions become clearer, if not easier." }
+      ],
+      "questions": [
+        { "n": 36, "stem": "Presenting adaptation as a personal responsibility serves organisations while burdening individuals unfairly.", "answer": "J", "explanation": "答案 J。第 10 段第二句 That framing is convenient for institutions and unkind to people，并把结构性问题转成 personal failing。A 段只指出制度假设已经过时，没有这层批评。" },
+        { "n": 37, "stem": "Qualifications built around one employer's working methods may make staff less willing to move to another organisation.", "answer": "C", "explanation": "答案 C。第 3 段倒数第二句说这类资格一旦离职便贬值，which discourages precisely the mobility that a changing economy requires，即抑制流动。B 段讲微证书市场碎片化，未涉及雇主专属资格。" },
+        { "n": 38, "stem": "The idea that schooling belongs only to the early part of life reflects a particular period in history rather than a permanent truth.", "answer": "A", "explanation": "答案 A。第 1 段首句称这一观念是 a historical anomaly rather than a natural law，与题干『特定历史时期的产物而非永恒真理』对应。E 段讨论中年转学的成本，J 段讨论归因于个人努力，均未涉及观念的历史性。" },
+        { "n": 39, "stem": "Hiring systems that sort applicants by degree can prevent skilled candidates from being considered at all.", "answer": "F", "explanation": "答案 F。第 6 段第三句说完成四门优质短课的求职者 may still be invisible to a recruitment system that asks for a bachelor's degree。G 段谈经费来源，与筛选机制无关。" },
+        { "n": 40, "stem": "Research indicates that the principal strength of people who retrain in middle age is not how quickly they pick things up.", "answer": "H", "explanation": "答案 H。第 8 段第二句 found that their advantage was rarely speed of acquisition，随后说明优势在 judgement。E 段引用同一机构的研究，但讲的是学习动机与课程设计。" },
+        { "n": 41, "stem": "The worth of short certificates has been undermined by the absence of agreed standards among the bodies that issue them.", "answer": "B", "explanation": "答案 B。第 2 段倒数第二句说 Hundreds of providers issue badges under incompatible rules，加上 The currency has inflated，即标准不一导致凭证贬值。C 段谈企业自办学院，与发证机构的标准无关。" },
+        { "n": 42, "stem": "Efforts to grant credit for work experience often end up benefiting those whose careers are easiest to document.", "answer": "I", "explanation": "答案 I。第 9 段第三句说 recognition of prior learning 常沦为 paperwork that favours those with well-documented careers。B 段谈证书标准不一，讨论对象不同。" },
+        { "n": 43, "stem": "What prevents people from finishing open online courses is chiefly a matter of human contact rather than of technology.", "answer": "D", "explanation": "答案 D。第 4 段倒数第二句 the underlying difficulty remains social rather than technical，末句 People finish what connects them to other people 进一步点明。A 段谈的是课程供给不足，与此无关。" },
+        { "n": 44, "stem": "Arrangements that require individuals to finance their own retraining mostly attract those who are already well qualified.", "answer": "G", "explanation": "答案 G。第 7 段第三句说 learning accounts、vouchers 等试验的结果是 take-up is concentrated among people who were already well qualified。E 段谈中年人的时间压力，不是经费分担问题。" },
+        { "n": 45, "stem": "Courses for learners in their forties work best when they recognise existing competence instead of assuming a deficit.", "answer": "E", "explanation": "答案 E。第 5 段末句说把学员当作 deficient 的项目会流失他们，而 build on the judgement they already possess 的项目招生更好。H 段虽也谈年长学员，但侧重其判断力的具体表现，不是课程设计原则。" }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "Ask people whether they care about privacy and most say yes, emphatically. Observe what they do and the picture blurs. The same person who denounces data collection will accept cookies without reading the notice, hand over a fingerprint to unlock a phone, and let a map application record every journey for the sake of a faster route home. This gap between stated belief and behaviour is usually reported as hypocrisy. It is better understood as a rational response to an unequal exchange.\nThe exchange is unequal because the costs of refusing are immediate and the costs of consenting are deferred. Declining a cookie banner may mean losing access to a page; refusing location data may mean a taxi that cannot find you. The benefit of protection, by contrast, is invisible and statistical: a fraud that does not happen, a profile that is not sold. People are notoriously poor at weighing a certain small inconvenience against an uncertain large harm, and firms have learned to exploit that asymmetry with considerable skill.\nRegulators have tried to correct the imbalance through consent. Require the notice, assume the answer is no until the user says yes, and the market will supposedly deliver the level of sharing people actually want. In practice consent has become a ritual. Notices are long, options are buried, and the design of the interface nudges toward the permissive choice. A right that can only be exercised through a form nobody reads is a right in name only. Consent was meant to be a brake; it has become a formality that legitimises the speed.\nA more promising approach treats some data as off-limits regardless of what anyone agrees to. Certain categories, including health records, precise location and the patterns that reveal who a person's friends are, are difficult to un-share once released, and the individual is poorly placed to judge the risk. Setting floors below which no bargain is permitted does not insult consumers' intelligence; it acknowledges that some transactions are too complex for case-by-case negotiation. The alternative, endless disclosure, transfers the entire burden of vigilance to the busiest party in the arrangement.\nNone of this means that convenience should be refused. The point is that the trade is being conducted on terms nobody negotiated. A city that asks for a fingerprint to enter a swimming pool has made a judgement about what convenience is worth; residents were not consulted, and each of them, alone, can do very little about it. Privacy, in the end, is less a private preference than a collective condition, and conditions are set by rules rather than by clicks.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "What does the author suggest about the gap between what people say about privacy and what they do?",
+          "options": {
+            "A": "It shows that most consumers are indifferent to how their data is used.",
+            "B": "It reflects a reasonable calculation rather than simple insincerity.",
+            "C": "It has been exaggerated by researchers who study online behaviour.",
+            "D": "It results mainly from a widespread ignorance of privacy law."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 1 段末两句把这一落差说成 a rational response to an unequal exchange，并否定 hypocrisy 的说法，B 项 reasonable calculation 即其同义改写。A 项与首句 most say yes, emphatically 矛盾；D 项把原因归于不懂法律，原文强调的是代价的时间差。"
+        },
+        {
+          "n": 47,
+          "stem": "The word 'asymmetry' (Paragraph 2) refers to the difference between the two sides in terms of",
+          "options": {
+            "A": "how soon the costs and benefits of sharing data are felt.",
+            "B": "how many services require data and how many do not.",
+            "C": "how strictly firms and consumers are regulated.",
+            "D": "how much younger and older users trust technology."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 2 段先讲 costs of refusing are immediate and the costs of consenting are deferred，再说 the benefit of protection is invisible and statistical，故 asymmetry 指代价与收益在时间与可见度上的不对等。C 项把不对称误解为监管力度差异，原文未提。"
+        },
+        {
+          "n": 48,
+          "stem": "What does the author imply about consent notices in Paragraph 3?",
+          "options": {
+            "A": "They offer a genuine choice to users who read them carefully.",
+            "B": "They are too brief to contain the information users need.",
+            "C": "They mainly serve to make data sharing look acceptable.",
+            "D": "They have been simplified after sustained public criticism."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 3 段末句 Consent was meant to be a brake; it has become a formality that legitimises the speed，说明同意程序已沦为替数据流动背书的仪式。A 项与 a form nobody reads 相悖；B 项与 Notices are long 正相反。"
+        },
+        {
+          "n": 49,
+          "stem": "What is the author's attitude towards setting minimum standards for certain categories of data?",
+          "options": {
+            "A": "Supportive, since some decisions are too complex for individuals to make alone.",
+            "B": "Doubtful, because such standards would raise costs for technology firms.",
+            "C": "Neutral, as the evidence about their effects remains inconclusive.",
+            "D": "Critical, because they would narrow the choices open to consumers."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 4 段第三句说设置底线 does not insult consumers' intelligence; it acknowledges that some transactions are too complex for case-by-case negotiation，态度明确为赞同。D 项把『禁止某些交易』曲解为减少选择；B 项的成本问题原文并未讨论。"
+        },
+        {
+          "n": 50,
+          "stem": "What does the author conclude about privacy at the end of the passage?",
+          "options": {
+            "A": "It may properly be surrendered whenever the convenience gained is large.",
+            "B": "It depends on rules that bind everyone rather than on individual decisions.",
+            "C": "It can be safeguarded only if consumers read the terms they accept.",
+            "D": "It is a personal taste that public authorities cannot influence."
+          },
+          "answer": "B",
+          "explanation": "答案 B。末段最后一句 Privacy is less a private preference than a collective condition, and conditions are set by rules rather than by clicks。C 项恰是作者论证已失效的路径；D 项与 collective condition 直接冲突。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "The vocabulary of migration has not caught up with the climate. International law recognises refugees who flee persecution and grants them a defined status with rights attached. A family whose village has been submerged by a rising river, or whose wells have turned saline, fits none of the categories. They may be displaced, destitute and unable to return, and still be, in the eyes of the law, ordinary migrants who moved for reasons of their own choosing.\nThe consequence is a protection gap that is easy to describe and hard to close. Because climate displacement is rarely sudden, it produces no dramatic border crossing and no single persecutor to name. People leave in stages: a season of failed crops, a move to a nearby town, a second move to a city, eventually a journey across a border that looks, in the records, like an economic decision. Officials assessing such claims are not being cruel when they apply the existing tests; they are applying tests that were designed for a different problem.\nSome governments have experimented with new categories. Temporary protected status, humanitarian visas and bilateral labour agreements can all be stretched to cover climate-affected arrivals, and several have been. The difficulty is that each of these instruments is discretionary, revocable and tied to the mood of a particular government. A status granted by administrative grace can be withdrawn by the same grace, which leaves people building lives on ground that may open beneath them.\nA second difficulty is that the places people move to are often as exposed as the places they left. Urban districts that absorb rural arrivals frequently sit on flood plains or unstable slopes, and newcomers occupy the cheapest and most hazardous housing. Adaptation funding tends to flow towards capitals and towards visible infrastructure; the neighbourhoods where displacement actually lands are rarely consulted. Migration is thus treated as a problem to be managed at the border, when most of its consequences are felt in the city.\nWhat would a serious response look like? It would probably begin by admitting that the categories are administrative conveniences rather than descriptions of reality. It would fund the towns and districts that receive people, not only the agencies that count them. And it would accept that some movement is now unavoidable, which makes preparation cheaper than prevention and far cheaper than panic. The alternative is a legal system that continues to ask whether a person qualifies as a refugee while the ground they came from disappears.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "Why does the author say that the vocabulary of migration has not caught up with the climate?",
+          "options": {
+            "A": "Because legal definitions of refuge do not cover people displaced by environmental change.",
+            "B": "Because treaties are revised too slowly to keep pace with rising temperatures.",
+            "C": "Because courts have refused to hear cases brought by climate scientists.",
+            "D": "Because governments cannot agree on what causes global warming."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 1 段第二、三句说国际法只承认因迫害而逃的难民，而被淹的村庄或咸化的水井 fits none of the categories。B 项偷换为条约修订速度，原文谈的是类别不适用；C、D 两项原文均未提及。"
+        },
+        {
+          "n": 52,
+          "stem": "What does the author suggest about officials who reject climate-related claims?",
+          "options": {
+            "A": "They deliberately ignore evidence of environmental damage.",
+            "B": "They are applying rules written for a different situation.",
+            "C": "They have not been trained in environmental science.",
+            "D": "They act under pressure from bilateral labour agreements."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段末句 Officials are not being cruel... they are applying tests that were designed for a different problem。A 项与 not being cruel 相反；C 项把制度问题说成培训不足，属过度推断。"
+        },
+        {
+          "n": 53,
+          "stem": "The word 'discretionary' (Paragraph 3) is closest in meaning to",
+          "options": {
+            "A": "dependent on official judgement",
+            "B": "limited to a fixed period",
+            "C": "open to public challenge",
+            "D": "shared among several states"
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 3 段说这些工具 discretionary, revocable and tied to the mood of a particular government，随后 A status granted by administrative grace 进一步解释，可见指由官方自行裁量。B 项对应的是 revocable 之外的期限含义，原文未提。"
+        },
+        {
+          "n": 54,
+          "stem": "What problem does the author identify with the places that receive climate migrants?",
+          "options": {
+            "A": "They are usually located in wealthier and better protected regions.",
+            "B": "They often expose newcomers to hazards similar to those they fled.",
+            "C": "They receive most of the adaptation money available.",
+            "D": "They lack the labour force needed to absorb new arrivals."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 4 段首句 the places people move to are often as exposed as the places they left，并提到新来者住在最便宜也最危险的住房。C 项与 Adaptation funding tends to flow towards capitals 相反；D 项劳动力问题原文未涉及。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the main point of the passage?",
+          "options": {
+            "A": "Climate migration should be halted through large-scale engineering works.",
+            "B": "The legal framework and the reality of climate displacement are badly matched.",
+            "C": "Economic migrants deserve exactly the same protection as refugees.",
+            "D": "Cities rather than national governments must take charge of the problem."
+          },
+          "answer": "B",
+          "explanation": "答案 B。全文从法律类别不适用（第 1、2 段）、临时措施不可靠（第 3 段）到接收地同样脆弱（第 4 段），都在说明制度与现实错位，末段 the categories are administrative conveniences 是总括。A 项与末段 preparation cheaper than prevention 相悖；D 项把『后果发生在城市』扩大为『应由城市负责』。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on the pros and cons of starting a business right after graduation. You should discuss both sides and give your own view. You should write at least 150 words but no more than 200 words.",
+    "prompt_cn": "以「毕业后立即创业的利与弊」为题写一篇短文，讨论正反两方面并给出你自己的看法。",
+    "word_limit": 150,
+    "sample_essay": "Every spring, thousands of graduates weigh a job offer against a business idea, and the advice they receive is rarely neutral. Starting a company at twenty-two has real advantages. Energy is high, obligations are few, and a failure at that age costs little more than a year and some pride. The habits formed while solving a real problem for real customers are hard to acquire inside a large organisation, where responsibility is divided until it disappears.\nThe disadvantages are equally real. Most graduates have never managed a budget, hired anyone or lost a customer, and a business is an unforgiving classroom. Capital is scarce when credibility is thinnest, and investors prefer founders who have seen how a functioning company operates. There is also a hidden opportunity cost: the early years of a career are when professional judgement is formed.\nThe sensible conclusion is neither to rush nor to wait indefinitely. A graduate with a specific problem, some savings and a partner with complementary skills should probably try. The rest would do better to spend two or three years learning how organisations work, then start something with better questions.",
+    "sample_essay_cn": "每年春天，成千上万的毕业生都要在录用通知与创业想法之间权衡，而他们得到的建议很少是中立的。二十二岁创办公司确有实际优势：精力充沛，牵绊很少，这个年纪的失败，代价不过是一年和一点自尊。在为大客户解决真实问题的过程中养成的习惯，在大型机构里很难获得，因为那里的责任被层层分割，直到消失不见。\n劣势同样真实。多数毕业生从未管过预算、招过人，也没有失去过客户，而创业是一间不讲情面的课堂。资金恰在最缺信誉的时候最为紧缺，投资者也更偏爱见过一家公司如何运转的创始人。还有一项容易被忽视的机会成本：职业生涯的头几年，正是职业判断力成形的时期。\n明智的结论既不是急于行动，也不是无限期等待。如果一个毕业生有具体想解决的问题、有一些积蓄，还有一位技能互补的伙伴，那不妨一试。其余的人最好先花两三年弄清组织如何运作，然后再带着更好的问题去创业。"
+  },
+  "translation": {
+    "source_cn": "在中国，手机付款早已是日常生活的常态。在超市、街边小摊和乡镇集市，顾客扫一下二维码，几秒就能完成交易，省去了找零的麻烦，也让许多小商贩第一次有了可查证的经营记录。近年来，数字支付扩展到公共交通和政务服务，人们可在同一应用里缴费预约。便利之外也有困扰：老年人不熟悉操作，消费记录被平台大量收集，手机丢失便寸步难行。因此，推广新技术的同时保留现金等替代方式，是城市管理者要认真对待的问题。",
+    "reference_en": "In China, paying by mobile phone has long been an ordinary part of daily life. In supermarkets, at street stalls and in township markets, a customer scans a code and completes a purchase in seconds, which saves the trouble of making change and has given many small traders something they never had before: a verifiable record of their business. In recent years digital payment has spread to public transport and government services, so that bills can be paid and appointments booked within a single application. Convenience brings its own troubles: elderly people find the procedures unfamiliar, spending records are collected by platforms on a large scale, and a lost phone can leave a person unable to pay for anything. How to promote new technology while keeping cash and other alternatives available is therefore a question city authorities need to take seriously.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}

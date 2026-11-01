@@ -1,0 +1,40 @@
+# 编辑器 / 系统
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+*.log
+
+# 依赖
+node_modules/
+
+# 本机智能体工作区
+.workbuddy/
+.workbuddy-ai/
+*.genie
+
+# 构建产物（可用 scripts/ 重建）
+dist/
+build-env/
+cap/
+capacitor/node_modules/
+
+# 本机私有题库（真题等有权自用、但不可分发的材料）
+/private/
+/test/
+/wordtest/
+/listen/
+
+# 音频：本仓库不分发录音，需要时自己放
+app/audio/
+app/audio_opus/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 签名材料，绝不入库
+*.keystore
+*.jks
+keystore.properties
+*.keystore.txt

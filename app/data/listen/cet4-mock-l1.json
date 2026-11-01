@@ -1,0 +1,371 @@
+{
+  "id": "cet4-mock-l1",
+  "level": "cet4",
+  "year": 2026,
+  "month": 1,
+  "set": 1,
+  "mock": true,
+  "sections": [
+    {
+      "name": "Section A",
+      "questions": [
+        {
+          "n": 1,
+          "group": "第1-2题",
+          "options": {
+            "A": "It has moved into a larger building near the park.",
+            "B": "It has opened a night study area and stays open later.",
+            "C": "It has started charging a fee for its study rooms.",
+            "D": "It has bought more computers for public use."
+          }
+        },
+        {
+          "n": 2,
+          "group": "第1-2题",
+          "options": {
+            "A": "They must be full-time students of the city.",
+            "B": "They must arrive before eight in the evening.",
+            "C": "They must book a seat online in advance.",
+            "D": "They must pay a small amount each day."
+          }
+        },
+        {
+          "n": 3,
+          "group": "第3-4题",
+          "options": {
+            "A": "Recycled paper collected from offices.",
+            "B": "Fibres taken from grain stalks.",
+            "C": "Thin sheets cut from bamboo.",
+            "D": "Plastic gathered from the coast."
+          }
+        },
+        {
+          "n": 4,
+          "group": "第3-4题",
+          "options": {
+            "A": "Keeping food fresh for a longer time.",
+            "B": "Making the material strong enough.",
+            "C": "Bringing the cost of the material down.",
+            "D": "Finding a company willing to test it."
+          }
+        },
+        {
+          "n": 5,
+          "group": "第5-7题",
+          "options": {
+            "A": "From five in the morning until four in the afternoon.",
+            "B": "From seven thirty in the morning until noon.",
+            "C": "From midnight until six in the evening.",
+            "D": "From four in the afternoon until midnight."
+          }
+        },
+        {
+          "n": 6,
+          "group": "第5-7题",
+          "options": {
+            "A": "By showing their identity cards at the roadside.",
+            "B": "By collecting a pass from the community office.",
+            "C": "By joining a car-sharing scheme for residents.",
+            "D": "By applying online on the morning of the race."
+          }
+        },
+        {
+          "n": 7,
+          "group": "第5-7题",
+          "options": {
+            "A": "Take the ring road and allow more time for the journey.",
+            "B": "Park their cars near the north gate of the city.",
+            "C": "Use the bus routes running through the eastern districts.",
+            "D": "Avoid travelling at all before seven thirty that morning."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "questions": [
+        {
+          "n": 8,
+          "group": "第8-11题",
+          "options": {
+            "A": "To ask about the essay she handed in last week.",
+            "B": "To talk about her course plan for next term.",
+            "C": "To complain about a clash in the timetable.",
+            "D": "To ask for more time to finish an assignment."
+          }
+        },
+        {
+          "n": 9,
+          "group": "第8-11题",
+          "options": {
+            "A": "Fifty-eight.",
+            "B": "Sixty-two.",
+            "C": "One hundred and twenty.",
+            "D": "Three."
+          }
+        },
+        {
+          "n": 10,
+          "group": "第8-11题",
+          "options": {
+            "A": "It is much easier than the writing course.",
+            "B": "It is offered in the autumn term only.",
+            "C": "It is a required course for her major.",
+            "D": "It has far fewer reading assignments."
+          }
+        },
+        {
+          "n": 11,
+          "group": "第8-11题",
+          "options": {
+            "A": "It is a prerequisite for two later courses.",
+            "B": "It is taught by a very strict teacher.",
+            "C": "It cannot be dropped after the first week.",
+            "D": "It counts double towards her average."
+          }
+        },
+        {
+          "n": 12,
+          "group": "第12-15题",
+          "options": {
+            "A": "It has risen to four hundred and eighty a month.",
+            "B": "It now includes all the bills for the flat.",
+            "C": "It is lower than the two of them expected.",
+            "D": "It has to be paid a full year in advance."
+          }
+        },
+        {
+          "n": 13,
+          "group": "第12-15题",
+          "options": {
+            "A": "The flat is too far away from the university.",
+            "B": "The landlord may refuse to sign a contract.",
+            "C": "The housework will not be shared fairly.",
+            "D": "The deposit is more than they can afford."
+          }
+        },
+        {
+          "n": 14,
+          "group": "第12-15题",
+          "options": {
+            "A": "Divide the six jobs and swap them every month.",
+            "B": "Hire someone to clean the bathroom each week.",
+            "C": "Let the woman do all of the cooking herself.",
+            "D": "Take turns doing everything for a whole week."
+          }
+        },
+        {
+          "n": 15,
+          "group": "第12-15题",
+          "options": {
+            "A": "Guests must leave before eleven on weeknights.",
+            "B": "Guests are not allowed at weekends at all.",
+            "C": "Guests must pay a share of the monthly bills.",
+            "D": "Guests may stay only if the landlord agrees."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section C",
+      "questions": [
+        {
+          "n": 16,
+          "group": "第16-18题",
+          "options": {
+            "A": "Reading enough about the company.",
+            "B": "Preparing evidence to support their answers.",
+            "C": "Arriving well before the interview starts.",
+            "D": "Learning the names of the interviewers."
+          }
+        },
+        {
+          "n": 17,
+          "group": "第16-18题",
+          "options": {
+            "A": "To check how long each of the answers takes.",
+            "B": "To find the parts of the story still unclear.",
+            "C": "To improve the pronunciation of hard words.",
+            "D": "To send the recording to the employer later."
+          }
+        },
+        {
+          "n": 18,
+          "group": "第16-18题",
+          "options": {
+            "A": "A question about salary and holiday arrangements.",
+            "B": "A question about something on the company website.",
+            "C": "A question about what the team found difficult.",
+            "D": "A question about when the result will be announced."
+          }
+        },
+        {
+          "n": 19,
+          "group": "第19-21题",
+          "options": {
+            "A": "The timing of sleep.",
+            "B": "The temperature of the bedroom.",
+            "C": "The amount of exercise in the day.",
+            "D": "The food eaten just before bedtime."
+          }
+        },
+        {
+          "n": 20,
+          "group": "第19-21题",
+          "options": {
+            "A": "They need fewer hours of sleep for a week.",
+            "B": "They may lose concentration in the morning.",
+            "C": "They become far more sensitive to noise.",
+            "D": "They wake up earlier without using an alarm."
+          }
+        },
+        {
+          "n": 21,
+          "group": "第19-21题",
+          "options": {
+            "A": "The light harms the eyes over a long period.",
+            "B": "It keeps the mind in its daytime state.",
+            "C": "It makes the bedroom too warm at night.",
+            "D": "It reduces the quality of sleep and dreams."
+          }
+        },
+        {
+          "n": 22,
+          "group": "第22-25题",
+          "options": {
+            "A": "Students were riding the bicycles too fast.",
+            "B": "Bicycles were left in doorways and on ramps.",
+            "C": "Too many of the bicycles were being stolen.",
+            "D": "Students were taking bicycles into the city."
+          }
+        },
+        {
+          "n": 23,
+          "group": "第22-25题",
+          "options": {
+            "A": "They have to pay a larger deposit.",
+            "B": "Their account is suspended for a month.",
+            "C": "They lose the right to ride at weekends.",
+            "D": "They are reported to their own department."
+          }
+        },
+        {
+          "n": 24,
+          "group": "第22-25题",
+          "options": {
+            "A": "Leave it at the nearest marked parking area.",
+            "B": "Report it through the app and ride for free.",
+            "C": "Take it to the company office by themselves.",
+            "D": "Pay for the repair and claim the money back."
+          }
+        },
+        {
+          "n": 25,
+          "group": "第22-25题",
+          "options": {
+            "A": "They fell by a third after the rules came in.",
+            "B": "They were mostly caused by broken brakes.",
+            "C": "They doubled during the first month.",
+            "D": "They happened mainly at the main gate."
+          }
+        }
+      ]
+    }
+  ],
+  "transcripts": {
+    "第1-2题": [
+      "A community library in the Northfield district of Riverside City has extended its opening hours until ten in the evening, and has turned a former storage room on the second floor into a night study area. The change took effect at the start of this month. Library staff say the number of visitors after eight in the evening has nearly doubled since then, and most of them are students preparing for examinations. The night area has forty desks, reading lamps and a small kitchen where visitors can make tea. It is open to anyone with a library card, but seats must be booked online, and each booking is limited to three hours a day. The library says the new hours will be reviewed after six months, and if demand stays high the same arrangement may be introduced at two other branches."
+    ],
+    "第3-4题": [
+      "Three students at Northfield University have designed a food packaging material that breaks down in soil within eight weeks. The material is made mainly from the fibres of grain stalks left over after harvest, mixed with a small amount of plant-based glue. In tests, the team wrapped sandwiches and fresh fruit in the material and kept them at room temperature. The packaging held its shape for four days and began to soften only after moisture reached the inner layer. Their supervisor says the hardest part was not making the material strong, but making it cheap enough to compete with ordinary plastic film. A local bakery has agreed to trial the packaging for three months from March. The team has also applied for a grant to buy a machine that can produce the material in larger sheets."
+    ],
+    "第5-7题": [
+      "Riverside City will hold its annual marathon on Sunday, the twelfth of April, and the city traffic office has announced a series of road closures. From five in the morning until four in the afternoon, vehicles will not be allowed on the riverside road between the old bridge and the north gate. Six bus routes will be shortened and three will run on temporary routes through the eastern districts. The organisers expect about eighteen thousand runners, and the race will start at seven thirty. Residents who live inside the closed area will be given passes for their cars, but the passes must be collected from the community office before Friday. Ambulance and fire services will keep one lane open at all times. The traffic office advises drivers to use the ring road and to allow an extra thirty minutes for journeys on Sunday."
+    ],
+    "第8-11题": [
+      "W: Professor Hale, do you have a minute? I am Mia Chen, from the second-year literature group. M: Of course, Mia. Sit down. Is this about the essay you handed in last week? W: No, actually, the essay is fine, I think. It is about next term. I am trying to work out my course plan, and I keep going round in circles.",
+      "M: Right. Let us have a look. How many credits have you completed so far? W: Sixty-two. I need a hundred and twenty to graduate, so fifty-eight to go, and three terms left. M: That is comfortable, but do not leave too much to the final term. What were you thinking of taking?",
+      "W: I wanted the advanced writing course, but it clashes with the statistics class I need for my major. M: Then take statistics first. The writing course runs every term; statistics does not. It is offered in the autumn only. W: Oh, I did not know that. So statistics this term, writing next autumn.",
+      "M: Exactly. And that leaves you a free slot. Have you considered the introduction to linguistics? W: I have, but it is four credits and I have heard the reading is heavy. M: It is heavy, but it is also the prerequisite for two courses you may want later.",
+      "M: If you are worried about the workload, take it as an extra course and drop it in the second week. There is no penalty for that. W: That is reassuring. And what about the community project, the one where students teach in local schools? M: Two credits, and it is pass or fail, so it will not touch your average. It is popular, though. Applications close at the end of this month.",
+      "W: Then I will apply tonight. Thank you, Professor. I feel much clearer now."
+    ],
+    "第12-15题": [
+      "M: So, did you hear back from the landlord about the flat on Mill Street? W: I did. He says we can move in on the first of September, but the rent has gone up. It is now four hundred and eighty a month, not four hundred and fifty. M: For the whole flat, or each? W: The whole flat. So two hundred and forty each, plus bills. Honestly, that is still cheaper than the hall.",
+      "M: True. But we need to be clear about the boring stuff before we sign anything. Who does what? W: I was thinking we split it down the middle. You cook, I clean. M: That sounds fair in theory, but I know how it will go. I will cook every night, and you will clean once a week and then say you are tired.",
+      "W: That is not... okay, that is slightly fair. What do you suggest? M: Let us write a list. Cooking on weekdays, cooking at weekends, dishes, bathroom, floors and the shopping. Six jobs. We take three each, and we swap every month, so nobody is stuck with the bathroom forever.",
+      "W: I like the swap idea. Can I have the shopping? I actually enjoy it. M: Fine, but that means you also take the floors. And we need a rule for guests. W: No guests after eleven on weeknights. And whoever invites them does the extra cleaning.",
+      "M: Deal. I will write it up and send it to you tonight, and we can both sign it before we pay the deposit. W: Good. And let us keep the list on the fridge, so we cannot pretend we forgot."
+    ],
+    "第16-18题": [
+      "Most people prepare for an interview by reading about the company. That is useful, but it is only half the work. The other half is preparing the evidence you will need to support your answers, and that takes longer than most candidates expect.",
+      "Start with three or four stories from your own experience: a project you finished, a problem you solved, a time you worked with difficult people. For each story, write down the situation, what you decided to do, and what happened in the end. Interviewers rarely remember a claim such as I am good with teams. They do remember a specific account of how you handled a disagreement, because it tells them what you would do next time.",
+      "Then practise saying those stories out loud. Reading them silently creates a false sense of readiness: the words feel familiar, but your mouth has never said them. Ten minutes of speaking to an empty room is worth an hour of reading. If you can, record yourself once and listen for the parts where you slow down or start again. Those are usually the places where your story is still unclear.",
+      "Finally, prepare two questions to ask at the end. Not about salary, and not about anything you could have found on the website. Ask what the team found difficult last year, or how success in the first six months would be judged. The questions you ask say as much about you as the answers you give."
+    ],
+    "第19-21题": [
+      "When people say they feel tired all day, they usually blame the amount of sleep they got. Researchers who study sleep habits point out that the timing matters just as much as the length. Going to bed at midnight on Monday and at three in the morning on Saturday gives you two very different nights, and the body treats them as such.",
+      "The body follows an internal clock that expects light, meals and activity at roughly the same hours each day. When those hours move, the clock has to reset, and the reset is not instant. A single late night can shift it by an hour or more, and it may take two or three days of regular hours to bring it back. During that time, people often report poor concentration in the morning and hunger at strange times, because the hormones that control appetite follow the same clock.",
+      "The practical advice is dull but effective. Choose a waking time you can keep seven days a week, and let your bedtime adjust around it. Get daylight within an hour of waking, ideally by going outside rather than sitting by a window. And keep the last hour before bed free of bright screens, not because the light is harmful in itself, but because it keeps the mind in the state it was in during the day."
+    ],
+    "第22-25题": [
+      "Shared bicycles appeared on the Northfield campus two years ago, and in the first month they were treated as a novelty. Students rode them to the station, left them wherever the ride ended, and by the end of the week bicycles were lying across doorways and blocking the ramps used by wheelchair users. The university then introduced a set of rules, and those rules are worth knowing before you unlock your first bicycle.",
+      "First, bicycles must be parked in one of the marked areas, which are painted white and can be found outside every teaching building and hall of residence. Leaving a bicycle outside a marked area carries a small charge, and repeated offences lead to the account being suspended for a month. Second, the bicycles are for campus use only. Riding one through the main gate and into the city is not allowed, though many students admit they have done it. Third, riders must be over sixteen, and helmets are strongly recommended but not required.",
+      "The most common complaint is not about parking but about maintenance. A bicycle with a broken brake should be reported through the app immediately, and the ride is then free. The company says it repairs reported bicycles within two working days. Last year, it says, the number of accidents on campus fell by a third after the rules came in, which is a result worth remembering the next time you are tempted to leave a bicycle in a doorway."
+    ]
+  },
+  "answers": {
+    "1": "B",
+    "2": "C",
+    "3": "B",
+    "4": "C",
+    "5": "A",
+    "6": "B",
+    "7": "A",
+    "8": "B",
+    "9": "A",
+    "10": "B",
+    "11": "A",
+    "12": "A",
+    "13": "C",
+    "14": "A",
+    "15": "A",
+    "16": "B",
+    "17": "B",
+    "18": "C",
+    "19": "A",
+    "20": "B",
+    "21": "B",
+    "22": "B",
+    "23": "B",
+    "24": "B",
+    "25": "A"
+  },
+  "exps": {
+    "1": "答案 B。新闻第一句说图书馆把开放时间延长到晚上十点，并把二楼的旧储藏室改成夜间自习区；A 项的搬迁、C 项的收费在原文中都没有出现。",
+    "2": "答案 C。原文说座位必须在网上预订，每次限三小时；只要有借书证就能进入，并不要求是在校全日制学生，D 项的日收费也不存在。",
+    "3": "答案 B。第二句说明材料主要由收割后剩下的谷秆纤维混合少量植物胶制成；A、C、D 三种原料原文均未提及。",
+    "4": "答案 C。指导老师说最难的不是让材料够结实，而是把成本降到能与普通塑料膜竞争；B 项正是他明确排除的那一项。",
+    "5": "答案 A。原文说从早上五点到下午四点，旧桥到北门之间的河滨路禁止车辆通行；B 项的七点半是比赛开始时间，不是封路时段。",
+    "6": "答案 B。原文说住在封闭区域内的居民可以领取车辆通行证，但必须在周五之前到社区办公室领取；D 项的当天网上申请与原文相反。",
+    "7": "答案 A。最后一句建议司机改走环路，并在周日多预留三十分钟；B、C 两项只是把文中出现的地点与公交临时改线错当成了建议。",
+    "8": "答案 B。Mia 一开口就说明自己是为下学期的选课计划而来（trying to work out my course plan），学分只是随后的话题；A 项是教授自己的猜测，当场被她否定。",
+    "9": "答案 A。她说自己已修满 62 学分，毕业要求 120 学分，所以还差 58 学分；B 项的 62 是已修学分，C 项的 120 是毕业总要求。",
+    "10": "答案 B。教授说写作课每学期都开，统计课只在秋季开，所以要先修统计；A、D 两项关于难易的说法在原文中找不到依据。",
+    "11": "答案 A。教授说语言学导论是后面两门课的先修课，这也是他建议她选这门课的理由；他还说第二周退课不受处罚，C 项与原文相反。",
+    "12": "答案 A。女生说房东把月租从 450 涨到了 480；B 项账单要另付，C 项原文说的是比宿舍便宜而不是比预期便宜，D 项未提及。",
+    "13": "答案 C。男生担心真住到一起会变成他天天做饭、对方一周只打扫一次，也就是家务分不公平；A、B、D 三项在对话中都没有出现。",
+    "14": "答案 A。两人把家务列成六项，各认领三项，并且每月互换一次；B 项请人打扫、C 项由女生包下做饭都与他们的约定不符。",
+    "15": "答案 A。他们约定工作日晚上十一点以后不留客人，并且谁请来的客人谁负责额外打扫；B 项说周末一律不许客人，与原文相反。",
+    "16": "答案 B。讲话者说读公司资料只是一半，另一半是准备能支撑回答的具体事例，而这恰恰是多数考生忽略的；A 项是他们已经在做的事。",
+    "17": "答案 B。原文说录一次音，留意自己在哪里放慢或重新开口，那些地方通常说明故事还没讲清楚；A、C 两项不是录音的目的，D 项更无从谈起。",
+    "18": "答案 C。最后一段建议问团队去年遇到了什么困难，或者前六个月的成功如何衡量；A、B 两项正是他明确排除的问题。",
+    "19": "答案 A。开头说研究者指出睡眠的时间点与睡眠长度同样重要；B、C、D 三项都是原文没有提到的因素。",
+    "20": "答案 B。原文说生物钟被推后时，人们常在早上注意力差、在奇怪的时间感到饥饿；A 项“需要更少睡眠”在原文中没有任何依据。",
+    "21": "答案 B。讲话者说睡前避开亮屏不是因为光线本身有害，而是因为它让大脑停留在白天的状态；A 项的伤眼说法被他明确否定了。",
+    "22": "答案 B。第二段说第一周就有自行车横在门口、堵住轮椅坡道，学校因此出台规定；A、C 两项原文没有提到，D 项是规定出台之后才被禁止的行为。",
+    "23": "答案 B。原文说多次违规会导致账号被停用一个月；A 项的押金、C 项的周末禁骑、D 项的通报院系都是编造的。",
+    "24": "答案 B。原文说刹车坏了的车应立刻通过应用报修，这一程免费；D 项自费修理与原文相反，C 项也没有要求把车送到公司。",
+    "25": "答案 A。最后一句说规定实施后校园事故减少了三分之一；B 项把报修的原因当成了事故原因，C、D 两项的数字与地点都是编造的。"
+  }
+}

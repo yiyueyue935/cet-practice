@@ -1,0 +1,355 @@
+{
+  "schema": "cet-bank/1",
+  "meta": {
+    "level": "cet4",
+    "year": 2026,
+    "month": 1,
+    "set": 2,
+    "title": "原创模拟 四级 第2套",
+    "source": "原创模拟题（本项目作者撰写，非真题）",
+    "mock": true
+  },
+  "reading": [
+    {
+      "key": "A",
+      "type": "banked_cloze",
+      "name": "Section A 选词填空",
+      "short": "选词填空",
+      "instructions": "从 15 个单词中为每个空选一个，每词只用一次。",
+      "passage": "Every June, something strange happens on campus. Students who arrived four years ago with two suitcases now own desks, lamps, kettles and piles of books, and most of it cannot [[26]] home with them. The campus flea market has become the answer. For one Saturday the square outside the library turns into a small town of blankets, cardboard signs and good-humoured bargaining.\n\nThe [[27]] is easy to see. A desk lamp bought for eighty yuan sells for fifteen, and a textbook that cost sixty changes hands for ten. Buyers save money, and sellers recover part of what they [[28]] in the first place. Nothing is thrown away, so the amount of waste leaving the campus [[29]] sharply each summer.\n\nOnline resale has made the same idea far more [[30]]. A student can photograph a bicycle at noon and hand it to a stranger by evening. Second-hand trading groups now have thousands of [[31]], and new posts appear at almost every hour.\n\nNot everything runs smoothly. A few sellers hide damage, and a few buyers [[32]] about a scratch that was never mentioned in the post. Many groups now ask members to provide proof of [[33]] before a post is approved, and to describe faults honestly. Trust, therefore, has to be built [[34]], one small honest deal at a time.\n\nThe deeper change is in attitude. Owning something new is no longer the only [[35]] of success. Students increasingly treat used goods as normal rather than shameful, and that shift may matter more than the money involved.",
+      "word_options": [
+        { "k": "A", "t": "appeal" },
+        { "k": "B", "t": "convenient" },
+        { "k": "C", "t": "charge" },
+        { "k": "D", "t": "complain" },
+        { "k": "E", "t": "falls" },
+        { "k": "F", "t": "gradually" },
+        { "k": "G", "t": "identity" },
+        { "k": "H", "t": "measure" },
+        { "k": "I", "t": "members" },
+        { "k": "J", "t": "ordinary" },
+        { "k": "K", "t": "paid" },
+        { "k": "L", "t": "private" },
+        { "k": "M", "t": "rarely" },
+        { "k": "N", "t": "travel" },
+        { "k": "O", "t": "urgent" }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "answer": "N",
+          "explanation": "答案 N) travel。第 1 段第 2 句，主语 most of it 指家具和书，cannot 后须接动词原形，travel home with them 表示「随人一起运回家」；C) charge 表「要价」，不能与 home 构成此义，K) paid 是过去式，放在 cannot 后不合语法。"
+        },
+        {
+          "n": 27,
+          "answer": "A",
+          "explanation": "答案 A) appeal。第 2 段首句 The ___ is easy to see 需要名词作主语；下文用台灯、课本的差价说明跳蚤市场「吸引力」何在，appeal 正好；H) measure 要与 of success 搭配才成立，此处讲不通。"
+        },
+        {
+          "n": 28,
+          "answer": "K",
+          "explanation": "答案 K) paid。第 2 段第 3 句 what they ___ in the first place，sellers 是当初掏钱的一方，recover part of what they paid 意为「收回当初花掉的一部分」；C) charge 指卖方要价，与 recover 的方向相反。"
+        },
+        {
+          "n": 29,
+          "answer": "E",
+          "explanation": "答案 E) falls。第 2 段末句主语 the amount of waste 为单数，each summer 表明一般现在时，故用第三人称单数 falls；D) complain 的主语须是人，I) members 是名词，都不能充当谓语。"
+        },
+        {
+          "n": 30,
+          "answer": "B",
+          "explanation": "答案 B) convenient。第 3 段首句 far more 后需形容词，下文说中午拍照、傍晚交货，强调「方便」；J) ordinary 与 far more 连用后语义与上下文相反，O) urgent 与这种从容的交易节奏不符。"
+        },
+        {
+          "n": 31,
+          "answer": "I",
+          "explanation": "答案 I) members。第 3 段第 3 句 thousands of 后接可数名词复数，后文 new posts 也说明群里聚集的是「成员」；G) identity 是抽象不可数用法，与 thousands of 不搭配。"
+        },
+        {
+          "n": 32,
+          "answer": "D",
+          "explanation": "答案 D) complain。第 4 段第 2 句主语 a few buyers 为复数，about 后接抱怨的内容，complain about 是固定搭配；E) falls 为第三人称单数，与复数主语不一致。"
+        },
+        {
+          "n": 33,
+          "answer": "G",
+          "explanation": "答案 G) identity。第 4 段第 3 句 provide proof of ___，proof of identity 意为「身份证明」，与 before a post is approved 的审核语境吻合；H) measure 与 proof of 无法构成搭配。"
+        },
+        {
+          "n": 34,
+          "answer": "F",
+          "explanation": "答案 F) gradually。第 4 段末句 has to be built ___，后置的 one small honest deal at a time 说明信任是「逐步」积累的，需副词；M) rarely 与「一笔笔小交易」的持续过程自相矛盾。"
+        },
+        {
+          "n": 35,
+          "answer": "H",
+          "explanation": "答案 H) measure。第 5 段第 2 句 the only ___ of success，measure of success 意为「衡量成功的标准」，与 no longer 的转折呼应；C) charge 是动词，不能作 of success 的中心名词。"
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "type": "paragraph_matching",
+      "name": "Section B 段落匹配",
+      "short": "段落匹配",
+      "instructions": "为每句话找到对应的段落字母，段落可重复使用。",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Ask a first-year student what volunteering means and the answer is usually narrow: helping at a charity shop, perhaps, or collecting money in the street. The reality on most campuses is much broader. Students run homework clubs, monitor air quality, guide visitors at museums, coach children's teams and sit with patients in hospital wards. Some roles last a whole term, others a single afternoon. What they share is that nobody is paid for the time. Because the options are so varied, the hardest part for a newcomer is often not commitment but choosing where to begin."
+        },
+        {
+          "label": "B",
+          "text": "The largest single category is academic support. Every weekday afternoon, groups of students walk to primary schools in the neighbourhood and sit with children who need help with reading or arithmetic. The work is repetitive. A volunteer may spend an hour on the same three multiplication facts. Yet teachers say that the steady presence of the same faces matters more than any single lesson, because children who expect someone to arrive tend to arrive themselves. Volunteers are asked to commit to a full term, and those who disappear after a fortnight often do more harm than good."
+        },
+        {
+          "label": "C",
+          "text": "Environmental projects attract students who prefer to see a result at the end of the day. On Saturday mornings, teams work along the river that runs behind the science buildings, pulling out bottles and plastic bags. Others audit the rubbish produced by each canteen and publish the weights on a board, which has cut food waste by a surprising amount. Planting is popular in spring, though the trees need watering for years afterwards, so the groups that survive are the ones that plan beyond the photographs. Newcomers often underestimate this second stage."
+        },
+        {
+          "label": "D",
+          "text": "Hospital work is the least visible and the most demanding. Before a student is allowed onto a ward, they spend two evenings learning how to move a patient safely, what to say when someone is frightened, and when to call a nurse. The task itself looks simple: reading aloud, playing cards, listening. What makes it difficult is that patients do not always get better. Supervisors warn newcomers to expect this, and to talk it over with the group afterwards rather than carry it alone. The training is repeated each term, because students graduate and new ones arrive."
+        },
+        {
+          "label": "E",
+          "text": "Large public events offer a different kind of service. When the city holds its autumn marathon, several hundred students spend a long day checking numbers, handing out water and directing runners who have lost their way. The shifts start before dawn and the streets are cold, but the atmosphere keeps people coming back. Students with a second language are placed at information points, where runners from abroad ask about transport and medical tents. Organisers value reliability above enthusiasm: a volunteer who arrives late leaves a gap that nobody can fill, and they keep a list of those who came back the following year."
+        },
+        {
+          "label": "F",
+          "text": "Employers increasingly ask about volunteering, and students often mention it in interviews. The skills involved are real: organising a rota for thirty people, persuading a shop to donate fruit, explaining a complicated form to someone who cannot read it well. Yet surveys of participants suggest that very few began with a CV in mind. The benefits arrive as a by-product. Those who join mainly to decorate an application tend to leave within a month, while those who stay speak about the people they met rather than the skills they gained."
+        },
+        {
+          "label": "G",
+          "text": "How do students start? Rarely through a careers fair. Most say a friend took them along once, or a teacher mentioned a project in class, or they were simply curious about a building they passed every day. The first visit is usually awkward. What keeps them is smaller and more specific: a child who finally reads a whole page, a patient who remembers their name, a runner who says thank you in broken Chinese. Motivation that begins as an accident often proves more durable than motivation that begins as a duty."
+        },
+        {
+          "label": "H",
+          "text": "The commonest reason students give up is time. A single Saturday sounds generous until three essays fall due in the same week. Experienced coordinators therefore prefer short, fixed shifts to occasional heroic ones: two hours every Tuesday is easier to protect than a whole day once a month, and it is easier for the people being helped to rely on. Volunteers are also taught to say no in advance rather than disappear, because a cancelled session costs the organiser far more than a refused one."
+        },
+        {
+          "label": "I",
+          "text": "Universities like to reward service with certificates, credits and annual awards. These can be useful, especially where a scholarship requires evidence of activity. But coordinators notice a pattern: when a prize is announced, applications rise and then fall away once the prize has been given. Students who stay describe a different reward, harder to put on paper, such as the moment a shy child volunteers an answer in class. The general advice is to treat recognition as a receipt, not as a reason."
+        },
+        {
+          "label": "J",
+          "text": "What happens afterwards is rarely measured. A follow-up survey of graduates found that a third were still involved in some form of service ten years later, often in the same field they had entered by accident as students. Two described changing their degrees after a term on a hospital ward. The wider effect is quieter: neighbourhoods that have hosted students for years tend to trust the university more, and that trust is difficult to build by any other means. Employers in those neighbourhoods now expect students to turn up, which was not true a generation ago."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "Some roles require special preparation before a student is allowed to meet the people they serve.",
+          "answer": "D",
+          "explanation": "答案 D 段。该段第 2 句说学生进入病房前要先花两个晚上学习如何安全移动病人、如何应对恐惧，正是「服务前须专门培训」；F 段谈的是服务之后的技能收获，时间顺序相反。"
+        },
+        {
+          "n": 37,
+          "stem": "Certain projects produce results that can be counted, such as the weight of rubbish removed.",
+          "answer": "C",
+          "explanation": "答案 C 段。该段第 3 句提到把各食堂产生的垃圾称重并把数字公布在板上，食物浪费因此下降，对应「可量化的成果」；A 段只泛谈项目种类多，没有给出任何数据。"
+        },
+        {
+          "n": 38,
+          "stem": "Events sometimes need students who can communicate with participants from other countries.",
+          "answer": "E",
+          "explanation": "答案 E 段。该段第 3 句说掌握第二语言的学生被安排在咨询点，为外国跑者解答交通和医疗点的问题，对应「与其他国家的参与者沟通」；B 段的服务对象是本地小学生。"
+        },
+        {
+          "n": 39,
+          "stem": "Fitting service around coursework works better with short, fixed slots than with occasional long days.",
+          "answer": "H",
+          "explanation": "答案 H 段。该段第 2 句直接作比较：每周二两小时比每月一整天更容易守住，也更容易让受助方依赖，即「固定短时段优于偶尔长时段」；G 段讲的是如何开始，不是如何安排时间。"
+        },
+        {
+          "n": 40,
+          "stem": "The abilities developed through service are valued by employers, though they are rarely the reason students begin.",
+          "answer": "F",
+          "explanation": "答案 F 段。该段第 1、2 句承认雇主看重这些能力，第 3 句随即说很少有人是抱着简历的目的开始的，与题干「被雇主看重但很少是起点」完全对应；I 段讲的是学校颁发的证书和奖项，不是雇主。"
+        },
+        {
+          "n": 41,
+          "stem": "Rewards offered by institutions can weaken the spirit of the work if they become the goal.",
+          "answer": "I",
+          "explanation": "答案 I 段。该段第 3 句说奖项一公布申请量就上升、发完奖又回落，末句建议把认可当成「收据而不是理由」，即外部奖励会侵蚀初衷；F 段提到的 CV 是学生自己的动机，不是机构给的奖励。"
+        },
+        {
+          "n": 42,
+          "stem": "The most useful help is often steady and unexciting rather than dramatic.",
+          "answer": "B",
+          "explanation": "答案 B 段。该段第 3、4 句说工作重复，一小时可能只讲三个乘法口诀，但老师认为「固定的面孔比任何一节课都重要」，对应「平淡而持续的帮助最有用」；C 段强调的是当天就能看到成果，方向相反。"
+        },
+        {
+          "n": 43,
+          "stem": "Many students are drawn in by a friend or a single conversation rather than by a plan.",
+          "answer": "G",
+          "explanation": "答案 G 段。该段第 2 句列举朋友带去一次、老师在课上提到、单纯出于好奇，末句说「始于偶然的动机往往更持久」，对应「被朋友或一次谈话带入而非计划」；F 段说的是留在原地的原因，不是加入的原因。"
+        },
+        {
+          "n": 44,
+          "stem": "The effects of service can outlast university and reshape career choices.",
+          "answer": "J",
+          "explanation": "答案 J 段。该段第 2、3 句说十年后仍有三分之一在做某种服务，还有人因此改了专业，对应「影响延续到毕业之后并改变职业选择」；F 段讲的是求职时的加分，时间范围限于在校期间。"
+        },
+        {
+          "n": 45,
+          "stem": "The range of available roles is wider than most newcomers expect.",
+          "answer": "A",
+          "explanation": "答案 A 段。该段第 2、3 句列举作业辅导、空气监测、博物馆引导、医院陪护等，并说新生对志愿服务的理解通常很窄，对应「可选角色比新手以为的多」；E 段只讲赛事服务这一种形式。"
+        }
+      ]
+    },
+    {
+      "key": "C1",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage One）",
+      "short": "仔细阅读一",
+      "instructions": "",
+      "passage": "It is nine in the evening and the essay is due at noon tomorrow. The student has opened the document four times. Each time she has remembered that the desk needs tidying, that a friend should be answered, that a documentary about volcanoes would take only forty minutes. Psychologists who study this behaviour do not call it laziness. They define procrastination as the voluntary delay of an intended course of action, despite expecting that the delay will leave you worse off. The word voluntary matters: the student is not unable to write, she is choosing not to begin.\n\nThe reasons are better documented than most students expect. The first is what researchers call task aversiveness: the work feels boring, difficult or embarrassing, and the mind moves away from it as a hand moves away from a hot pan. The second is fear. When a piece of work is likely to be judged, not starting protects a private belief that one could do it well if one really tried. The third is a simple error of arithmetic. People consistently underestimate how long tasks take, so a plan that looks reasonable on Monday is already impossible by Thursday. The fourth is the environment itself, where a phone offers relief within two seconds.\n\nWhat makes the habit so stubborn is the reward that arrives immediately. Putting the essay aside produces real relief, and relief is a powerful teacher. The brain learns that escape works, and the next evening the escape comes faster. The cost is paid later, in the form of guilt, rushed work and a private conviction that one is unreliable. Because the punishment is delayed, it teaches almost nothing.\n\nTreatment, fortunately, is practical rather than moral. Counsellors rarely begin by asking students to want the task. They ask them to make the first step absurdly small: open the file, write one sentence, set a timer for ten minutes. They also recommend deciding in advance, in a sentence such as 'when I sit down after breakfast, I will read the first page', because a decision made in a calm moment survives better than one made at the moment of temptation. Removing the phone from the room works better than resolving to ignore it.\n\nNone of this turns a difficult evening into an easy one. But it does suggest that the problem is not a defect of character. Procrastination is a way of managing a bad mood, and like any habit it can be replaced by a better one. Students who succeed are not those who never feel the pull of the volcano documentary; they are those who have arranged their day so that beginning takes less courage than avoiding.",
+      "questions": [
+        {
+          "n": 46,
+          "stem": "According to paragraph 1, what distinguishes procrastination from simple laziness?",
+          "options": {
+            "A": "It involves choosing to delay even when the delay is harmful.",
+            "B": "It appears mainly when a deadline is very close.",
+            "C": "It is caused by an inability to concentrate on work.",
+            "D": "It affects students more seriously than other groups."
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 1 段第 4、5 句把拖延定义为「自愿推迟既定行动，且明知推迟会让自己更糟」，并强调 voluntary 一词，可见关键在于「自己选择」；C 项说无法集中注意力，与末句 she is not unable to write 直接冲突。"
+        },
+        {
+          "n": 47,
+          "stem": "What does the author mean by 'a simple error of arithmetic' in paragraph 2?",
+          "options": {
+            "A": "Students cannot work out their grades correctly.",
+            "B": "Students underestimate how much time a task will need.",
+            "C": "Students spend too long on the easiest part of a task.",
+            "D": "Students plan their week without looking at a calendar."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 4 句把第三种原因称作 simple error of arithmetic，紧接着解释人们总是低估任务所需的时间，故 B 项；A 项谈的是算成绩，原文说的是算时间，属偷换对象。"
+        },
+        {
+          "n": 48,
+          "stem": "In paragraph 2, the word 'aversiveness' most probably means ______.",
+          "options": {
+            "A": "the quality of being unpleasant",
+            "B": "the state of being urgent",
+            "C": "the lack of clear instructions",
+            "D": "the fear of being judged"
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 2 段第 2 句用 boring, difficult or embarrassing 解释 task aversiveness，并以手躲开热锅作比，可见指「令人不适」；D 项是紧随其后的第二种原因 fear，属张冠李戴。"
+        },
+        {
+          "n": 49,
+          "stem": "Why does the author say that the punishment 'teaches almost nothing'?",
+          "options": {
+            "A": "Because students already know what the consequences will be.",
+            "B": "Because guilt is a weaker emotion than relief.",
+            "C": "Because it comes too late to be linked to the choice that caused it.",
+            "D": "Because teachers seldom punish work that is handed in late."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 3 段末两句说代价（内疚、赶工）要等到以后才付，因为惩罚被延迟，所以几乎起不到教训作用，C 项正是此意；B 项把两种情绪比强弱，原文并未作此比较。"
+        },
+        {
+          "n": 50,
+          "stem": "What is the author's main point about procrastination?",
+          "options": {
+            "A": "It reflects a fixed weakness in the student's character.",
+            "B": "It should be dealt with mainly by raising motivation.",
+            "C": "It is a way of handling mood that practice can replace.",
+            "D": "It disappears once a student organises deadlines properly."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 5 段第 2、3 句说问题不是性格缺陷，拖延是「管理坏情绪的方式」，可以像习惯一样被替换，故 C 项；B 项与第 4 段「咨询师并不先要求学生喜欢这项任务」相反。"
+        }
+      ]
+    },
+    {
+      "key": "C2",
+      "type": "careful_reading",
+      "name": "Section C 仔细阅读（Passage Two）",
+      "short": "仔细阅读二",
+      "instructions": "",
+      "passage": "From the street it looks like any other office block: twelve floors of glass, a car park, a row of tired trees. Twelve floors up, the roof has been covered with shallow wooden boxes, and the boxes are full of tomatoes, beans and lavender. The garden is tended by employees on their lunch breaks and by a retired teacher from the block behind. Rooftop farming is spreading where ground is expensive, and researchers have begun to measure what it does.\n\nThe environmental case is stronger than the romantic photographs suggest. A conventional roof sends rainwater into the drains as quickly as possible; in a heavy storm, thousands of such roofs can overwhelm the system. Soil and plants hold part of that water and release it slowly, so a green roof behaves like a small, patient sponge. The plants also shade the surface beneath them and release water vapour, which can lower the temperature of the roof by several degrees and reduce the demand for air conditioning in the rooms below. The effect on the wider city is smaller but real: a cluster of green roofs can soften the urban heat island that sits over dense districts on summer nights.\n\nThe benefits that residents notice first are not ecological. Office workers who spend an hour a week among the boxes return to their screens calmer, and studies of attention suggest why: natural scenes let the mind rest in a way a corridor does not. For older residents the garden is a reason to leave the flat and a place to be useful. One woman who grew up on a farm now teaches neighbours when to pick the beans. People who had shared a wall for a decade learned each other's names over a watering can.\n\nNone of this is free. A roof must be strong enough to carry wet soil, which weighs far more than gravel, and the waterproof layer must be perfect, or leaks appear three floors down. Water must be carried up or pumped, and someone must be responsible in August when the office empties. Cost is the reason such gardens cluster in wealthier districts and in buildings with a facilities manager. A rooftop garden is also not a park: it serves one building, and it cannot replace the open ground a neighbourhood needs.\n\nThe honest conclusion is modest. A few hundred square metres of soil will not cool a city or feed it. But the gains are real, measurable and local, and they take no land that could be used for housing. Cities that want them should treat them as infrastructure rather than decoration: offer advice on weight and waterproofing, and keep the paperwork simple.",
+      "questions": [
+        {
+          "n": 51,
+          "stem": "What is the main environmental function of the soil and plants described in paragraph 2?",
+          "options": {
+            "A": "They filter pollution from the air inside the building.",
+            "B": "They slow the flow of rainwater into the drainage system.",
+            "C": "They increase the amount of water available to the city.",
+            "D": "They protect the roof from damage caused by strong winds."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 2 段第 2、3 句说普通屋顶的设计是尽快把雨水排入下水道，暴雨时会压垮系统，而土壤和植物「像一块有耐心的海绵」把水留住再慢慢释放，故 B 项；C 项说增加城市可用水量，原文强调的是减缓排放。"
+        },
+        {
+          "n": 52,
+          "stem": "According to paragraph 2, how do green roofs reduce the need for air conditioning?",
+          "options": {
+            "A": "By blocking sunlight from entering the windows.",
+            "B": "By producing cool air that flows into the rooms.",
+            "C": "By shading the roof and releasing water vapour.",
+            "D": "By reducing the number of people using the building."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 2 段第 4 句给出两条途径：plants shade the surface beneath them 与 release water vapour，从而降低屋顶温度、减少楼下房间的空调需求；A 项说遮挡窗户，把遮阴对象偷换成了窗户。"
+        },
+        {
+          "n": 53,
+          "stem": "What can be inferred about the social effects of the garden in paragraph 3?",
+          "options": {
+            "A": "It mainly benefits people who already knew one another.",
+            "B": "It brings together people who were previously strangers.",
+            "C": "It matters more to older residents than to office workers.",
+            "D": "It has taken the place of other forms of neighbourly contact."
+          },
+          "answer": "B",
+          "explanation": "答案 B。第 3 段末两句说共用一堵墙十年的邻居在浇水壶旁才互通姓名，农场长大的老太太教年轻人何时摘豆，可见花园让原本陌生的人产生交往；A 项与「此前互不相识」正好相反。"
+        },
+        {
+          "n": 54,
+          "stem": "The word 'modest' in paragraph 5 is closest in meaning to ______.",
+          "options": {
+            "A": "limited in scale",
+            "B": "difficult to prove",
+            "C": "likely to fail",
+            "D": "expensive to maintain"
+          },
+          "answer": "A",
+          "explanation": "答案 A。第 5 段首句 The honest conclusion is modest，紧接着说几百平方米的土既不能让城市降温也养不活城市，可见 modest 指「规模有限、期望不宜过高」；D 项把 modest 误解为花钱多，与后文 gains are real 的正面评价不符。"
+        },
+        {
+          "n": 55,
+          "stem": "What is the author's attitude towards rooftop gardens?",
+          "options": {
+            "A": "They offer a promising answer to the housing shortage.",
+            "B": "They are decorative projects with little practical value.",
+            "C": "They bring genuine local benefits but need official support.",
+            "D": "They should replace parks in densely built districts."
+          },
+          "answer": "C",
+          "explanation": "答案 C。第 5 段承认收益 real, measurable and local，又主张城市应把它们当作基础设施、在承重与防水上给建议并简化手续，故 C 项；D 项与第 4 段末句 cannot replace the open ground 直接矛盾。"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "directions": "Directions: For this part, you are allowed 30 minutes to write an essay on the advantages and disadvantages of using mobile phones in class. You should write at least 120 words but no more than 180 words.",
+    "prompt_cn": "以「课堂上使用手机的利与弊」为题写一篇短文，先谈好处，再谈弊端，最后给出自己的看法，字数 120–180。",
+    "word_limit": 120,
+    "sample_essay": "Mobile phones are now part of student life, and their presence in class divides teachers. The advantages are easy to see. A phone offers an instant dictionary, a calculator and a photograph of the board, and it lets a shy student check a fact without interrupting the lesson. A quick search can turn a confusing term into a clear one.\n\nThe disadvantages are harder to ignore. A single notification pulls attention away for far longer than the few seconds it takes to read, so a student who replies to a message misses the explanation that follows. Games are more attractive than grammar, and the student at the back may be lost for the whole hour.\n\nIn my view, the answer is not a complete ban. Teachers can set clear moments when phones are allowed, such as a short research task, and ask for them to be face down at other times. Rules that students understand are followed more often than rules that are simply announced.",
+    "sample_essay_cn": "手机如今已是学生生活的一部分，它在课堂上的存在让老师们意见不一。好处显而易见：手机能当即时词典、计算器，也能拍下板书；害羞的学生不必打断讲课就能核实一个事实，一次快速搜索还能把含糊的术语变得清楚。\n\n弊端则更难忽视。一条通知夺走注意力的时间，远长于读它的那几秒钟，回消息的学生往往错过紧接着的讲解。游戏比语法更有吸引力，坐在后排的学生可能整节课都在走神。\n\n在我看来，答案并不是一律禁止。老师可以划定明确的时段允许使用手机，例如做一次简短的资料查找，其余时间则要求屏幕朝下放好。学生理解的规则，比单纯宣布的规则更容易被遵守。"
+  },
+  "translation": {
+    "source_cn": "中国高铁的发展速度在世界上少见。二十多年前，从北京到上海坐火车要十几个小时；如今同样路程只需四个多小时。高铁把许多中小城市连接起来，年轻人能在大城市工作，周末回家看望父母。车厢安静整洁，乘客用手机就能买票、查到站时间。高铁不只改变出行方式，也带动了沿线城市的旅游和商业。一些偏远县城通了高铁，开起民宿和餐馆，当地人收入明显增加。也有人觉得票价偏高，但多数旅客认为省下的时间更宝贵。",
+    "reference_en": "Few countries have developed high-speed rail as quickly as China. More than twenty years ago, a train journey from Beijing to Shanghai took over ten hours; today the same distance takes a little more than four. The network links many small and medium-sized cities, so young people can keep a job in a big city and still go home at weekends to see their parents. The carriages are quiet and clean, and passengers can buy tickets and check arrival times on their phones. High-speed rail has changed the way people travel, and it has also brought tourism and business to the cities along the lines. Some counties that were once remote now have guesthouses and restaurants, and local incomes have risen noticeably. A few travellers feel that tickets are expensive, but for most of them the hours saved are just as valuable.",
+    "vocab": [],
+    "reference_en_ok": true
+  }
+}
