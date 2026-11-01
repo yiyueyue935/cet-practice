@@ -3,7 +3,7 @@
   "version": "3.3.0",
   "private": true,
   "description": "过级 —— 四六级备考 PWA / APK：阅读刷题、听力、作文批改、翻译练习",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "serve": "node scripts/serve.js",
     "build": "node scripts/build_bundles.js",

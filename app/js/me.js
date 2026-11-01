@@ -70,16 +70,21 @@ var Me = {
 
     /* ---------- 数据 ---------- */
     html += '<div class="card"><div class="card-title">数据</div>' +
-      '<div class="hint" style="margin-top:6px">所有记录都在本机。换手机或清缓存前，先导出备份。</div>' +
+      '<div class="hint" style="margin-top:6px">所有记录都在本机，不上传。备份只含学习记录，' +
+      '<b>不含 AI 地址与密钥</b>。换手机或清缓存前，先做一次备份。</div>' +
       '<div class="row" style="gap:8px;margin-top:10px;flex-wrap:wrap">' +
-      '<button class="btn small ghost" onclick="Me.exportData()">导出备份</button>' +
+      '<button class="btn small dark" onclick="Me.exportData()">导出备份</button>' +
       '<button class="btn small ghost" onclick="document.getElementById(\'imp-file\').click()">导入备份</button>' +
-      '<input type="file" id="imp-file" accept="application/json,.json" style="display:none" onchange="Me.importData(this)">' +
-      '</div></div>';
+      '<button class="btn small ghost" onclick="Me.importPaste()">粘贴导入</button>' +
+      '</div>' +
+      '<button class="btn link" style="margin-top:6px" onclick="Me.copyBackupText()">复制备份文本（发到聊天窗口也能存）</button>' +
+      '<input type="file" id="imp-file" accept="application/json,.json,text/plain" style="display:none" onchange="Me.importData(this)">' +
+      '</div>';
 
     html += '<div class="card"><div class="card-title">关于</div>' +
       '<div class="hint" style="margin-top:6px">过级 · 四六级备考练习。仓库自带的题库是原创模拟题（非真题），按 <b>docs/BANK-FORMAT.md</b> 也可以放自己的套卷。<br>' +
-      '阅读题判分权重按四级/六级官方分值换算：选词填空 3.55/题，段落匹配 7.1/题，仔细阅读 14.2/题。</div>' +
+      '阅读题判分权重按四级/六级官方分值换算：选词填空 3.55/题，段落匹配 7.1/题，仔细阅读 14.2/题。<br>' +
+      '个人学习项目，与考试机构无关；仅供非商业使用，禁止售卖。题目与 AI 批改仅供参考，不保证与真实考试一致。</div>' +
       '<button class="btn link" style="margin-top:6px;color:var(--err)" onclick="Me.wipe()">清除本机全部数据</button>' +
       '</div>';
 
@@ -156,28 +161,116 @@ var Me = {
     AI.test().then(function (r) { msg.textContent = r.msg; });
   },
 
+  /* ---------- 备份：导出 ----------
+     三条路依次尝试：原生写文件+系统分享（APK）→ 浏览器下载 → 摊开文本让用户复制。
+     任何一条通了就算成功，不再出现「点了没反应」。 */
   exportData: function () {
-    var blob = new Blob([Store.exportJSON()], { type: 'application/json' });
-    var a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = 'guoji-backup-' + todayStr() + '.json';
-    a.click();
-    setTimeout(function () { URL.revokeObjectURL(a.href); }, 2000);
+    var text = Store.exportJSON();
+    var name = 'guoji-backup-' + todayStr() + '.json';
+    var self = this;
+    var cap = (window.Capacitor && window.Capacitor.Plugins) || {};
+    var native = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
+
+    /* 原生（APK）：WebView 不支持 a[download]，必须走文件系统 + 系统分享 */
+    if (native) {
+      if (!cap.Filesystem || !cap.Share) { this.exportFallback(text, name); return; }
+      cap.Filesystem.writeFile({ path: name, data: text, directory: 'DOCUMENTS', encoding: 'utf8', recursive: true })
+        .then(function () { return cap.Filesystem.getUri({ path: name, directory: 'DOCUMENTS' }); })
+        .then(function (u) {
+          return cap.Share.share({ title: name, url: u.uri, dialogTitle: '保存或发送备份文件' });
+        })
+        .then(function () { UI.toast('已导出 ' + name, 2600); })
+        .catch(function (e) { self.exportFallback(text, name, e); });
+      return;
+    }
+
+    try {
+      var blob = new Blob([text], { type: 'application/json' });
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = name;
+      a.style.display = 'none';
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(function () {
+        URL.revokeObjectURL(a.href);
+        if (a.parentNode) a.parentNode.removeChild(a);
+      }, 3000);
+      UI.toast('已导出 ' + name + '，看浏览器的下载列表', 3000);
+    } catch (e) {
+      this.exportFallback(text, name, e);
+    }
   },
 
+  /* 兜底：把备份摊成一段文本，能复制就能存下来 */
+  exportFallback: function (text, name, err) {
+    var why = err ? ('自动保存没成功（' + esc(String(err.message || err)) + '）。')
+      : '当前环境不支持直接下载文件。';
+    UI.sheet('<h3>备份文本</h3>' +
+      '<div class="hint" style="margin-bottom:8px">' + why +
+      '点「复制」后粘贴到备忘录、聊天窗口或文件里保存即可。</div>' +
+      '<textarea class="textarea" id="backup-text" readonly style="height:180px;font-size:12px">' + esc(text) + '</textarea>' +
+      '<div class="row" style="gap:8px;margin-top:10px">' +
+      '<button class="btn small ghost" onclick="Me.copyBackup()">复制</button>' +
+      '<button class="btn small dark" onclick="UI.closeSheet()">关闭</button></div>');
+  },
+
+  copyBackupText: function () {
+    this.exportFallback(Store.exportJSON(), 'guoji-backup-' + todayStr() + '.json');
+  },
+
+  copyBackup: function () {
+    var el = document.getElementById('backup-text');
+    if (!el) return;
+    var manual = function () { el.focus(); el.select(); UI.toast('已全选，长按复制', 2600); };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(el.value).then(function () { UI.toast('已复制'); }).catch(manual);
+      return;
+    }
+    try { el.select(); if (document.execCommand('copy')) UI.toast('已复制'); else manual(); }
+    catch (e) { manual(); }
+  },
+
+  /* ---------- 备份：导入 ---------- */
   importData: function (input) {
     var f = input.files && input.files[0];
     if (!f) return;
+    var self = this;
     var rd = new FileReader();
-    rd.onload = function () {
-      try {
-        Store.importJSON(String(rd.result));
-        UI.toast('导入成功');
-        Me.render();
-      } catch (e) { UI.toast('导入失败：' + e.message, 3000); }
-      input.value = '';
-    };
+    rd.onerror = function () { UI.toast('读不了这个文件', 2600); input.value = ''; };
+    rd.onload = function () { self.doImport(String(rd.result)); input.value = ''; };
     rd.readAsText(f, 'utf-8');
+  },
+
+  /* 文件选择器在某些 WebView 里不灵时的第二条路 */
+  importPaste: function () {
+    UI.sheet('<h3>粘贴备份</h3>' +
+      '<div class="hint" style="margin-bottom:8px">把备份 JSON 的全部内容粘到这里（以 { 开头）。</div>' +
+      '<textarea class="textarea" id="imp-text" placeholder="{\"app\":\"guoji\",…}" style="height:160px;font-size:12px"></textarea>' +
+      '<div class="row" style="gap:8px;margin-top:10px">' +
+      '<button class="btn small ghost" onclick="UI.closeSheet()">取消</button>' +
+      '<button class="btn small dark" onclick="Me.doImport(document.getElementById(\'imp-text\').value)">导入</button></div>');
+  },
+
+  doImport: function (text) {
+    var st = Store.stats();
+    var hasData = !!(st.questions || st.words || st.wrong || st.essays || st.trans);
+    if (hasData && !confirm('导入会覆盖本机现有的学习记录（进度 / 错题 / 生词 / 批改），继续？')) return;
+    try {
+      var n = Store.importJSON(text);
+      UI.closeSheet();
+      UI.level = Store.settings().level || UI.level;
+      var parts = [];
+      if (n.progress) parts.push('进度 ' + n.progress + ' 套');
+      if (n.words) parts.push('生词 ' + n.words);
+      if (n.wrong) parts.push('错题 ' + n.wrong);
+      if (n.essays) parts.push('作文 ' + n.essays + ' 篇');
+      if (n.trans) parts.push('翻译 ' + n.trans + ' 篇');
+      UI.toast('已导入：' + (parts.join(' · ') || '无记录'), 3200);
+      this.render();
+    } catch (e) {
+      UI.toast('导入失败：' + e.message, 3200);
+    }
   },
 
   wipe: function () {

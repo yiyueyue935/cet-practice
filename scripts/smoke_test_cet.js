@@ -621,9 +621,34 @@ SET.reading.forEach(sec => (sec.questions || []).forEach(q => { ANS[q.n] = q.ans
   assert(meTxt.indexOf('未配置') !== -1, 'AI 未配置状态');
   const dump = window.Store.exportJSON();
   assert(dump.indexOf(SID) !== -1, '导出包含进度');
+  assert(dump.indexOf('"app": "guoji"') !== -1 && dump.indexOf('"v": 2') !== -1, '导出带 app 标识与版本号');
   const before = window.Store.stats().words;
-  window.Store.importJSON(dump);
+  const impN = window.Store.importJSON(dump);
   assert(window.Store.stats().words === before, '导入幂等');
+  assert(impN && impN.words === before && impN.progress > 0, '导入返回各项条数');
+
+  /* 备份绝不能带出 AI 地址与密钥 */
+  const aiBak = window.localStorage.getItem(window.Store.AI);
+  window.Store._set(window.Store.AI, { base: 'https://secret.example/v1', key: 'sk-should-never-leak', model: 'm' });
+  const dump2 = window.Store.exportJSON();
+  assert(dump2.indexOf('sk-should-never-leak') === -1 && dump2.indexOf('secret.example') === -1, '备份不含 AI 地址与密钥');
+  if (aiBak == null) window.localStorage.removeItem(window.Store.AI);
+  else window.localStorage.setItem(window.Store.AI, aiBak);
+
+  /* 坏备份要报错，且不能动现有数据 */
+  const wordsNow = window.Store.stats().words;
+  let badJson = false, badVer = false, badApp = false, badType = false;
+  try { window.Store.importJSON('not json'); } catch (e) { badJson = true; }
+  try { window.Store.importJSON('{"v":9}'); } catch (e) { badVer = true; }
+  try { window.Store.importJSON('{"app":"other","v":2,"words":{}}'); } catch (e) { badApp = true; }
+  try { window.Store.importJSON('{"v":2,"progress":[1,2,3]}'); } catch (e) { badType = true; }
+  assert(badJson && badVer && badApp && badType, '坏备份直接报错（非 JSON / 版本 / 非本应用 / 字段类型）');
+  assert(window.Store.stats().words === wordsNow, '导入失败不动现有数据');
+
+  /* 老版本（v1，没有 app 字段）仍能导入 */
+  window.Store.importJSON(JSON.stringify({ v: 1, words: { legacyword: { t: 'n. 旧词', cat: '测试', ts: 1 } } }));
+  assert(window.Store.wordHas('legacyword'), '兼容 v1 老备份');
+  window.Store.wordRemove('legacyword');
 
   console.log('\n== 清理与错误汇总 ==');
   const errCount = errors.length;

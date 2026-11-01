@@ -55,4 +55,4 @@ npm run build
 
 ## 许可
 
-提交即表示你同意以 MIT 协议授权你的贡献（见 `LICENSE`）。
+提交即表示你同意以本项目的协议（PolyForm Noncommercial 1.0.0，仅限非商业用途，见 `LICENSE`）授权你的贡献。

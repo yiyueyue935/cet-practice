@@ -1,6 +1,7 @@
 # 第三方资源与授权说明
 
-本项目源码以 MIT 协议发布（见 `LICENSE`）。以下是随仓库分发、但版权不属于本项目的部分。
+本项目源码以 **PolyForm Noncommercial License 1.0.0** 发布（见 `LICENSE`，仅限非商业用途）。
+以下是随仓库分发、但版权不属于本项目的部分，它们各自适用自己的协议。
 
 ---
 
@@ -51,7 +52,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 `app/data/exam/cet*-mock-*.json`、`app/data/listen/cet*-mock-*.json`、
 `app/data/exam/templates.js` 中的全部英文与中文文本（阅读文章、听力原文、题目、选项、
-解析、作文范文、参考译文、模板句式）均为本项目**原创撰写**，随 MIT 协议发布。
+解析、作文范文、参考译文、模板句式）均为本项目**原创撰写**，随本项目协议（PolyForm Noncommercial 1.0.0）发布。
 
 **仓库不包含任何四六级真题原文、官方范文、出版社解析或考试录音。**
 真题的著作权归全国大学英语四、六级考试委员会及其出版方所有，

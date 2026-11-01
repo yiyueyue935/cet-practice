@@ -154,10 +154,18 @@ var Store = {
     };
   },
 
+  /* ---------- 备份 ----------
+     只导出学习记录；AI 地址与密钥存在 Store.AI 里，永远不外带。
+     v2 比 v1 多了 app 标识与 note，导入仍兼容 v1。 */
+  BACKUP_APP: 'guoji',
+  BACKUP_VER: 2,
+
   exportJSON: function () {
     return JSON.stringify({
-      v: 1,
+      app: this.BACKUP_APP,
+      v: this.BACKUP_VER,
       exportedAt: new Date().toISOString(),
+      note: '只含本机学习记录，不含 AI 地址与密钥',
       settings: this.settings(),
       progress: this.progressAll(),
       wrong: this.wrongAll(),
@@ -166,15 +174,52 @@ var Store = {
       trans: this.transList()
     }, null, 2);
   },
+
+  /* 导入：先整体校验，全部通过才落盘，避免导到一半把现有数据弄坏。
+     返回各项条数，供界面提示。 */
   importJSON: function (text) {
-    var d = JSON.parse(text);
-    if (!d || d.v !== 1) throw new Error('文件格式不对');
-    if (d.settings) this._set(this.S, d.settings);
-    if (d.progress) this._set(this.P, d.progress);
-    if (d.wrong) this._set(this.W, d.wrong);
-    if (d.words) this._set(this.V, d.words);
-    if (d.essays) this._set(this.E, d.essays);
-    if (d.trans) this._set(this.T, d.trans);
+    var raw = String(text == null ? '' : text).replace(/^\uFEFF/, '').trim();
+    if (!raw) throw new Error('文件是空的');
+    var d;
+    try { d = JSON.parse(raw); } catch (e) { throw new Error('不是合法的 JSON 文件'); }
+    if (!d || typeof d !== 'object' || Array.isArray(d)) throw new Error('备份文件内容不对');
+    if (d.app && d.app !== this.BACKUP_APP) throw new Error('这不是「过级」的备份文件');
+    if (d.v !== 1 && d.v !== this.BACKUP_VER) throw new Error('备份版本不支持（v=' + d.v + '）');
+
+    var isObj = function (x) { return !!x && typeof x === 'object' && !Array.isArray(x); };
+    var isArr = function (x) { return Array.isArray(x); };
+    var plan = [];
+    var pick = function (key, field, test, name) {
+      var v = d[field];
+      if (v == null) return;
+      if (!test(v)) throw new Error('备份里的「' + name + '」格式不对');
+      plan.push([key, v]);
+    };
+    pick(this.P, 'progress', isObj, '进度');
+    pick(this.W, 'wrong', isObj, '错题');
+    pick(this.V, 'words', isObj, '生词');
+    pick(this.E, 'essays', isArr, '作文记录');
+    pick(this.T, 'trans', isArr, '翻译记录');
+    if (!plan.length) throw new Error('备份里没有任何学习记录');
+
+    /* 设置只回填已知字段，别把陌生字段写进来 */
+    if (isObj(d.settings)) {
+      var cur = this.settings();
+      if (d.settings.level === 'cet4' || d.settings.level === 'cet6') cur.level = d.settings.level;
+      if (typeof d.settings.scale === 'number') cur.scale = d.settings.scale;
+      this.saveSettings(cur);
+    }
+
+    var self = this;
+    plan.forEach(function (p) { self._set(p[0], p[1]); });
+
+    return {
+      progress: Object.keys(d.progress || {}).length,
+      wrong: Object.keys(d.wrong || {}).length,
+      words: Object.keys(d.words || {}).length,
+      essays: (d.essays || []).length,
+      trans: (d.trans || []).length
+    };
   },
 
   /* ---------- 阅读分值（四级/六级同权重） ----------

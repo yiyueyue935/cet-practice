@@ -1,4 +1,4 @@
-/* 生成词境 PWA 应用图标（PNG，无第三方依赖：手写 PNG 编码器 + 程序化绘制四角星） */
+/* 生成「过级」PWA 应用图标（PNG，无第三方依赖：手写 PNG 编码器 + 程序化绘制书本轮廓） */
 const fs = require('fs');
 const path = require('path');
 const zlib = require('zlib');
