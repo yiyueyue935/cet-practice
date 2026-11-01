@@ -71,15 +71,14 @@ var Exam = {
     var keepTop = keepScroll ? el.scrollTop : 0;
     var meta = set.meta || {};
     var secObj = this.section(this.sec) || {};
-    var title = this.drill
-      ? '阅读专项'
-      : (meta.level === 'cet6' ? '六级' : '四级') + ' ' + meta.year + '年' + meta.month + '月 第' + (meta.set || '?') + '套';
+    var setLabel = Bank.labelOf({ level: meta.level, mock: meta.mock, year: meta.year, month: meta.month, set: meta.set });
+    var title = this.drill ? '阅读专项' : setLabel;
     var backBtn = this.drill
       ? '<button class="iconbtn" onclick="UI.show(\'scr-drill\');Drill.render()">‹</button>'
       : '<button class="iconbtn" onclick="UI.backToPractice()">‹</button>';
 
     var html = UI.topbar(title, this.drill
-        ? ((secObj.name || '训练') + ' · ' + meta.year + '年' + meta.month + '月 第' + (meta.set || '?') + '套')
+        ? ((secObj.name || '训练') + ' · ' + setLabel)
         : ('阅读 · ' + this.sections().length + ' 节'),
       backBtn,
       '<button class="iconbtn" onclick="Exam.reviewAll()" title="查看已提交">✓</button>');
@@ -1022,7 +1021,7 @@ var Exam = {
         gotScore += Store.scoreOf(s.type, rec.right);
       }
     });
-    var html = UI.topbar('总成绩', Bank.labelOf({ level: this.set.meta.level, year: this.set.meta.year, month: this.set.meta.month, set: this.set.meta.set }),
+    var html = UI.topbar('总成绩', Bank.labelOf({ level: this.set.meta.level, mock: this.set.meta.mock, year: this.set.meta.year, month: this.set.meta.month, set: this.set.meta.set }),
       '<button class="iconbtn" onclick="UI.backToPractice()">‹</button>');
     html += '<div class="wrap"><div class="score-hero"><div class="big">' + gotScore.toFixed(1) + '<small> / ' + fullScore.toFixed(1) + ' 分</small></div>' +
       '<div class="line"><span>已做 ' + total + ' 题 · 答对 ' + right + '</span><span>正确率 ' + (total ? Math.round(right / total * 100) : 0) + '%</span></div></div>';

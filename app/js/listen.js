@@ -255,7 +255,8 @@ var Listen = {
       var nAns = Object.keys(a).length;
       var hasTra = !!(d.transcripts && Object.keys(d.transcripts).length);
       var hasAu = !!Listen.audioUrl(id);
-      var label = d.year + '年' + (d.month < 10 ? '0' + d.month : d.month) + '月 第' + d.set + '套';
+      var label = d.mock ? ('原创模拟 第' + d.set + '套')
+        : (d.year + '年' + (d.month < 10 ? '0' + d.month : d.month) + '月 第' + d.set + '套');
       var sub = '25 题 · 新闻/长对话/短文' + (hasAu ? ' · 内置录音' : ' · TTS 朗读') + (hasTra ? ' · 有原文' : '');
       html += '<div class="paper" onclick="Listen.open(\'' + id + '\')">' +
         '<div class="setno">' + (hasAu ? '🎧' : '听') + '</div>' +
